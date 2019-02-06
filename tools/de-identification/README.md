@@ -18,4 +18,4 @@ Contributions are listed in alphabetical order.
 
 ## Private Aggregation of Teacher Ensembles (PATE) 
 
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/models/tree/master/research/differential_privacy/pate)**
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research/pate_2018)**
