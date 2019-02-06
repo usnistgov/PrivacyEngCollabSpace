@@ -80,11 +80,11 @@ This platform is provided as a public service. Information, data, and software p
 
 ### De-Identification Moderators
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/joseph-near.jpg "Joseph Near")
+![Joseph Near](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/joseph-near.jpg)
 
 **Joseph Near | [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his BS in computer science from Indiana University, and his MS and PhD in computer science from MIT.
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/david-darais.jpg "David Darais")
+![David Darais](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/david-darais.jpg)
 
 **David Darais [@davdar]:** David Darais is an assistant professor of computer science at the University of Vermont. David's research focuses on software analysis and verification tools for critical and security-sensitive systems. David received a BS in computer science from University of Utah, an MS in computer science from Harvard University, and a PhD in computer science from University of Maryland.
 
