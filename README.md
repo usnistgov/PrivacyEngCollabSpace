@@ -90,7 +90,7 @@ This platform is provided as a public service. Information, data, and software p
 
 ### Privacy Risk Management Moderator
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/katie-boeckl.jpg "Katie Boeckl")
+![Katie Boeckl](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/katie-boeckl.jpg)
 
 **Katie Boeckl [@kboeckl]:** Katie Boeckl is a privacy risk strategist at NIST. As part of the Privacy Engineering Program, Katie develops privacy risk management guidance, collaborates on the development of international privacy standards, and works to advance tools for privacy engineering and risk management. Katie has a BA in English from the University of Maryland, College Park, where she specialized in technology through a digital cultures honors program.
 
