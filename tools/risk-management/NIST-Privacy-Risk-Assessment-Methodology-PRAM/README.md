@@ -14,6 +14,6 @@
 
 **GitHub User Serving as POC:** @kboeckl 
 
-**Primary Tool Focus Area:** risk management
+**Primary Tool Focus Area:** Risk Management
 
 **Additional Notes:** NIST welcomes organizations to use the PRAM and share feedback to improve the PRAM.

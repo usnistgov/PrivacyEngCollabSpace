@@ -52,7 +52,7 @@ Submit an [issue](https://github.com/usnistgov/PrivacyEngCollabSpace/issues/new)
 
 ## Browse Tools and Use Cases
 
-Interested in tools or use cases for de-identification and privacy risk management? **Browse the contributions [here](https://wwww.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
+Interested in tools or use cases for de-identification and privacy risk management? **Browse the contributions [here](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
 
 ## Operating Rules 
 
