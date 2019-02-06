@@ -2,9 +2,11 @@
 
 **Brief Description:** Train machine learning models with differential privacy by clipping and noising gradients during stochastic gradient descent. 
 
-**Link to Tool:** [https://github.com/tensorflow/models/tree/master/research/differential_privacy/dp_sgd](https://github.com/tensorflow/models/tree/master/research/differential_privacy/dp_sgd) 
+**Link to Tool:** [https://github.com/tensorflow/privacy](https://github.com/tensorflow/privacy) 
 
-**Primary Tool Focus Area:** De-identification 
+**Primary Tool Focus Area:** De-identification
+
+**De-identification Keywords:** Differential Privacy, Machine Learning
 
 **GitHub User Serving as POC:** @ilyamironov 
 
