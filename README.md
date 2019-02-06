@@ -2,7 +2,7 @@
 The NIST Privacy Engineering Collaboration Space is an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.
 
 ## Focus Areas
-We have launched this space with an initial focus on de-identification and privacy risk management tools and use cases, but welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
+We have launched this space with an initial focus on de-identification and privacy risk management tools and use cases, and welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
 
 * **De-identification:** a process that is applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. We are accepting tools and use cases within a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
 
