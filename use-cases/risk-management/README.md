@@ -1,13 +1,3 @@
-# Hosted Risk Management Use Cases
+# Risk Management Use Cases
 
-[internal-link][]
-
-[internal-link][]
-
-# Linked Risk Management Use Cases
-
-[external-link][]
-
-[external-link][]
-
-
+Contributions are listed in alphabetical order.

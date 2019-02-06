@@ -1,12 +1,6 @@
-# Hosted Risk Management Tools
+# Risk Management Tools
+Contributions are listed in alphabetical order.
 
-[internal-link][]
+## NIST Privacy Risk Assessment Methodology (PRAM)
 
-[internal-link][]
-
-# Linked Risk Management Tools
-
-[external-link][]
-
-[external-link][]
-
+**[Link to tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/risk-management/NIST-Privacy-Risk-Assessment-Methodology-PRAM)**
