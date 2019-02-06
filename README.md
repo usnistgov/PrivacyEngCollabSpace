@@ -30,7 +30,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 	B. Name the directory to describe your contribution. 
 
-	C. Include in the directory a README.md file that follows the relevant [template](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates). There is a template for a [tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/tool-template) and for a [use case](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/use-case-template) contribution.
+	C. Include in the directory a README.md file that follows the relevant [template](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates). There is a template for a [tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/tool-template.md) and for a [use case](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/use-case-template.md) contribution.
 
 	D. If hosting a tool in this repository, also include in the directory any pertinent source code files or documentation. 
 
@@ -80,17 +80,17 @@ This platform is provided as a public service. Information, data, and software p
 
 ### De-Identification Moderators
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/joseph-near.jpg "Joseph Near")
+![Joseph Near](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/joseph-near.jpg)
 
 **Joseph Near | [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his BS in computer science from Indiana University, and his MS and PhD in computer science from MIT.
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/david-darais.jpg "David Darais")
+![David Darais](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/david-darais.jpg)
 
 **David Darais [@davdar]:** David Darais is an assistant professor of computer science at the University of Vermont. David's research focuses on software analysis and verification tools for critical and security-sensitive systems. David received a BS in computer science from University of Utah, an MS in computer science from Harvard University, and a PhD in computer science from University of Maryland.
 
 ### Privacy Risk Management Moderator
 
-![alt text](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/assets/katie-boeckl.jpg "Katie Boeckl")
+![Katie Boeckl](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/katie-boeckl.jpg)
 
 **Katie Boeckl [@kboeckl]:** Katie Boeckl is a privacy risk strategist at NIST. As part of the Privacy Engineering Program, Katie develops privacy risk management guidance, collaborates on the development of international privacy standards, and works to advance tools for privacy engineering and risk management. Katie has a BA in English from the University of Maryland, College Park, where she specialized in technology through a digital cultures honors program.
 
