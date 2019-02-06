@@ -2,9 +2,11 @@
 
 **Brief Description:** The PATE framework achieves differentially private learning by carefully coordinating the activity of several different ML models. 
 
-**Link to Tool:** [https://github.com/tensorflow/privacy/tree/master/research/pate_2018](https://github.com/tensorflow/privacy/tree/master/research/pate_2018)
+**Link to Tool:** [https://github.com/tensorflow/privacy/tree/master/research](https://github.com/tensorflow/privacy/tree/master/research)
 
-**Primary Tool Focus Area:** De-identification 
+**Primary Tool Focus Area:** De-identification
+
+**De-identification Keywords:** Differential Privacy, Machine Learning
 
 **GitHub User Serving as POC:** @npapernot 
 
