@@ -30,7 +30,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 	B. Name the directory to describe your contribution. 
 
-	C. Include in the directory a README.md file that follows the relevant [template](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates). There is a template for a [tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/tool-template) and for a [use case](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/use-case-template) contribution.
+	C. Include in the directory a README.md file that follows the relevant [template](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates). There is a template for a [tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/tool-template.md) and for a [use case](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/templates/use-case-template.md) contribution.
 
 	D. If hosting a tool in this repository, also include in the directory any pertinent source code files or documentation. 
 
