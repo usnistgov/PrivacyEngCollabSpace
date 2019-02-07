@@ -2,7 +2,7 @@
 
 **Brief Description:** The Privacy Protection Application de-identifies databases that contain sequential geolocation data, sometimes called moving object databases. A record of a personally-owned vehicle’s route of travel is an example, but the tool can process other types of geolocation sequences. The application has a graphical user interface and operates on Linux, OS X, and Windows. Location suppression is the de-identification strategy used, and decisions about which locations to suppress are based on information theory. This strategy does not modify the precision of retained location information. One of the objectives is to produce data usable for vehicle safety analysis and transportation application development. 
 
-**Link to Tool:** [https://github.com/usdot-its-jpo-data-portal/privacy-protection-application]() 
+**Link to Tool:** [https://github.com/usdot-its-jpo-data-portal/privacy-protection-application](https://github.com/usdot-its-jpo-data-portal/privacy-protection-application) 
 
 **Primary Tool Focus Area:** De-identification
 
