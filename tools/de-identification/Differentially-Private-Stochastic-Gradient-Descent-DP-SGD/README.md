@@ -10,4 +10,4 @@
 
 **GitHub User Serving as POC:** @ilyamironov 
 
-**Additional Notes:** Paper with full details: [https://arxiv.org/abs/1607.00133]()
+**Additional Notes:** Paper with full details: [https://arxiv.org/abs/1607.00133](https://arxiv.org/abs/1607.00133)
