@@ -14,6 +14,8 @@
 
 **GitHub User Serving as POC:** @kboeckl 
 
+**Contributing Organization:** National Institute of Standards and Technology (NIST)
+
 **Primary Tool Focus Area:** Risk Management
 
 **Additional Notes:** NIST welcomes organizations to use the PRAM and share feedback to improve the PRAM.
