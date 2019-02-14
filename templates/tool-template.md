@@ -12,7 +12,7 @@
 
 **GitHub User Serving as POC (or Email Address):** @[POC]
 
-**Organization(s) and/or Affiliation(s) Contributing (if relevant):**
+**Affiliation/Organization(s) Contributing (if relevant):**
 
 ## For a Linked Tool
 *Add the link here and remove the below section, "For A Hosted Tool".*
