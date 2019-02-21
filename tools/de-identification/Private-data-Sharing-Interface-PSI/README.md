@@ -13,6 +13,7 @@ A system developed to enable researchers in the social sciences and other fields
 **Additional Notes:**
 
 [Website](https://privacytools.seas.harvard.edu/psi-ψ-private-data-sharing-interface)
+
 [Publication](https://privacytools.seas.harvard.edu/publications/psipaper)
 
 **GitHub User Serving as POC:** James Honaker <james@hona.kr>
