@@ -18,6 +18,6 @@ A system developed to enable researchers in the social sciences and other fields
 
 **GitHub User Serving as POC:** James Honaker <james@hona.kr>
 
-**Affiliations:** Harvard University
+**Affiliation/Organization(s) Contributing:** Harvard University
 
 **Tool Link:** (TODO)
