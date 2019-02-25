@@ -20,9 +20,9 @@ learning tasks (like clustering and regression).
   PDF is [available
   here](https://www.cs.umd.edu/~elaine/docs/gupt.pdf).
 
-**GitHub User Serving as POC (or Email Address):** @[prashmohan]
+**GitHub User Serving as POC (or Email Address):** @prashmohan
 
-**Affiliation/Organization(s) Contributing (if relevant):** University
+**Affiliation/Organization(s) Contributing:** University
   of California, Berkeley; University of California, Santa Cruz;
   Cornell University
 
