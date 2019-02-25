@@ -1,7 +1,11 @@
 # GUPT: Privacy preserving data analysis made easy
 
-**De-identification Keywords:** Differential Privacy, Machine
-  Learning, Database Queries
+**Name of Tool:** GUPT: Privacy preserving data analysis made easy
+
+**Primary Focus Area (select one):** De-identification
+
+**De-identification Keywords (select any relevant):** Differential
+  Privacy, Machine Learning, Database Queries
 
 **Brief Description:** The tool provides differential privacy
 guarantees to statistical/machine learning algorithms by treating the
@@ -11,13 +15,15 @@ aggregate framework by Nissim, Rashkhodnikova, and Smith, 2007. The
 empirical evaluation shows that the system scores well on various
 learning tasks (like clustering and regression).
 
-**Link to Tool:** [https://github.com/prashmohan/GUPT](https://github.com/prashmohan/GUPT)
-
-**Primary Tool Focus Area:** De-identification 
-
-**GitHub User Serving as POC:** @prashmohan
-
 **Additional Notes:** GUPT is described in detail in a SIGMOD 2012
   paper, titled "GUPT: Privacy Preserving Data Analysis Made Easy." A
   PDF is [available
   here](https://www.cs.umd.edu/~elaine/docs/gupt.pdf).
+
+**GitHub User Serving as POC (or Email Address):** @[prashmohan]
+
+**Affiliation/Organization(s) Contributing (if relevant):** University
+  of California, Berkeley; University of California, Santa Cruz;
+  Cornell University
+
+**Tool Link:** [https://github.com/prashmohan/GUPT](https://github.com/prashmohan/GUPT)
