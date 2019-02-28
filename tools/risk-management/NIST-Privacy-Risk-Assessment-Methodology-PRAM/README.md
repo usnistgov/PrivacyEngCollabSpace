@@ -1,6 +1,6 @@
 # NIST Privacy Risk Assessment Methodology (PRAM)
 
-**Brief Description:** The PRAM is a tool for analyzing, assessing, and prioritizing privacy risks  to help organizations determine how to respond and select appropriate solutions. The PRAM can also serve as a useful communication tool to convey privacy risks within an organization.
+**Brief Description:** The PRAM is a tool that applies the risk model from [NISTIR 8062](https://doi.org/10.6028/NIST.IR.8062) and helps organizations analyze, assess, and prioritize privacy risks to determine how to respond and select appropriate solutions. The PRAM can help drive collaboration and communication between various components of an organization, including privacy, cybersecurity, business, and IT personnel.
 
 * Worksheet 1: Framing Business Objectives and Organizational Privacy Governance
 
@@ -13,6 +13,8 @@
 * Catalog of Problematic Data Actions and Problems
 
 **GitHub User Serving as POC:** @kboeckl 
+
+**Contributing Organization:** National Institute of Standards and Technology (NIST)
 
 **Primary Tool Focus Area:** Risk Management
 

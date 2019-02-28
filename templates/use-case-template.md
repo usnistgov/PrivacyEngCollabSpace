@@ -12,6 +12,8 @@
 
 **GitHub User Serving as POC (or Email Address):** @[POC]
 
+**Affiliation/Organization(s) Contributing (if relevant):**
+
 ## For A Linked Use Case
 *Add the link here and remove the below section, "For A Hosted Use Case".*
 

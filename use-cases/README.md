@@ -1,5 +1,5 @@
 # Focus Areas
-Tools and use cases are currently focused on de-identification and privacy risk management. But, we welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
+Tools and use cases are currently focused on de-identification and privacy risk management. We welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
 
 **De-identification:** a process that is applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. We are accepting tools and use cases within a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
 
