@@ -1,18 +1,9 @@
 # ARX Data Anonymization Tool
 
-**Name of Tool:** ARX Data Anonymization Tool
-
 **Primary Focus Area (select one):** De-identification
 
-**De-identification Keywords (select any relevant):** Differential
-  Privacy, TODO
-
-**Brief Description:** TODO.
-
-**Additional Notes:** The software also supports many methods for Privacy Risk Management.
+**Brief Description:** ARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data.
 
 **GitHub User Serving as POC (or Email Address):** @prasser
-
-**Affiliation/Organization(s) Contributing:** TODO
 
 **Tool Link:** [https://arx.deidentifier.org](https://arx.deidentifier.org)
