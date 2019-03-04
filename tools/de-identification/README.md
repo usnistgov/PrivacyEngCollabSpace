@@ -2,6 +2,12 @@
 
 Contributions are listed in alphabetical order.
 
+## ARX Data Anonymization Tool
+
+**Keywords:** Differential Privacy, K-Anonymity, Anonymization, Machine Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/ARX)** | **[Link to Tool](https://arx.deidentifier.org/)**
+
 ## Differentially Private Stochastic Gradient Descent (DP-SGD) 
 
 **Keywords:** Differential Privacy, Machine Learning
@@ -24,9 +30,3 @@ Contributions are listed in alphabetical order.
 **Keywords:** Differential Privacy, Machine Learning
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research)**
-
-## ARX Data Anonymization Tool
-
-**Keywords:** Differential Privacy, K-Anonymity, Anonymization, Machine Learning
-
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/ARX)** | **[Link to Tool](https://arx.deidentifier.org/)**
