@@ -2,8 +2,6 @@
 
 Contributions are listed in alphabetical order.
 
-*This potential contribution is strictly a DRAFT that has not yet been approved by the contributor. The space moderators drafted this on behalf of the contributor, and are awaiting the contributor’s review, feedback, and approval.*
-
 ## City of Seattle Open Data Risk Assessment
 **Affiliation/Organization(s) Contributing:** Future of Privacy Forum (FPF)
 
