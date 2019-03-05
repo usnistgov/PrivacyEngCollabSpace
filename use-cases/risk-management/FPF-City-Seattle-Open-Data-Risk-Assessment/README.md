@@ -16,7 +16,7 @@ This Report first describes inherent privacy risks in an open data landscape, wi
 
 **Additional Notes:** Templates for the Model Benefit-Risk Assessment ([https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf](https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf)) and the Program Maturity Assessment ([https://fpf.org/wp-content/uploads/2018/01/Program-Maturity-Assessment.pdf](https://fpf.org/wp-content/uploads/2018/01/Program-Maturity-Assessment.pdf)) are available separately, as well.
 
-Related blog post: [https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/] (https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/)
+Related blog post: [https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/](https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/)
 
 Future of Privacy Forum website: [https://fpf.org/](https://fpf.org/)
 
