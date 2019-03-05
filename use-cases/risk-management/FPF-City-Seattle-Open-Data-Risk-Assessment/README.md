@@ -10,11 +10,11 @@ This Report first describes inherent privacy risks in an open data landscape, wi
 
 **Primary Focus Area:** Privacy Risk Management
 
-**GitHub User Serving as POC (or Email Address):** [Flag: to be added by POC]
+**GitHub User Serving as POC (or Email Address):** @k-finch | kfinch@fpf.org
 
 **Affiliation/Organization(s) Contributing:** Future of Privacy Forum (FPF)
 
-**Additional Notes:** [Flag: additional links can be added by POC] [can include any additional links or resources, describe particular ways in which people can engage with the project, if relevant, etc.]
+**Additional Notes:** Templates for the Model Benefit-Risk Assessment ([https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf](https://fpf.org/wp-content/uploads/2018/01/Model-Benefit-Risk-Analysis.pdf)) and the Program Maturity Assessment ([https://fpf.org/wp-content/uploads/2018/01/Program-Maturity-Assessment.pdf](https://fpf.org/wp-content/uploads/2018/01/Program-Maturity-Assessment.pdf)) are available separately, as well.
 
 Related blog post: [https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/] (https://fpf.org/2018/01/22/public-comments-on-proposed-open-data-risk-assessment-for-the-city-of-seattle/)
 
