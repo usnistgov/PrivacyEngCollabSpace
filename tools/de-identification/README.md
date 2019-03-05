@@ -2,6 +2,12 @@
 
 Contributions are listed in alphabetical order.
 
+## Approximate Minima Perturbation (AMP)
+
+**Keywords:** Differential Privacy, Machine Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/AMP)** | **[Link to Tool](https://github.com/sunblaze-ucb/dpml-benchmark)**
+
 ## Differentially Private Stochastic Gradient Descent (DP-SGD) 
 
 **Keywords:** Differential Privacy, Machine Learning
@@ -13,6 +19,8 @@ Contributions are listed in alphabetical order.
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Ektelo)** | **[Link to Tool](https://ektelo.github.io/)**
 
 ## GUPT: Privacy preserving data analysis made easy
+
+**Keywords:** Differential Privacy, Machine Learning, Database Queries
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/GUPT)** | **[Link to Tool](https://github.com/prashmohan/GUPT)**
 
