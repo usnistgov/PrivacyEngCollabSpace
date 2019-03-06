@@ -1,4 +1,4 @@
-#FAIR Privacy
+# FAIR Privacy
 
 **Primary Focus Area:** Privacy Risk Management
 
