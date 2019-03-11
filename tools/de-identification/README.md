@@ -16,8 +16,7 @@ Contributions are listed in alphabetical order.
 
 **Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
 
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/
-columbia/pixeldp)**
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/columbia/pixeldp)**
 
 ## Privacy Protection Application (PPA) 
 
