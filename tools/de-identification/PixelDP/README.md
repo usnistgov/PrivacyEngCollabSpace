@@ -15,7 +15,7 @@ scales to large models and datasets, such as Google’s Inception on the ImageNe
 dataset. PixelDP's design relies on a novel use of
 differential privacy at prediction time.
 
-**Additional Notes:** This [IEEE S&P 2019 research paper](https://csdl.computer.org/csdl/proceedings/sp/2019/6660/00/666000a727.pdf) describes
+**Additional Notes:** This [IEEE S&P 2019 research paper](https://arxiv.org/pdf/1802.03471.pdf) describes
 PixelDP.
 
 **GitHub User Serving as POC (or Email Address):** @matlecu
