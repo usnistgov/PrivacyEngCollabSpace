@@ -1,11 +1,8 @@
 # PixelDP
 
-**Name of Tool:** PixelDP
+**Primary Focus Area:** De-identification
 
-**Primary Focus Area (select one):** De-identification
-
-**De-identification Keywords:** Differential Privacy,
-Verification of Algorithms, Machine Learning, Adversarial Examples
+**De-identification Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
 
 **Brief Description:** Adversarial examples that fool prediction models are a
 new class of attacks introduced by machine learning
@@ -18,8 +15,8 @@ differential privacy at prediction time.
 **Additional Notes:** This [IEEE S&P 2019 research paper](https://arxiv.org/pdf/1802.03471.pdf) describes
 PixelDP.
 
-**GitHub User Serving as POC (or Email Address):** @matlecu
+**GitHub POC:** @matlecu
 
-**Affiliation/Organization(s) Contributing (if relevant):** Columbia University
+**Affiliation/Organization(s) Contributing:** Columbia University
 
  **Tool Link:** PixelDP's code can be found on [GitHub](https://github.com/columbia/pixeldp).
