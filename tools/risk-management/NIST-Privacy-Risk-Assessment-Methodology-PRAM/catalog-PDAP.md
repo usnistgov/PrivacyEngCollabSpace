@@ -12,6 +12,8 @@ This catalog is a *non-exhaustive*, *illustrative* set of problematic data actio
 
 **Insecurity:** Lapses in data security can result in various problems, including loss of trust, exposure to economic loss and other identity theft-related harms, and dignity losses.
 
+**Re-identification:** De-identified data, or data otherwise disassociated from specific individuals, becomes identifiable or associated with specific individuals again. It can lead to problems such as discrimination, loss of trust, or dignity losses. 
+
 **Stigmatization:** Data is linked to an actual identity in such a way as to create a stigma that can cause dignity losses or discrimination. For example, transactional or behavioral data such as the accessing of certain services (e.g., food stamps or unemployment benefits) or locations (e.g., health care providers) may create inferences about individuals that can cause dignity losses or discrimination.  
 
 **Surveillance:** Data, devices or individuals are tracked or monitored in a manner disproportionate to the purpose. The difference between a benign action and the problematic data action of surveillance can be narrow. Tracking or monitoring may be conducted for operational purposes such as cybersecurity or to provide better services, but it can become surveillance when it leads to problems such as discrimination; loss of trust, autonomy, or liberty; or physical harm.
