@@ -31,6 +31,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/GUPT)** | **[Link to Tool](https://github.com/prashmohan/GUPT)**
 
+## PixelDP
+
+**Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/columbia/pixeldp)**
+
 ## Privacy Protection Application (PPA) 
 
 **Keywords:** K-Anonymity, Anonymization, Information Leakage, Algorithmic Fairness, Database Queries, Location Data         
