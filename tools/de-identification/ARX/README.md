@@ -8,6 +8,6 @@
 
 **GitHub User Serving as POC:** @prasser
 
-**Affiliation/Organization(s) Contributing:** TUM – Technische Universität München
+**Affiliation/Organization(s) Contributing:** TUM - Technical University of Munich
 
 **Tool Link:** [https://arx.deidentifier.org](https://arx.deidentifier.org)
