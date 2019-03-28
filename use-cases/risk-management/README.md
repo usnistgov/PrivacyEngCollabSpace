@@ -1,4 +1,4 @@
-# Risk Management Use Cases
+# Risk Assessment Use Cases
 
 Contributions are listed in alphabetical order.
 
