@@ -28,7 +28,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 3. In your branch: 
 
-	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-management, use-cases/de-identification, or use-cases/risk-management. Example: *tools/de-identification/[your-contribution-name]*
+	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-assessment, use-cases/de-identification, or use-cases/risk-assessment. Example: *tools/de-identification/[your-contribution-name]*
 
 	B. Name the directory to describe your contribution. 
 
