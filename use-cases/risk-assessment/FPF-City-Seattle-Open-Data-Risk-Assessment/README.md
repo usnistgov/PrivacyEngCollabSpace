@@ -1,5 +1,3 @@
-*This potential contribution is strictly a DRAFT that has not yet been approved by the contributor. The space moderators drafted this on behalf of the contributor, and are awaiting the contributor’s review, feedback, and approval.*
-
 # City of Seattle Open Data Risk Assessment
 
 **Brief Description:** While the transparency goals of the open data movement serve important functions in cities like Seattle, some municipal datasets about the city and its citizens’ activities carry inherent risks to individual privacy when shared publicly. In 2016, the City of Seattle declared in its Open Data Policy that the city’s data would be “open by preference,” except when doing so may affect individual privacy. To ensure its Open Data Program effectively protects individuals, Seattle committed to performing an annual risk assessment and tasked the Future of Privacy Forum (FPF) with creating and deploying an initial privacy risk assessment methodology for open data.
@@ -8,7 +6,7 @@ This Report first describes inherent privacy risks in an open data landscape, wi
 
 **Use Case Link:** [https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf](https://fpf.org/wp-content/uploads/2018/01/FPF-Open-Data-Risk-Assessment-for-City-of-Seattle.pdf) 
 
-**Primary Focus Area:** Privacy Risk Management
+**Primary Focus Area:** Privacy Risk Assessment
 
 **GitHub User Serving as POC (or Email Address):** @k-finch | kfinch@fpf.org
 
