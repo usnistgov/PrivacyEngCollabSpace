@@ -2,7 +2,7 @@
 
 **Name of Tool:**
 
-**Primary Focus Area (select one):** De-identification or Privacy Risk Management
+**Primary Focus Area (select one):** De-identification or Privacy Risk Assessment
 
 **De-identification Keywords (select any relevant):** Differential Privacy, K-Anonymity, Anonymization, Access Control, Information Leakage, Algorithmic Fairness, Verification of Algorithms, Machine Learning, Database Queries, Synthetic Data Generation, Location Data, Adversarial Examples, Other/Propose New Keyword
 
