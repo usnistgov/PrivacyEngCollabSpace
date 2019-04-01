@@ -8,4 +8,6 @@
 
 **GitHub User Serving as POC:** @michaelghay 
 
+**Affiliation/Organization(s) Contributing:** UMass Amherst, Duke University, Colgate University
+
 **Additional Notes:** Ektelo is described in detail in a SIGMOD 2018 paper, titled "EKTELO: A Framework for Defining Differentially-Private Computations." [https://dl.acm.org/citation.cfm?id=3196921](https://dl.acm.org/citation.cfm?id=3196921)

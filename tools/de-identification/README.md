@@ -2,6 +2,12 @@
 
 Contributions are listed in alphabetical order.
 
+## Approximate Minima Perturbation (AMP)
+
+**Keywords:** Differential Privacy, Machine Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/AMP)** | **[Link to Tool](https://github.com/sunblaze-ucb/dpml-benchmark)**
+
 ## ARX Data Anonymization Tool
 
 **Keywords:** Differential Privacy, K-Anonymity, Anonymization, Machine Learning
@@ -18,6 +24,18 @@ Contributions are listed in alphabetical order.
 **Keywords:** Differential Privacy
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Ektelo)** | **[Link to Tool](https://ektelo.github.io/)**
+
+## GUPT: Privacy preserving data analysis made easy
+
+**Keywords:** Differential Privacy, Machine Learning, Database Queries
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/GUPT)** | **[Link to Tool](https://github.com/prashmohan/GUPT)**
+
+## PixelDP
+
+**Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/columbia/pixeldp)**
 
 ## Privacy Protection Application (PPA) 
 

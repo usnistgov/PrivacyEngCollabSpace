@@ -2,18 +2,18 @@
 The NIST Privacy Engineering Collaboration Space is an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.
 
 ## Focus Areas
-We have launched this space with an initial focus on de-identification and privacy risk management tools and use cases, and welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
+We have launched this space with an initial focus on de-identification and privacy risk assessment tools and use cases, and welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
 
-* **De-identification:** a process that is applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. We are accepting tools and use cases within a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
+* **De-identification:** a technique or process applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. This focus area includes a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
 
-* **Privacy Risk Management:** a process that enables organizations to achieve mission or business objectives while minimizing adverse outcomes for individuals arising from the processing of their data. This includes but is not limited to risk models, risk assessment methodologies, and approaches to determining privacy risk factors. 
+* **Privacy Risk Assessment:** a process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors. 
 
 ## Contribute to the Space 
 
 Contributions come in three categories:
 
 1. **Tool:** A tool can be an open source solution or process, ranging from software to frameworks. 
-2. **Use Case:** A use case is an example of an organization processing data about individuals for some explicit purpose(s) (e.g., where a goal is to prevent re-identification of the data during its processing, improve privacy risk management practices).
+2. **Use Case:** A use case is an example of an organization processing data about individuals for some explicit purpose(s) (e.g., where a goal is to prevent re-identification of the data during its processing, improve privacy risk assessment practices).
 3. **Feedback:** Help the community. Provide feedback on tools and use cases.
 
 Tools and use cases are contributed via pull requests, while feedback is contributed via issues. Contributed tools and use cases can be hosted directly in this repository, or you can host them elsewhere online and link to them from this repository.
@@ -26,7 +26,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 3. In your branch: 
 
-	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-management, use-cases/de-identification, or use-cases/risk-management. Example: *tools/de-identification/[your-contribution-name]*
+	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-assessment, use-cases/de-identification, or use-cases/risk-assessment. Example: *tools/de-identification/[your-contribution-name]*
 
 	B. Name the directory to describe your contribution. 
 
@@ -52,7 +52,7 @@ Submit an [issue](https://github.com/usnistgov/PrivacyEngCollabSpace/issues/new)
 
 ## Browse Tools and Use Cases
 
-Interested in tools or use cases for de-identification and privacy risk management? **Browse the contributions [here](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
+Interested in tools or use cases for de-identification and privacy risk assessment? **Browse the contributions [here](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
 
 ## Operating Rules 
 
