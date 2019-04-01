@@ -10,4 +10,6 @@
 
 **GitHub User Serving as POC:** @npapernot 
 
+**Affiliation/Organization(s) Contributing:** Google
+
 **Additional Notes:** Papers with full details: [https://arxiv.org/abs/1610.05755](https://arxiv.org/abs/1610.05755) and [https://arxiv.org/abs/1802.08908](https://arxiv.org/abs/1802.08908)
