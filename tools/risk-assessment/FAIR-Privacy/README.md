@@ -7,7 +7,7 @@
 **Additional Notes:** 
 Full details on the FAIR Privacy can be found in chapters 7 & 8 of the book Strategic Privacy by Design by R. Jason Cronk (IAPP 2018). Some additional resources are provided in the PowerPoint deck. 
 
-Feedback and suggestions for improvement on both the framework and the included calculator are welcome. Additionally, anyalysis of the spreadsheet by a statistician is most welcome. 
+Feedback and suggestions for improvement on both the framework and the included calculator are welcome. Additionally, analysis of the spreadsheet by a statistician is most welcome. 
 
 **GitHub User Serving as POC (or Email Address):** @privacymaverick
 
