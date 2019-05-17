@@ -1,4 +1,4 @@
-<h1>Differential Privacy Synthetic Data Challenge</h1>
+<h1>Differential Privacy Synthetic Data Challenge Algorithms</h1>
 
 Brief Description:
 
