@@ -6,11 +6,7 @@
 
 <strong>How to Cite:</strong>
 
-- citing in a report or paper: 
-
-Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
-
-- citing in source code:
+- general information
 
     Author: John Gardner
   
@@ -23,6 +19,21 @@ Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algor
     Type: Source code
   
     URL: https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+
+- example for citing in a report or paper: 
+
+Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+
+- example for citing in source code:
+
+/***************************************************************************************
+*    Title: gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
+*    Author: John Gardner
+*    Date: 2019
+*    Code version: 1.0
+*    Availability: https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+*
+***************************************************************************************/
 
 <strong>Brief Description:</strong>
 
