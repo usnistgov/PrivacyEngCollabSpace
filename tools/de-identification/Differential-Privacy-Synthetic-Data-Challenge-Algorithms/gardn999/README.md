@@ -6,9 +6,11 @@ GitHub username: gardn999
 
 How to Cite:
 
-- citing in Report: Gardner,J.(2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/new/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms
+- citing in a report or paper: 
 
-- citing in Source Code:
+Gardner,J.(2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/new/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms
+
+- citing in source code:
 
   John Gardner
   
