@@ -1,4 +1,4 @@
-<strong>Contributer:</strong> John Gardner (TopCoder handle: gardn999)
+<strong>gardn999 - Differential Privacy Synthetic Data Challenge Algorithm</strong>
 
 <strong>Team Members & Affiliation:</strong> John Gardner (solo team, no affiliation)
 
