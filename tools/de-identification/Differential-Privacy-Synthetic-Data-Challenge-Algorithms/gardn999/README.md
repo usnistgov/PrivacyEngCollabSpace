@@ -8,17 +8,17 @@
 
 - general information
 
-    Author: John Gardner
+    <strong>Author:</strong> John Gardner
   
-    Date: 2019
+    <strong>Date:</strong> 2019
   
-    Title: gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
+    <strong>Title:</strong> gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
   
-    Version: 1.0
+    <strong>Version:</strong> 1.0
   
-    Type: Source code
+    <strong>Type:</strong> Source code
   
-    URL: https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+    <strong>URL:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
 
 - example for citing in a report or paper: 
 
