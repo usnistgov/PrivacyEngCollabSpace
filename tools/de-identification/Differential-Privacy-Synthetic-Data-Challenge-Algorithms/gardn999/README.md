@@ -8,7 +8,7 @@ How to Cite:
 
 - citing in a report or paper: 
 
-Gardner,J.(2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/new/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms
+Gardner,J.(2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
 
 - citing in source code:
 
@@ -22,6 +22,6 @@ Gardner,J.(2019) gardn999 - Differential Privacy Synthetic Data Challenge Algori
   
   Source code
   
-  https://github.com/gardn999/PrivacyEngCollabSpace/new/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms
+  https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
 
 Brief Description: This solution placed fourth in the NIST Differential Privacy Synthetic Data Challenge.
