@@ -26,6 +26,7 @@ Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algor
 
 - example for citing in source code:
 
+```
 /***************************************************************************************
 *    Title: gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
 *    Author: John Gardner
@@ -34,6 +35,7 @@ Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algor
 *    Availability: https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
 *
 ***************************************************************************************/
+```
 
 <strong>Brief Description:</strong>
 
