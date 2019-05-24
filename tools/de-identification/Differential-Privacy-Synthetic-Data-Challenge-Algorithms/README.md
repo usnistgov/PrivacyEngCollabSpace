@@ -7,10 +7,7 @@
 <em>Contributions are listed in alphabetical order.</em>
 
 
-John Gardner (TopCoder handle: gardn999)
-
-  <strong>Team Members & Affiliation:</strong> John Gardner (solo team, no affiliation)
-  
-  <strong>Brief Description:</strong> the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge
-  
-  <strong>Link:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+<strong>Contributor:</strong>John Gardner (TopCoder handle: gardn999)</br>
+<strong>Team Members & Affiliation:</strong> John Gardner (solo team, no affiliation)</br>
+<strong>Brief Description:</strong> the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge</br>
+<strong>Link:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999</br>
