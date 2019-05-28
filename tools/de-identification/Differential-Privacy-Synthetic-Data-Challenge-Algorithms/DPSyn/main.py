@@ -44,11 +44,11 @@ if __name__ == "__main__":
     parser.add_argument('--sensitivity', type=float, default=1.0)
 
     # parameters for views generation
-    parser.add_argument('--consist_iterations', type=int, default=100)
+    parser.add_argument('--consist_iterations', type=int, default=1)
     
     # parameters for dpsyn_mcf method
     parser.add_argument('--synthesizer_num_records', type=int, default=662000)
-    parser.add_argument('--update_iterations', type=int, default=100)
+    parser.add_argument('--update_iterations', type=int, default=1)
 
     args = parser.parse_args()
     config_logger()

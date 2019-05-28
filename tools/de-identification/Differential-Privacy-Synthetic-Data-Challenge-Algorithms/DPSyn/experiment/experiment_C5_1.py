@@ -81,7 +81,7 @@ class Experiment_C5_1(Experiment_C5):
         age_index = self.attri_name_index_mapping["AGE"]
         
         self.age_singleton = self.anonymize_views(self.construct_views([age_index]))
-        self.age_singleton.non_negativity("N1")
+        self.age_singleton.non_negativity()
         self.age_singleton.calculate_normalize_count()
         
         age_record = np.copy(self.records[:, age_index])

@@ -59,7 +59,7 @@ class RecodeAttribute:
         view = self.attributes_group_views_dict[attributes_group_key]
         
         if attributes_group_key not in special_attribute:
-            view.non_negativity("N1")
+            view.non_negativity()
     
         # find the significant value
         significant_cell_indices = np.where(view.count >= threshold)[0]
