@@ -1,0 +1,66 @@
+<strong>DPFieldGroups
+
+<strong>Team Members & Affiliation:</strong> John Gardner (no affiliation)
+
+<strong>GitHub username:</strong> gardn999
+
+<strong>How to Cite:</strong>
+
+- general information
+
+    <strong>Author:</strong> John Gardner
+  
+    <strong>Date:</strong> 2019
+  
+    <strong>Title:</strong> gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
+  
+    <strong>Version:</strong> 1.0
+  
+    <strong>Type:</strong> Source code
+  
+    <strong>URL:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+
+- example for citing in a report or paper: 
+
+Gardner,J. (2019) gardn999 - Differential Privacy Synthetic Data Challenge Algorithm (Version 1.0) [Source code]. https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+
+- example for citing in source code:
+
+```
+/***************************************************************************************
+*    Title: gardn999 - Differential Privacy Synthetic Data Challenge Algorithm
+*    Author: John Gardner
+*    Date: 2019
+*    Code version: 1.0
+*    Availability: https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999
+*
+***************************************************************************************/
+```
+
+<strong>Brief Description:</strong>
+
+  This is the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge.  The goal of this challenge is to produce differentially private synthetic data while retaining as much useful information as possible about the original data set.   Colorado census data from 1940 with 98 field columns were provided for algorithm development with census data from other states used for testing.
+
+<strong>Deployment:</strong>
+
+  Look at deployment_guide.txt for docker or command-line running instructions.
+  
+<strong>License:</strong>
+
+3-Clause BSD License: 
+https://opensource.org/licenses/BSD-3-Clause
+
+Copyright 2019 John Gardner
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
