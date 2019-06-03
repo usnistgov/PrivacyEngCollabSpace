@@ -7,7 +7,7 @@
 <em>Contributions are listed in alphabetical order.</em>
 
 
-<strong>gardn999 - Differential Privacy Synthetic Data Challenge Algorithm</strong></br>
-<strong>Team Members & Affiliation:</strong> John Gardner (solo team, no affiliation)</br>
+<strong>DPFieldGroups</strong></br>
+<strong>Team Members & Affiliation:</strong> John Gardner (no affiliation)</br>
 <strong>Brief Description:</strong> the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge</br>
-<strong>Link:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/gardn999</br>
+<strong>Link:</strong> https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPFieldGroups</br>
