@@ -33,10 +33,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
     ################################### interface to final scoring ##################################
-    parser.add_argument("input_path", type=str)
-    parser.add_argument("output_path", type=str)
-    parser.add_argument("specs_path", type=str)
-    parser.add_argument("epsilon", type=float)
+    parser.add_argument("input_path", type=str, help="specify the path of data file in csv formate")
+    parser.add_argument("output_path", type=str, help="specify the output path of the synthetic data")
+    parser.add_argument("specs_path", type=str, help="specify the path of specs file in json formate")
+    parser.add_argument("epsilon", type=float, help="specify the total privacy budget")
 
     ####################################### general parameters ###################################
     # specify privacy parameters
@@ -44,11 +44,14 @@ if __name__ == "__main__":
     parser.add_argument('--sensitivity', type=float, default=1.0)
 
     # parameters for views generation
-    parser.add_argument('--consist_iterations', type=int, default=1)
+    parser.add_argument('--consist_iterations', type=int, default=100,
+        help="specify the number of iterations for consist procedure")
     
     # parameters for dpsyn_mcf method
-    parser.add_argument('--synthesizer_num_records', type=int, default=662000)
-    parser.add_argument('--update_iterations', type=int, default=1)
+    parser.add_argument('--synthesizer_num_records', type=int, default=662000,
+        help="specify the number records to be generated")
+    parser.add_argument('--update_iterations', type=int, default=100,
+        help="specify the number of iterations for synthesizing procedure")
 
     args = parser.parse_args()
     config_logger()
