@@ -11,15 +11,14 @@
 
 <strong>Brief Description:</strong> This repo contains an implementation for the award-winning solution to the 2018 Differential Privacy Synthetic Data Challenge by team UCLANESL. Our solution has been awarded the 5th place in Match#3 of the challenge and an earlier version has also won the 4th place in Match #1. The solution trains a wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. Differentially private training is applied by santizing (norm clipping and adding Gaussian noise) the gradients of the discriminator. Once the model is trained, it can be used to generate sytnethic dataset by feeding random noise into the generator.
 
-Link: https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DP_WGAN-UCLANESL
-https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge
+[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DP_WGAN-UCLANESL) | [Link to Tool](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)
 
 <h2>DPSyn</h2>
 <strong>Team Members & Affiliations:</strong> Ninghui Li (Purdue University), Zhikun Zhang (Zhejiang University), Tianhao Wang (Purdue University)
 
 <strong>Brief Description:</strong> We present DPSyn, an algorithm for synthesizing microdata while satisfying differential privacy, and its instantiation to the dataset used in the competition, namely Public Use Microdata Sample (PUMS) of the 1940 USA Census Data.
 
-Link: https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn
+[Link to Tool and More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn)
 
 <h2>rmckenna</h2>
 <strong>Team Member & Affiliation:</strong> Ryan McKenna (UMass Amherst)
@@ -31,4 +30,4 @@ The high-level idea is to (1) use the Gaussian mechanism to obtain noisy answers
 [2] Chen, Rui, et al. "Differentially private high-dimensional data publication via sampling-based inference." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.
 [3] McKenna, Ryan, Daniel Sheldon, and Gerome Miklau. "Graphical-model based estimation and inference for differential privacy." Proceddings of the 36th International Conference on Machine Learning. 2019.
 
-Link: https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/rmckenna
+[Link to Tool and More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/rmckenna)
