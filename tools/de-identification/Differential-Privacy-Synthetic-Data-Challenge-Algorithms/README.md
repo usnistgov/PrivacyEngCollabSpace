@@ -7,7 +7,7 @@
 <em>Contributions are listed in alphabetical order.</em>
 
 <h1>DP_WGAN-UCLANESL</h1>
-<strong>Team Members:</strong> Prof. Mani Srivastava (@msrivastava) - Team Captain (Match 1 and Match 3), Moustafa Alzantot (@malzantot) - (Match 1 and Match 3), Nat Snyder - (@natsnyder1) - Match 1, Supriyo Charkaborty (@supriyogit) - Match 1
+<strong>Team Members:</strong> Prof. Mani Srivastava (@msrivastava) - Team Captain (Match 1 and Match 3), Moustafa Alzantot (@malzantot) - (Match 1 and Match 3), Nat Snyder (@natsnyder1) - Match 1, Supriyo Charkaborty (@supriyogit) - Match 1
 
 <strong>Brief Description:</strong> This repo contains an implementation for the award-winning solution to the 2018 Differential Privacy Synthetic Data Challenge by team UCLANESL. Our solution has been awarded the 5th place in Match#3 of the challenge and an earlier version has also won the 4th place in Match #1. The solution trains a wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. Differentially private training is applied by santizing (norm clipping and adding Gaussian noise) the gradients of the discriminator. Once the model is trained, it can be used to generate sytnethic dataset by feeding random noise into the generator.
 
