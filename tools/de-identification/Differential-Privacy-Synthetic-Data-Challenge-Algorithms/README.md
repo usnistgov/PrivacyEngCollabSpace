@@ -6,7 +6,7 @@
 
 <em>Contributions are listed in alphabetical order.</em>
 
-<strong>rmckenna - Differential Privacy Synthetic Data Challenge Algorithm</strong></br>
+<h1>rmckenna - Differential Privacy Synthetic Data Challenge Algorithm</h1></br>
 <strong>Team Members & Affiliation:</strong> Ryan McKenna (UMass Amherst)</br>
 <strong>Brief Description:</strong> the first place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge</br>
 <strong>Link:</strong> https://github.com/ryan112358/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/rmckenna</br>
