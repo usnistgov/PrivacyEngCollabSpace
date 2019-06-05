@@ -6,6 +6,10 @@
 
 <em>Contributions are listed in alphabetical order.</em>
 
+<h1>DP_WGAN-UCLANESL</h1>
+
+<h1>DPSyn</h1>
+
 <h1>rmckenna - Differential Privacy Synthetic Data Challenge Algorithm</h1></br>
 <strong>Team Members & Affiliation:</strong> Ryan McKenna (UMass Amherst)</br>
 <strong>Brief Description:</strong> the first place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge</br>
