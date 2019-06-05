@@ -21,7 +21,7 @@ https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge
 
 Link: https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPSyn
 
-<h1>rmckenna</h1></br>
+<h1>rmckenna</h1>
 <strong>Team Member & Affiliation:</strong> Ryan McKenna (UMass Amherst)
 
 <strong>Brief Description:</strong> the first place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge
