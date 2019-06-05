@@ -16,9 +16,9 @@ Contributions are listed in alphabetical order.
 
 ## Differential Privacy Synthetic Data Challenge Algorithms
 
-**Algorithms:** DP_WGAN-UCLANESL, DPSyn, rmckenna
-
 **Keywords:** Differential Privacy, Synthetic Data Generation
+
+**Algorithms:** DP_WGAN-UCLANESL, DPSyn, rmckenna
 
 **[Check out the Algorithms](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms)**
 
