@@ -23,11 +23,15 @@ Contributions are listed in alphabetical order.
 <h2>rmckenna</h2>
 <strong>Team Member & Affiliation:</strong> Ryan McKenna (UMass Amherst)
 
-<strong>Brief Description:</strong> the first place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge
+<strong>Brief Description:</strong> The first place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge.
 The high-level idea is to (1) use the Gaussian mechanism to obtain noisy answers to a carefully selected set of counting queries (1, 2, and 3 way marginals) and (2) find a synthetic data set that approximates the true data with respect to those queries. The latter step is accomplished with [3], and the previous step uses ideas inspired by [1] and [2]. More specifically, this is done by calculating the mutual information (on the public dataset) for each pair of attributes and selecting the marginal queries that have high mutual information.
 
 [1] Zhang, Jun, et al. "Privbayes: Private data release via bayesian networks." ACM Transactions on Database Systems (TODS) 42.4 (2017): 25.
+
+
 [2] Chen, Rui, et al. "Differentially private high-dimensional data publication via sampling-based inference." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.
+
+
 [3] McKenna, Ryan, Daniel Sheldon, and Gerome Miklau. "Graphical-model based estimation and inference for differential privacy." Proceddings of the 36th International Conference on Machine Learning. 2019.
 
 **[Link to Tool and More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/rmckenna)**
