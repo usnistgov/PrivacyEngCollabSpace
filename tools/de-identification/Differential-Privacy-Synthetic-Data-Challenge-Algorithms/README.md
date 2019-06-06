@@ -13,6 +13,11 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DP_WGAN-UCLANESL) | [Link to Tool](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)**
 
+<h2>DPFieldGroups</strong></h2>
+<strong>Team Members & Affiliation:</strong> John Gardner (no affiliation)</br>
+<strong>Brief Description:</strong> the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge</br>
+**[Link to Tool and More Information](https://github.com/gardn999/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPFieldGroups)**</br>
+
 <h2>DPSyn</h2>
 <strong>Team Members & Affiliations:</strong> Ninghui Li (Purdue University), Zhikun Zhang (Zhejiang University), Tianhao Wang (Purdue University)
 
