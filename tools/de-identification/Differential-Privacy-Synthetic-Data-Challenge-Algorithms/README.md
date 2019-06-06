@@ -16,6 +16,8 @@ Contributions are listed in alphabetical order.
 <h2>DPFieldGroups</strong></h2>
 <strong>Team Members & Affiliation:</strong> John Gardner (no affiliation)</br>
 <strong>Brief Description:</strong> the fourth place entry in the third round of the NIST Differential Privacy Synthetic Data Challenge
+
+
 **[Link to Tool and More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms/DPFieldGroups)**
 
 <h2>DPSyn</h2>
