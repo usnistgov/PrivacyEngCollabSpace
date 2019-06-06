@@ -14,6 +14,14 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/ARX)** | **[Link to Tool](https://arx.deidentifier.org/)**
 
+## Differential Privacy Synthetic Data Challenge Algorithms
+
+**Keywords:** Differential Privacy, Synthetic Data Generation
+
+**Algorithms:** DP_WGAN-UCLANESL, DPSyn, rmckenna
+
+**[Check out the Algorithms](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms)**
+
 ## Differentially Private Stochastic Gradient Descent (DP-SGD) 
 
 **Keywords:** Differential Privacy, Machine Learning
