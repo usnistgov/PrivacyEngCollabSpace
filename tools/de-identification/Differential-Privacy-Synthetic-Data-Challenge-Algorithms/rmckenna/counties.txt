@@ -1,0 +1,3260 @@
+State	STATEICP	STATEFIPS	County cod	County
+
+Alabama	41	1	10	Autauga
+Alabama	41	1	30	Baldwin
+Alabama	41	1	50	Barbour
+Alabama	41	1	70	Bibb
+Alabama	41	1	90	Blount
+Alabama	41	1	110	Bullock
+Alabama	41	1	130	Butler
+Alabama	41	1	150	Calhoun/Benton
+Alabama	41	1	170	Chambers
+Alabama	41	1	190	Cherokee
+Alabama	41	1	210	Chilton/Baker
+Alabama	41	1	230	Choctaw
+Alabama	41	1	250	Clarke
+Alabama	41	1	270	Clay
+Alabama	41	1	290	Cleburne
+Alabama	41	1	310	Coffee
+Alabama	41	1	330	Colbert
+Alabama	41	1	350	Conecuh
+Alabama	41	1	370	Coosa
+Alabama	41	1	390	Covington
+Alabama	41	1	410	Crenshaw
+Alabama	41	1	430	Cullman
+Alabama	41	1	450	Dale
+Alabama	41	1	470	Dallas
+Alabama	41	1	490	DeKalb
+Alabama	41	1	510	Elmore
+Alabama	41	1	530	Escambia
+Alabama	41	1	550	Etowah
+Alabama	41	1	570	Fayette
+Alabama	41	1	590	Franklin
+Alabama	41	1	610	Geneva
+Alabama	41	1	630	Greene
+Alabama	41	1	650	Hale
+Alabama	41	1	670	Henry
+Alabama	41	1	690	Houston
+Alabama	41	1	710	Jackson
+Alabama	41	1	730	Jefferson
+Alabama	41	1	750	Lamar/Sanford
+Alabama	41	1	770	Lauderdale
+Alabama	41	1	790	Lawrence
+Alabama	41	1	810	Lee
+Alabama	41	1	830	Limestone
+Alabama	41	1	850	Lowndes
+Alabama	41	1	870	Macon
+Alabama	41	1	890	Madison
+Alabama	41	1	910	Marengo
+Alabama	41	1	930	Marion
+Alabama	41	1	950	Marshall
+Alabama	41	1	970	Mobile
+Alabama	41	1	990	Monroe
+Alabama	41	1	1010	Montgomery
+Alabama	41	1	1030	Morgan/Cotaco
+Alabama	41	1	1050	Perry
+Alabama	41	1	1070	Pickens
+Alabama	41	1	1090	Pike
+Alabama	41	1	1110	Randolph
+Alabama	41	1	1130	Russell
+Alabama	41	1	1150	St Clair
+Alabama	41	1	1170	Shelby
+Alabama	41	1	1190	Sumter
+Alabama	41	1	1210	Talladega
+Alabama	41	1	1230	Tallapoosa
+Alabama	41	1	1250	Tuscaloosa
+Alabama	41	1	1270	Walker
+Alabama	41	1	1290	Washington
+Alabama	41	1	1310	Wilcox
+Alabama	41	1	1330	Winston/Hancock
+Alaska	81	2	2900	Northern District
+Alaska	81	2	2950	Southern District
+Alaska	81	2	3000	First Judicial District
+Alaska	81	2	3100	Second Judicial District
+Alaska	81	2	3200	Third Judicial District
+Alaska	81	2	3300	Fourth Judicial District
+Arizona	61	4	10	Apache
+Arizona	61	4	30	Cochise
+Arizona	61	4	50	Coconino
+Arizona	61	4	70	Gila
+Arizona	61	4	90	Graham
+Arizona	61	4	110	Greenlee
+Arizona	61	4	130	Maricopa
+Arizona	61	4	150	Mohave
+Arizona	61	4	170	Navajo
+Arizona	61	4	190	Pima
+Arizona	61	4	210	Pinal
+Arizona	61	4	230	Santa Cruz
+Arizona	61	4	250	Yavapai
+Arizona	61	4	270	Yuma
+Arizona	61	4	9010	San Carlos Indian Reservation
+Arizona	61	4	9999	Unorganized Territory, Arizona
+Arkansas	42	5	10	Arkansas
+Arkansas	42	5	30	Ashley
+Arkansas	42	5	50	Baxter
+Arkansas	42	5	70	Benton
+Arkansas	42	5	90	Boone
+Arkansas	42	5	110	Bradley
+Arkansas	42	5	130	Calhoun
+Arkansas	42	5	150	Carroll
+Arkansas	42	5	170	Chicot
+Arkansas	42	5	190	Clark
+Arkansas	42	5	210	Clay
+Arkansas	42	5	230	Cleburne
+Arkansas	42	5	250	Cleveland/Dorsey
+Arkansas	42	5	270	Columbia
+Arkansas	42	5	290	Conway
+Arkansas	42	5	310	Craighead
+Arkansas	42	5	330	Crawford
+Arkansas	42	5	350	Crittenden
+Arkansas	42	5	370	Cross
+Arkansas	42	5	390	Dallas
+Arkansas	42	5	410	Desha
+Arkansas	42	5	430	Drew
+Arkansas	42	5	450	Faulkner
+Arkansas	42	5	470	Franklin
+Arkansas	42	5	490	Fulton
+Arkansas	42	5	510	Garland
+Arkansas	42	5	530	Grant
+Arkansas	42	5	550	Greene
+Arkansas	42	5	570	Hempstead
+Arkansas	42	5	590	Hot Spring
+Arkansas	42	5	610	Howard
+Arkansas	42	5	630	Independence
+Arkansas	42	5	650	Izard
+Arkansas	42	5	670	Jackson
+Arkansas	42	5	690	Jefferson
+Arkansas	42	5	710	Johnson
+Arkansas	42	5	730	Lafayette
+Arkansas	42	5	750	Lawrence
+Arkansas	42	5	770	Lee
+Arkansas	42	5	790	Lincoln
+Arkansas	42	5	810	Little River
+Arkansas	42	5	830	Logan
+Arkansas	42	5	850	Lonoke
+Arkansas	42	5	870	Madison
+Arkansas	42	5	890	Marion
+Arkansas	42	5	910	Miller
+Arkansas	42	5	930	Mississippi
+Arkansas	42	5	950	Monroe
+Arkansas	42	5	970	Montgomery
+Arkansas	42	5	990	Nevada
+Arkansas	42	5	1010	Newton
+Arkansas	42	5	1030	Ouachita
+Arkansas	42	5	1050	Perry
+Arkansas	42	5	1070	Phillips
+Arkansas	42	5	1090	Pike
+Arkansas	42	5	1110	Poinsett
+Arkansas	42	5	1130	Polk
+Arkansas	42	5	1150	Pope
+Arkansas	42	5	1170	Prairie
+Arkansas	42	5	1190	Pulaski
+Arkansas	42	5	1210	Randolph
+Arkansas	42	5	1230	St Francis
+Arkansas	42	5	1250	Saline
+Arkansas	42	5	1270	Scott
+Arkansas	42	5	1290	Searcy
+Arkansas	42	5	1310	Sebastian
+Arkansas	42	5	1330	Sevier
+Arkansas	42	5	1350	Sharp
+Arkansas	42	5	1370	Stone
+Arkansas	42	5	1390	Union
+Arkansas	42	5	1410	Van Buren
+Arkansas	42	5	1430	Washington
+Arkansas	42	5	1450	White
+Arkansas	42	5	1470	Woodruff
+Arkansas	42	5	1490	Yell
+California	71	6	10	Alameda
+California	71	6	30	Alpine
+California	71	6	50	Amador
+California	71	6	70	Butte
+California	71	6	90	Calaveras
+California	71	6	110	Colusa
+California	71	6	130	Contra Costa
+California	71	6	150	Del Norte
+California	71	6	170	El Dorado
+California	71	6	190	Fresno
+California	71	6	210	Glenn
+California	71	6	230	Humboldt
+California	71	6	250	Imperial
+California	71	6	270	Inyo
+California	71	6	290	Kern
+California	71	6	310	Kings
+California	71	6	315	Klamath
+California	71	6	330	Lake
+California	71	6	350	Lassen
+California	71	6	370	Los Angeles
+California	71	6	390	Madera
+California	71	6	410	Marin
+California	71	6	430	Mariposa
+California	71	6	435	Mariposa-Mono
+California	71	6	450	Mendocino
+California	71	6	470	Merced
+California	71	6	490	Modoc
+California	71	6	510	Mono
+California	71	6	530	Monterey
+California	71	6	550	Napa
+California	71	6	570	Nevada
+California	71	6	590	Orange
+California	71	6	610	Placer
+California	71	6	630	Plumas
+California	71	6	650	Riverside
+California	71	6	670	Sacramento
+California	71	6	690	San Benito
+California	71	6	710	San Bernardino
+California	71	6	730	San Diego
+California	71	6	750	San Francisco
+California	71	6	770	San Joaquin
+California	71	6	790	San Luis Obispo
+California	71	6	810	San Mateo
+California	71	6	830	Santa Barbara
+California	71	6	850	Santa Clara
+California	71	6	870	Santa Cruz
+California	71	6	890	Shasta
+California	71	6	910	Sierra
+California	71	6	930	Siskiyou
+California	71	6	950	Solano
+California	71	6	970	Sonoma
+California	71	6	990	Stanislaus
+California	71	6	1010	Sutter
+California	71	6	1030	Tehama
+California	71	6	1050	Trinity
+California	71	6	1070	Tulare
+California	71	6	1090	Tuolumne
+California	71	6	1110	Ventura
+California	71	6	1130	Yolo
+California	71	6	1150	Yuba
+Colorado	62	8	10	Adams
+Colorado	62	8	30	Alamosa
+Colorado	62	8	50	Arapahoe
+Colorado	62	8	70	Archuleta
+Colorado	62	8	90	Baca
+Colorado	62	8	110	Bent
+Colorado	62	8	130	Boulder
+Colorado	62	8	150	Chaffee
+Colorado	62	8	170	Cheyenne
+Colorado	62	8	190	Clear Creek
+Colorado	62	8	210	Conejos
+Colorado	62	8	230	Costilla
+Colorado	62	8	250	Crowley
+Colorado	62	8	270	Custer
+Colorado	62	8	290	Delta
+Colorado	62	8	310	Denver
+Colorado	62	8	330	Dolores
+Colorado	62	8	350	Douglas
+Colorado	62	8	370	Eagle
+Colorado	62	8	390	Elbert
+Colorado	62	8	410	El Paso
+Colorado	62	8	430	Fremont
+Colorado	62	8	450	Garfield
+Colorado	62	8	470	Gilpin
+Colorado	62	8	490	Grand
+Colorado	62	8	495	Greenwood
+Colorado	62	8	510	Gunnison
+Colorado	62	8	530	Hinsdale
+Colorado	62	8	550	Huerfano
+Colorado	62	8	570	Jackson
+Colorado	62	8	590	Jefferson
+Colorado	62	8	610	Kiowa
+Colorado	62	8	630	Kit Carson
+Colorado	62	8	650	Lake
+Colorado	62	8	670	La Plata
+Colorado	62	8	690	Larimer
+Colorado	62	8	710	Las Animas
+Colorado	62	8	730	Lincoln
+Colorado	62	8	750	Logan
+Colorado	62	8	770	Mesa
+Colorado	62	8	790	Mineral
+Colorado	62	8	810	Moffat
+Colorado	62	8	830	Montezuma
+Colorado	62	8	850	Montrose
+Colorado	62	8	870	Morgan
+Colorado	62	8	890	Otero
+Colorado	62	8	910	Ouray
+Colorado	62	8	930	Park
+Colorado	62	8	950	Phillips
+Colorado	62	8	970	Pitkin
+Colorado	62	8	990	Prowers
+Colorado	62	8	1010	Pueblo
+Colorado	62	8	1030	Rio Blanco
+Colorado	62	8	1050	Rio Grande
+Colorado	62	8	1070	Routt
+Colorado	62	8	1090	Saguache
+Colorado	62	8	1110	San Juan
+Colorado	62	8	1130	San Miguel
+Colorado	62	8	1150	Sedgwick
+Colorado	62	8	1170	Summit
+Colorado	62	8	1190	Teller
+Colorado	62	8	1210	Washington
+Colorado	62	8	1230	Weld
+Colorado	62	8	1250	Yuma
+Connecticut	1	9	10	Fairfield
+Connecticut	1	9	30	Hartford
+Connecticut	1	9	50	Litchfield
+Connecticut	1	9	70	Middlesex
+Connecticut	1	9	90	New Haven
+Connecticut	1	9	110	New London
+Connecticut	1	9	130	Tolland
+Connecticut	1	9	150	Windham
+Delaware	11	10	10	Kent
+Delaware	11	10	30	New Castle
+Delaware	11	10	50	Sussex
+District of Columbia	98	11	10	District of Columbia
+Florida	43	12	10	Alachua
+Florida	43	12	30	Baker
+Florida	43	12	50	Bay
+Florida	43	12	70	Bradford/New River
+Florida	43	12	90	Brevard/St Lucie
+Florida	43	12	110	Broward
+Florida	43	12	130	Calhoun
+Florida	43	12	150	Charlotte
+Florida	43	12	170	Citrus
+Florida	43	12	190	Clay
+Florida	43	12	210	Collier
+Florida	43	12	230	Columbia
+Florida	43	12	250	Dade
+Florida	43	12	270	De Soto
+Florida	43	12	290	Dixie
+Florida	43	12	310	Duval
+Florida	43	12	330	Escambia
+Florida	43	12	350	Flagler
+Florida	43	12	370	Franklin
+Florida	43	12	390	Gadsden
+Florida	43	12	410	Gilchrist
+Florida	43	12	430	Glades
+Florida	43	12	450	Gulf
+Florida	43	12	470	Hamilton
+Florida	43	12	490	Hardee
+Florida	43	12	510	Hendry
+Florida	43	12	530	Hernando/ Benton
+Florida	43	12	550	Highlands
+Florida	43	12	570	Hillsborough
+Florida	43	12	590	Holmes
+Florida	43	12	610	Indian River
+Florida	43	12	630	Jackson
+Florida	43	12	650	Jefferson
+Florida	43	12	670	Lafayette
+Florida	43	12	690	Lake
+Florida	43	12	710	Lee
+Florida	43	12	730	Leon
+Florida	43	12	750	Levy
+Florida	43	12	770	Liberty
+Florida	43	12	790	Madison
+Florida	43	12	810	Manatee
+Florida	43	12	830	Marion
+Florida	43	12	850	Martin
+Florida	43	12	870	Monroe
+Florida	43	12	890	Nassau
+Florida	43	12	910	Okaloosa
+Florida	43	12	930	Okeechobee
+Florida	43	12	950	Orange/Mesquito
+Florida	43	12	970	Osceola
+Florida	43	12	990	Palm Beach
+Florida	43	12	1010	Pasco
+Florida	43	12	1030	Pinellas
+Florida	43	12	1050	Polk
+Florida	43	12	1070	Putnam
+Florida	43	12	1090	St Johns
+Florida	43	12	1110	St Lucie
+Florida	43	12	1130	Santa Rosa
+Florida	43	12	1150	Sarasota
+Florida	43	12	1170	Seminole
+Florida	43	12	1190	Sumter
+Florida	43	12	1210	Suwannee
+Florida	43	12	1230	Taylor
+Florida	43	12	1250	Union
+Florida	43	12	1270	Volusia
+Florida	43	12	1290	Wakulla
+Florida	43	12	1310	Walton
+Florida	43	12	1330	Washington
+Georgia	44	13	10	Appling
+Georgia	44	13	30	Atkinson
+Georgia	44	13	50	Bacon
+Georgia	44	13	70	Baker
+Georgia	44	13	90	Baldwin
+Georgia	44	13	110	Banks
+Georgia	44	13	130	Barrow
+Georgia	44	13	150	Bartow/Cass
+Georgia	44	13	170	Ben Hill
+Georgia	44	13	190	Berrien
+Georgia	44	13	210	Bibb
+Georgia	44	13	230	Bleckley
+Georgia	44	13	250	Brantley
+Georgia	44	13	270	Brooks
+Georgia	44	13	290	Bryan
+Georgia	44	13	310	Bulloch
+Georgia	44	13	330	Burke
+Georgia	44	13	350	Butts
+Georgia	44	13	370	Calhoun
+Georgia	44	13	390	Camden
+Georgia	44	13	410	Campbell
+Georgia	44	13	430	Candler
+Georgia	44	13	450	Carroll
+Georgia	44	13	470	Catoosa
+Georgia	44	13	490	Charlton
+Georgia	44	13	510	Chatham
+Georgia	44	13	530	Chattahoochee
+Georgia	44	13	550	Chattooga
+Georgia	44	13	570	Cherokee
+Georgia	44	13	590	Clarke
+Georgia	44	13	610	Clay
+Georgia	44	13	630	Clayton
+Georgia	44	13	650	Clinch
+Georgia	44	13	670	Cobb
+Georgia	44	13	690	Coffee
+Georgia	44	13	710	Colquitt
+Georgia	44	13	730	Columbia
+Georgia	44	13	750	Cook
+Georgia	44	13	770	Coweta
+Georgia	44	13	790	Crawford
+Georgia	44	13	810	Crisp
+Georgia	44	13	830	Dade
+Georgia	44	13	850	Dawson
+Georgia	44	13	870	Decatur
+Georgia	44	13	890	De Kalb
+Georgia	44	13	910	Dodge
+Georgia	44	13	930	Dooly
+Georgia	44	13	950	Dougherty
+Georgia	44	13	970	Douglas
+Georgia	44	13	990	Early
+Georgia	44	13	1010	Echols
+Georgia	44	13	1030	Effingham
+Georgia	44	13	1050	Elbert
+Georgia	44	13	1070	Emanuel
+Georgia	44	13	1090	Evans
+Georgia	44	13	1110	Fannin
+Georgia	44	13	1130	Fayette
+Georgia	44	13	1150	Floyd
+Georgia	44	13	1170	Forsyth
+Georgia	44	13	1190	Franklin
+Georgia	44	13	1210	Fulton
+Georgia	44	13	1230	Gilmer
+Georgia	44	13	1250	Glascock
+Georgia	44	13	1270	Glynn
+Georgia	44	13	1290	Gordon
+Georgia	44	13	1310	Grady
+Georgia	44	13	1330	Greene
+Georgia	44	13	1350	Gwinnett
+Georgia	44	13	1370	Habersham
+Georgia	44	13	1390	Hall
+Georgia	44	13	1410	Hancock
+Georgia	44	13	1430	Haralson
+Georgia	44	13	1450	Harris
+Georgia	44	13	1470	Hart
+Georgia	44	13	1490	Heard
+Georgia	44	13	1510	Henry
+Georgia	44	13	1530	Houston
+Georgia	44	13	1550	Irwin
+Georgia	44	13	1570	Jackson
+Georgia	44	13	1590	Jasper
+Georgia	44	13	1610	Jeff Davis
+Georgia	44	13	1630	Jefferson
+Georgia	44	13	1650	Jenkins
+Georgia	44	13	1670	Johnson
+Georgia	44	13	1690	Jones
+Georgia	44	13	1730	Lanier
+Georgia	44	13	1750	Laurens
+Georgia	44	13	1770	Lee
+Georgia	44	13	1790	Liberty
+Georgia	44	13	1810	Lincoln
+Georgia	44	13	1830	Long
+Georgia	44	13	1850	Lowndes
+Georgia	44	13	1870	Lumpkin
+Georgia	44	13	1890	Mcduffie
+Georgia	44	13	1910	Mcintosh
+Georgia	44	13	1930	Macon
+Georgia	44	13	1950	Madison
+Georgia	44	13	1970	Marion
+Georgia	44	13	1990	Meriwether
+Georgia	44	13	2010	Miller
+Georgia	44	13	2030	Milton
+Georgia	44	13	2050	Mitchell
+Georgia	44	13	2070	Monroe
+Georgia	44	13	2090	Montgomery
+Georgia	44	13	2110	Morgan
+Georgia	44	13	2130	Murray
+Georgia	44	13	2150	Muscogee
+Georgia	44	13	2170	Newton
+Georgia	44	13	2190	Oconee
+Georgia	44	13	2210	Oglethorpe
+Georgia	44	13	2230	Paulding
+Georgia	44	13	2250	Peach
+Georgia	44	13	2270	Pickens
+Georgia	44	13	2290	Pierce
+Georgia	44	13	2310	Pike
+Georgia	44	13	2330	Polk
+Georgia	44	13	2350	Pulaski
+Georgia	44	13	2370	Putnam
+Georgia	44	13	2390	Quitman
+Georgia	44	13	2410	Rabun
+Georgia	44	13	2430	Randolph
+Georgia	44	13	2450	Richmond
+Georgia	44	13	2470	Rockdale
+Georgia	44	13	2490	Schley
+Georgia	44	13	2510	Screven
+Georgia	44	13	2530	Seminole
+Georgia	44	13	2550	Spalding
+Georgia	44	13	2570	Stephens
+Georgia	44	13	2590	Stewart
+Georgia	44	13	2610	Sumter
+Georgia	44	13	2630	Talbot
+Georgia	44	13	2650	Taliaferro
+Georgia	44	13	2670	Tattnall
+Georgia	44	13	2690	Taylor
+Georgia	44	13	2710	Telfair
+Georgia	44	13	2730	Terrell
+Georgia	44	13	2750	Thomas
+Georgia	44	13	2770	Tift
+Georgia	44	13	2790	Toombs
+Georgia	44	13	2810	Towns
+Georgia	44	13	2830	Treutlen
+Georgia	44	13	2850	Troup
+Georgia	44	13	2870	Turner
+Georgia	44	13	2890	Twiggs
+Georgia	44	13	2910	Union
+Georgia	44	13	2930	Upson
+Georgia	44	13	2950	Walker
+Georgia	44	13	2970	Walton
+Georgia	44	13	2990	Ware
+Georgia	44	13	3010	Warren
+Georgia	44	13	3030	Washington
+Georgia	44	13	3050	Wayne
+Georgia	44	13	3070	Webster
+Georgia	44	13	3090	Wheeler
+Georgia	44	13	3110	White
+Georgia	44	13	3130	Whitfield
+Georgia	44	13	3150	Wilcox
+Georgia	44	13	3170	Wilkes
+Georgia	44	13	3190	Wilkinson
+Georgia	44	13	3210	Worth
+Hawaii	82	15	10	Hawaii
+Hawaii	82	15	30	Honolulu
+Hawaii	82	15	70	Kauai
+Hawaii	82	15	90	Maui
+Hawaii	82	15	110	Unknown
+Hawaii	82	15	9997	Lanai
+Hawaii	82	15	9997	Molokai
+Hawaii	82	15	9997	Niihau
+Hawaii	82	15	9997	Oahu
+Idaho	63	16	10	Ada
+Idaho	63	16	30	Adams
+Idaho	63	16	35	Alturas
+Idaho	63	16	50	Bannock
+Idaho	63	16	70	Bear Lake
+Idaho	63	16	90	Benewah
+Idaho	63	16	110	Bingham
+Idaho	63	16	130	Blaine
+Idaho	63	16	150	Boise
+Idaho	63	16	170	Bonner
+Idaho	63	16	190	Bonneville
+Idaho	63	16	210	Boundary
+Idaho	63	16	230	Butte
+Idaho	63	16	250	Camas
+Idaho	63	16	270	Canyon
+Idaho	63	16	290	Caribou
+Idaho	63	16	310	Cassia
+Idaho	63	16	330	Clark
+Idaho	63	16	335	Clark-Fremont
+Idaho	63	16	350	Clearwater
+Idaho	63	16	370	Custer
+Idaho	63	16	390	Elmore
+Idaho	63	16	410	Franklin
+Idaho	63	16	430	Fremont
+Idaho	63	16	450	Gem
+Idaho	63	16	470	Gooding
+Idaho	63	16	490	Idaho
+Idaho	63	16	510	Jefferson
+Idaho	63	16	530	Jerome
+Idaho	63	16	550	Kootenai
+Idaho	63	16	570	Latah
+Idaho	63	16	590	Lemhi
+Idaho	63	16	610	Lewis
+Idaho	63	16	630	Lincoln
+Idaho	63	16	635	Logan
+Idaho	63	16	650	Madison
+Idaho	63	16	670	Minidoka
+Idaho	63	16	690	Nez Perce
+Idaho	63	16	710	Oneida
+Idaho	63	16	730	Owyhee
+Idaho	63	16	750	Payette
+Idaho	63	16	770	Power
+Idaho	63	16	790	Shoshone
+Idaho	63	16	810	Teton
+Idaho	63	16	830	Twin Falls
+Idaho	63	16	850	Valley
+Idaho	63	16	870	Washington
+Illinois	21	17	10	Adams
+Illinois	21	17	30	Alexander
+Illinois	21	17	50	Bond
+Illinois	21	17	70	Boone
+Illinois	21	17	90	Brown
+Illinois	21	17	110	Bureau
+Illinois	21	17	130	Calhoun
+Illinois	21	17	150	Carroll
+Illinois	21	17	170	Cass
+Illinois	21	17	190	Champaign
+Illinois	21	17	210	Christian
+Illinois	21	17	230	Clark
+Illinois	21	17	250	Clay
+Illinois	21	17	270	Clinton
+Illinois	21	17	290	Coles
+Illinois	21	17	310	Cook
+Illinois	21	17	330	Crawford
+Illinois	21	17	350	Cumberland
+Illinois	21	17	370	DeKalb
+Illinois	21	17	390	De Witt
+Illinois	21	17	410	Douglas
+Illinois	21	17	430	Du Page
+Illinois	21	17	450	Edgar
+Illinois	21	17	470	Edwards
+Illinois	21	17	490	Effingham
+Illinois	21	17	510	Fayette
+Illinois	21	17	530	Ford
+Illinois	21	17	550	Franklin
+Illinois	21	17	570	Fulton
+Illinois	21	17	590	Gallatin
+Illinois	21	17	610	Greene
+Illinois	21	17	630	Grundy
+Illinois	21	17	650	Hamilton
+Illinois	21	17	670	Hancock
+Illinois	21	17	690	Hardin
+Illinois	21	17	710	Henderson
+Illinois	21	17	730	Henry
+Illinois	21	17	750	Iroquois
+Illinois	21	17	770	Jackson
+Illinois	21	17	790	Jasper
+Illinois	21	17	810	Jefferson
+Illinois	21	17	830	Jersey
+Illinois	21	17	850	Jo Daviess
+Illinois	21	17	870	Johnson
+Illinois	21	17	890	Kane
+Illinois	21	17	910	Kankakee
+Illinois	21	17	930	Kendall
+Illinois	21	17	950	Knox
+Illinois	21	17	970	Lake
+Illinois	21	17	990	La Salle
+Illinois	21	17	1010	Lawrence
+Illinois	21	17	1030	Lee
+Illinois	21	17	1050	Livingston
+Illinois	21	17	1070	Logan
+Illinois	21	17	1090	McDonough
+Illinois	21	17	1110	McHenry
+Illinois	21	17	1130	McLean
+Illinois	21	17	1150	Macon
+Illinois	21	17	1170	Macoupin
+Illinois	21	17	1190	Madison
+Illinois	21	17	1210	Marion
+Illinois	21	17	1230	Marshall
+Illinois	21	17	1250	Mason
+Illinois	21	17	1270	Massac
+Illinois	21	17	1290	Menard
+Illinois	21	17	1310	Mercer
+Illinois	21	17	1330	Monroe
+Illinois	21	17	1350	Montgomery
+Illinois	21	17	1370	Morgan
+Illinois	21	17	1390	Moultrie
+Illinois	21	17	1410	Ogle
+Illinois	21	17	1430	Peoria
+Illinois	21	17	1450	Perry
+Illinois	21	17	1470	Piatt
+Illinois	21	17	1490	Pike
+Illinois	21	17	1510	Pope
+Illinois	21	17	1530	Pulaski
+Illinois	21	17	1550	Putnam
+Illinois	21	17	1570	Randolph
+Illinois	21	17	1590	Richland
+Illinois	21	17	1610	Rock Island
+Illinois	21	17	1630	St Clair
+Illinois	21	17	1650	Saline
+Illinois	21	17	1670	Sangamon
+Illinois	21	17	1690	Schuyler
+Illinois	21	17	1710	Scott
+Illinois	21	17	1730	Shelby
+Illinois	21	17	1750	Stark
+Illinois	21	17	1770	Stephenson
+Illinois	21	17	1790	Tazewell
+Illinois	21	17	1810	Union
+Illinois	21	17	1830	Vermilion
+Illinois	21	17	1850	Wabash
+Illinois	21	17	1870	Warren
+Illinois	21	17	1890	Washington
+Illinois	21	17	1910	Wayne
+Illinois	21	17	1930	White
+Illinois	21	17	1950	Whiteside
+Illinois	21	17	1970	Will
+Illinois	21	17	1990	Williamson
+Illinois	21	17	2010	Winnebago
+Illinois	21	17	2030	Woodford
+Indiana	22	18	10	Adams
+Indiana	22	18	30	Allen
+Indiana	22	18	50	Bartholomew
+Indiana	22	18	70	Benton
+Indiana	22	18	90	Blackford
+Indiana	22	18	110	Boone
+Indiana	22	18	130	Brown
+Indiana	22	18	150	Carroll
+Indiana	22	18	170	Cass
+Indiana	22	18	190	Clark
+Indiana	22	18	210	Clay
+Indiana	22	18	230	Clinton
+Indiana	22	18	250	Crawford
+Indiana	22	18	270	Daviess
+Indiana	22	18	290	Dearborn
+Indiana	22	18	310	Decatur
+Indiana	22	18	330	De Kalb
+Indiana	22	18	350	Delaware
+Indiana	22	18	370	Dubois
+Indiana	22	18	390	Elkhart
+Indiana	22	18	410	Fayette
+Indiana	22	18	430	Floyd
+Indiana	22	18	450	Fountain
+Indiana	22	18	470	Franklin
+Indiana	22	18	490	Fulton
+Indiana	22	18	510	Gibson
+Indiana	22	18	530	Grant
+Indiana	22	18	550	Greene
+Indiana	22	18	570	Hamilton
+Indiana	22	18	590	Hancock
+Indiana	22	18	610	Harrison
+Indiana	22	18	630	Hendricks
+Indiana	22	18	650	Henry
+Indiana	22	18	670	Howard
+Indiana	22	18	690	Huntington
+Indiana	22	18	710	Jackson
+Indiana	22	18	730	Jasper
+Indiana	22	18	750	Jay
+Indiana	22	18	770	Jefferson
+Indiana	22	18	790	Jennings
+Indiana	22	18	810	Johnson
+Indiana	22	18	830	Knox
+Indiana	22	18	850	Kosciusko
+Indiana	22	18	870	Lagrange
+Indiana	22	18	890	Lake
+Indiana	22	18	910	La Porte
+Indiana	22	18	930	Lawrence
+Indiana	22	18	950	Madison
+Indiana	22	18	970	Marion
+Indiana	22	18	990	Marshall
+Indiana	22	18	1010	Martin
+Indiana	22	18	1030	Miami
+Indiana	22	18	1050	Monroe
+Indiana	22	18	1070	Montgomery
+Indiana	22	18	1090	Morgan
+Indiana	22	18	1110	Newton
+Indiana	22	18	1130	Noble
+Indiana	22	18	1150	Ohio
+Indiana	22	18	1170	Orange
+Indiana	22	18	1190	Owen
+Indiana	22	18	1210	Parke
+Indiana	22	18	1230	Perry
+Indiana	22	18	1250	Pike
+Indiana	22	18	1270	Porter
+Indiana	22	18	1290	Posey
+Indiana	22	18	1310	Pulaski
+Indiana	22	18	1330	Putnam
+Indiana	22	18	1350	Randolph
+Indiana	22	18	1370	Ripley
+Indiana	22	18	1390	Rush
+Indiana	22	18	1410	St Joseph
+Indiana	22	18	1430	Scott
+Indiana	22	18	1450	Shelby
+Indiana	22	18	1470	Spencer
+Indiana	22	18	1490	Starke
+Indiana	22	18	1510	Steuben
+Indiana	22	18	1530	Sullivan
+Indiana	22	18	1550	Switzerland
+Indiana	22	18	1570	Tippecanoe
+Indiana	22	18	1590	Tipton
+Indiana	22	18	1610	Union
+Indiana	22	18	1630	Vanderburgh
+Indiana	22	18	1650	Vermillion
+Indiana	22	18	1670	Vigo
+Indiana	22	18	1690	Wabash
+Indiana	22	18	1710	Warren
+Indiana	22	18	1730	Warrick
+Indiana	22	18	1750	Washington
+Indiana	22	18	1770	Wayne
+Indiana	22	18	1790	Wells
+Indiana	22	18	1810	White
+Indiana	22	18	1830	Whitley
+Iowa	31	19	10	Adair
+Iowa	31	19	30	Adams
+Iowa	31	19	50	Allamakee
+Iowa	31	19	70	Appanoose
+Iowa	31	19	90	Audubon
+Iowa	31	19	110	Benton
+Iowa	31	19	130	Black Hawk
+Iowa	31	19	150	Boone
+Iowa	31	19	170	Bremer
+Iowa	31	19	190	Buchanan
+Iowa	31	19	210	Buena Vista
+Iowa	31	19	230	Butler
+Iowa	31	19	250	Calhoun
+Iowa	31	19	270	Carroll
+Iowa	31	19	290	Cass
+Iowa	31	19	310	Cedar
+Iowa	31	19	330	Cerro Gordo
+Iowa	31	19	350	Cherokee
+Iowa	31	19	370	Chickasaw
+Iowa	31	19	390	Clarke
+Iowa	31	19	410	Clay
+Iowa	31	19	430	Clayton
+Iowa	31	19	450	Clinton
+Iowa	31	19	470	Crawford
+Iowa	31	19	490	Dallas
+Iowa	31	19	510	Davis
+Iowa	31	19	530	Decatur
+Iowa	31	19	550	Delaware
+Iowa	31	19	570	Des Moines
+Iowa	31	19	590	Dickinson
+Iowa	31	19	610	Dubuque
+Iowa	31	19	630	Emmet
+Iowa	31	19	650	Fayette
+Iowa	31	19	670	Floyd
+Iowa	31	19	690	Franklin
+Iowa	31	19	710	Fremont
+Iowa	31	19	730	Greene
+Iowa	31	19	750	Grundy
+Iowa	31	19	770	Guthrie
+Iowa	31	19	790	Hamilton
+Iowa	31	19	810	Hancock
+Iowa	31	19	830	Hardin
+Iowa	31	19	850	Harrison
+Iowa	31	19	870	Henry
+Iowa	31	19	890	Howard
+Iowa	31	19	910	Humboldt
+Iowa	31	19	930	Ida
+Iowa	31	19	950	Iowa
+Iowa	31	19	970	Jackson
+Iowa	31	19	990	Jasper
+Iowa	31	19	1010	Jefferson
+Iowa	31	19	1030	Johnson
+Iowa	31	19	1050	Jones
+Iowa	31	19	1070	Keokuk
+Iowa	31	19	1090	Kossuth
+Iowa	31	19	1110	Lee
+Iowa	31	19	1130	Linn
+Iowa	31	19	1150	Louisa
+Iowa	31	19	1170	Lucas
+Iowa	31	19	1190	Lyon/Buncombe
+Iowa	31	19	1210	Madison
+Iowa	31	19	1230	Mahaska
+Iowa	31	19	1250	Marion
+Iowa	31	19	1270	Marshall
+Iowa	31	19	1290	Mills
+Iowa	31	19	1310	Mitchell
+Iowa	31	19	1330	Monona
+Iowa	31	19	1350	Monroe
+Iowa	31	19	1370	Montgomery
+Iowa	31	19	1390	Muscatine
+Iowa	31	19	1410	O Brien
+Iowa	31	19	1430	Osceola
+Iowa	31	19	1450	Page
+Iowa	31	19	1470	Palo Alto
+Iowa	31	19	1490	Plymouth
+Iowa	31	19	1510	Pocahontas
+Iowa	31	19	1530	Polk
+Iowa	31	19	1550	Pottawattamie
+Iowa	31	19	1570	Poweshiek
+Iowa	31	19	1590	Ringgold
+Iowa	31	19	1610	Sac
+Iowa	31	19	1630	Scott
+Iowa	31	19	1650	Shelby
+Iowa	31	19	1670	Sioux
+Iowa	31	19	1690	Story
+Iowa	31	19	1710	Tama
+Iowa	31	19	1730	Taylor
+Iowa	31	19	1750	Union
+Iowa	31	19	1770	Van Buren
+Iowa	31	19	1790	Wapello
+Iowa	31	19	1810	Warren
+Iowa	31	19	1830	Washington
+Iowa	31	19	1850	Wayne
+Iowa	31	19	1870	Webster
+Iowa	31	19	1890	Winnebago
+Iowa	31	19	1910	Winneshiek
+Iowa	31	19	1930	Woodbury
+Iowa	31	19	1950	Worth
+Iowa	31	19	1970	Wright
+Kansas	32	20	10	Allen
+Kansas	32	20	30	Anderson
+Kansas	32	20	50	Atchison
+Kansas	32	20	55	Arapahoe
+Kansas	32	20	70	Barber/Barbour
+Kansas	32	20	90	Barton
+Kansas	32	20	110	Bourbon
+Kansas	32	20	115	Breckenridge
+Kansas	32	20	130	Brown
+Kansas	32	20	135	Buffalo
+Kansas	32	20	150	Butler
+Kansas	32	20	170	Chase
+Kansas	32	20	190	Chautauqua
+Kansas	32	20	210	Cherokee/Mcghee
+Kansas	32	20	230	Cheyenne
+Kansas	32	20	250	Clark
+Kansas	32	20	270	Clay
+Kansas	32	20	290	Cloud
+Kansas	32	20	310	Coffey
+Kansas	32	20	330	Comanche
+Kansas	32	20	350	Cowley
+Kansas	32	20	370	Crawford
+Kansas	32	20	390	Decatur
+Kansas	32	20	410	Dickinson
+Kansas	32	20	430	Doniphan
+Kansas	32	20	450	Douglas
+Kansas	32	20	470	Edwards
+Kansas	32	20	490	Elk
+Kansas	32	20	510	Ellis
+Kansas	32	20	530	Ellsworth
+Kansas	32	20	550	Finney/Sequoyah
+Kansas	32	20	555	Foote
+Kansas	32	20	570	Ford
+Kansas	32	20	590	Franklin
+Kansas	32	20	595	Garfield
+Kansas	32	20	610	Geary/Davis
+Kansas	32	20	630	Gove
+Kansas	32	20	650	Graham
+Kansas	32	20	670	Grant
+Kansas	32	20	690	Gray
+Kansas	32	20	710	Greeley
+Kansas	32	20	730	Greenwood
+Kansas	32	20	750	Hamilton
+Kansas	32	20	770	Harper
+Kansas	32	20	790	Harvey
+Kansas	32	20	810	Haskell
+Kansas	32	20	830	Hodgeman
+Kansas	32	20	835	Howard
+Kansas	32	20	850	Jackson
+Kansas	32	20	870	Jefferson
+Kansas	32	20	890	Jewell
+Kansas	32	20	910	Johnson
+Kansas	32	20	915	Kansas
+Kansas	32	20	930	Kearny
+Kansas	32	20	950	Kingman
+Kansas	32	20	970	Kiowa
+Kansas	32	20	990	Labette
+Kansas	32	20	1010	Lane
+Kansas	32	20	1030	Leavenworth
+Kansas	32	20	1050	Lincoln
+Kansas	32	20	1070	Linn
+Kansas	32	20	1090	Logan
+Kansas	32	20	1110	Lyon
+Kansas	32	20	1115	Madison
+Kansas	32	20	1130	McPherson
+Kansas	32	20	1150	Marion
+Kansas	32	20	1170	Marshall
+Kansas	32	20	1190	Meade
+Kansas	32	20	1210	Miami/Lykins
+Kansas	32	20	1230	Mitchell
+Kansas	32	20	1250	Montgomery
+Kansas	32	20	1270	Morris
+Kansas	32	20	1290	Morton
+Kansas	32	20	1310	Nemaha
+Kansas	32	20	1330	Neosho/Dorn
+Kansas	32	20	1350	Ness
+Kansas	32	20	1370	Norton
+Kansas	32	20	1390	Osage
+Kansas	32	20	1410	Osborne
+Kansas	32	20	1415	Otoc
+Kansas	32	20	1430	Ottawa
+Kansas	32	20	1450	Pawnee
+Kansas	32	20	1470	Phillips
+Kansas	32	20	1490	Pottawatomie
+Kansas	32	20	1510	Pratt
+Kansas	32	20	1530	Rawlins
+Kansas	32	20	1550	Reno
+Kansas	32	20	1570	Republic
+Kansas	32	20	1590	Rice
+Kansas	32	20	1610	Riley
+Kansas	32	20	1630	Rooks
+Kansas	32	20	1650	Rush
+Kansas	32	20	1670	Russell
+Kansas	32	20	1690	Saline
+Kansas	32	20	1710	Scott
+Kansas	32	20	1730	Sedgwick
+Kansas	32	20	1750	Seward
+Kansas	32	20	1770	Shawnee
+Kansas	32	20	1790	Sheridan
+Kansas	32	20	1810	Sherman
+Kansas	32	20	1830	Smith
+Kansas	32	20	1850	Stafford
+Kansas	32	20	1870	Stanton
+Kansas	32	20	1890	Stevens
+Kansas	32	20	1910	Sumner
+Kansas	32	20	1930	Thomas
+Kansas	32	20	1950	Trego
+Kansas	32	20	1970	Wabaunsee
+Kansas	32	20	1990	Wallace
+Kansas	32	20	2010	Washington
+Kansas	32	20	2030	Wichita
+Kansas	32	20	2050	Wilson
+Kansas	32	20	2070	Woodson
+Kansas	32	20	2090	Wyandotte
+Kentucky	51	21	10	Adair
+Kentucky	51	21	30	Allen
+Kentucky	51	21	50	Anderson
+Kentucky	51	21	70	Ballard
+Kentucky	51	21	90	Barren
+Kentucky	51	21	110	Bath
+Kentucky	51	21	130	Bell
+Kentucky	51	21	150	Boone
+Kentucky	51	21	170	Bourbon
+Kentucky	51	21	190	Boyd
+Kentucky	51	21	210	Boyle
+Kentucky	51	21	230	Bracken
+Kentucky	51	21	250	Breathitt
+Kentucky	51	21	270	Breckinridge
+Kentucky	51	21	290	Bullitt
+Kentucky	51	21	310	Butler
+Kentucky	51	21	330	Caldwell
+Kentucky	51	21	350	Calloway
+Kentucky	51	21	370	Campbell
+Kentucky	51	21	390	Carlisle
+Kentucky	51	21	410	Carroll
+Kentucky	51	21	430	Carter
+Kentucky	51	21	450	Casey
+Kentucky	51	21	470	Christian
+Kentucky	51	21	490	Clark
+Kentucky	51	21	510	Clay
+Kentucky	51	21	530	Clinton
+Kentucky	51	21	550	Crittenden
+Kentucky	51	21	570	Cumberland
+Kentucky	51	21	590	Daviess
+Kentucky	51	21	610	Edmonson
+Kentucky	51	21	630	Elliott
+Kentucky	51	21	650	Estill
+Kentucky	51	21	670	Fayette
+Kentucky	51	21	690	Fleming
+Kentucky	51	21	710	Floyd
+Kentucky	51	21	730	Franklin
+Kentucky	51	21	750	Fulton
+Kentucky	51	21	770	Gallatin
+Kentucky	51	21	790	Garrard
+Kentucky	51	21	810	Grant
+Kentucky	51	21	830	Graves
+Kentucky	51	21	850	Grayson
+Kentucky	51	21	870	Green
+Kentucky	51	21	890	Greenup
+Kentucky	51	21	910	Hancock
+Kentucky	51	21	930	Hardin
+Kentucky	51	21	950	Harlan
+Kentucky	51	21	970	Harrison
+Kentucky	51	21	990	Hart
+Kentucky	51	21	1010	Henderson
+Kentucky	51	21	1030	Henry
+Kentucky	51	21	1050	Hickman
+Kentucky	51	21	1070	Hopkins
+Kentucky	51	21	1090	Jackson
+Kentucky	51	21	1110	Jefferson
+Kentucky	51	21	1130	Jessamine
+Kentucky	51	21	1150	Johnson
+Kentucky	51	21	1155	Josh Bell
+Kentucky	51	21	1170	Kenton
+Kentucky	51	21	1190	Knott
+Kentucky	51	21	1210	Knox
+Kentucky	51	21	1230	Larue
+Kentucky	51	21	1250	Laurel
+Kentucky	51	21	1270	Lawrence
+Kentucky	51	21	1290	Lee
+Kentucky	51	21	1310	Leslie
+Kentucky	51	21	1330	Letcher
+Kentucky	51	21	1350	Lewis
+Kentucky	51	21	1370	Lincoln
+Kentucky	51	21	1390	Livingston
+Kentucky	51	21	1410	Logan
+Kentucky	51	21	1430	Lyon
+Kentucky	51	21	1450	McCracken
+Kentucky	51	21	1470	McCreary
+Kentucky	51	21	1490	McLean
+Kentucky	51	21	1510	Madison
+Kentucky	51	21	1530	Magoffin
+Kentucky	51	21	1550	Marion
+Kentucky	51	21	1570	Marshall
+Kentucky	51	21	1590	Martin
+Kentucky	51	21	1610	Mason
+Kentucky	51	21	1630	Meade
+Kentucky	51	21	1650	Menifee
+Kentucky	51	21	1670	Mercer
+Kentucky	51	21	1690	Metcalfe
+Kentucky	51	21	1710	Monroe
+Kentucky	51	21	1730	Montgomery
+Kentucky	51	21	1750	Morgan
+Kentucky	51	21	1770	Muhlenberg
+Kentucky	51	21	1790	Nelson
+Kentucky	51	21	1810	Nicholas
+Kentucky	51	21	1830	Ohio
+Kentucky	51	21	1850	Oldham
+Kentucky	51	21	1870	Owen
+Kentucky	51	21	1890	Owsley
+Kentucky	51	21	1910	Pendleton
+Kentucky	51	21	1930	Perry
+Kentucky	51	21	1950	Pike
+Kentucky	51	21	1970	Powell
+Kentucky	51	21	1990	Pulaski
+Kentucky	51	21	2010	Robertson
+Kentucky	51	21	2030	Rockcastle
+Kentucky	51	21	2050	Rowan
+Kentucky	51	21	2070	Russell
+Kentucky	51	21	2090	Scott
+Kentucky	51	21	2110	Shelby
+Kentucky	51	21	2130	Simpson
+Kentucky	51	21	2150	Spencer
+Kentucky	51	21	2170	Taylor
+Kentucky	51	21	2190	Todd
+Kentucky	51	21	2210	Trigg
+Kentucky	51	21	2230	Trimble
+Kentucky	51	21	2250	Union
+Kentucky	51	21	2270	Warren
+Kentucky	51	21	2290	Washington
+Kentucky	51	21	2310	Wayne
+Kentucky	51	21	2330	Webster
+Kentucky	51	21	2350	Whitley
+Kentucky	51	21	2370	Wolfe
+Kentucky	51	21	2390	Woodford
+Louisiana	45	22	10	Acadia
+Louisiana	45	22	30	Allen
+Louisiana	45	22	50	Ascension
+Louisiana	45	22	70	Assumption
+Louisiana	45	22	90	Avoyelles
+Louisiana	45	22	110	Beauregard
+Louisiana	45	22	130	Bienville
+Louisiana	45	22	150	Bossier
+Louisiana	45	22	170	Caddo
+Louisiana	45	22	190	Calcasieu
+Louisiana	45	22	210	Caldwell
+Louisiana	45	22	230	Cameron
+Louisiana	45	22	250	Catahoula
+Louisiana	45	22	270	Claiborne
+Louisiana	45	22	290	Concordia
+Louisiana	45	22	310	De Soto
+Louisiana	45	22	330	East Baton Rouge
+Louisiana	45	22	350	East Carroll/Carroll
+Louisiana	45	22	370	East Feliciana
+Louisiana	45	22	390	Evangeline
+Louisiana	45	22	410	Franklin
+Louisiana	45	22	430	Grant
+Louisiana	45	22	450	Iberia
+Louisiana	45	22	470	Iberville
+Louisiana	45	22	490	Jackson
+Louisiana	45	22	510	Jefferson
+Louisiana	45	22	530	Jefferson Davis
+Louisiana	45	22	550	Lafayette
+Louisiana	45	22	570	Lafourche
+Louisiana	45	22	590	La Salle
+Louisiana	45	22	610	Lincoln
+Louisiana	45	22	630	Livingston
+Louisiana	45	22	650	Madison
+Louisiana	45	22	670	Morehouse
+Louisiana	45	22	690	Natchitoches
+Louisiana	45	22	710	Orleans
+Louisiana	45	22	730	Ouachita
+Louisiana	45	22	750	Plaquemines
+Louisiana	45	22	770	Pointe Coupee
+Louisiana	45	22	790	Rapides
+Louisiana	45	22	810	Red River
+Louisiana	45	22	830	Richland
+Louisiana	45	22	850	Sabine
+Louisiana	45	22	870	St Bernard
+Louisiana	45	22	890	St Charles
+Louisiana	45	22	910	St Helena
+Louisiana	45	22	930	St James
+Louisiana	45	22	950	St John The Baptist
+Louisiana	45	22	970	St Landry
+Louisiana	45	22	990	St Martin
+Louisiana	45	22	1010	St Mary
+Louisiana	45	22	1030	St Tammany
+Louisiana	45	22	1050	Tangipahoa
+Louisiana	45	22	1070	Tensas
+Louisiana	45	22	1090	Terrebonne
+Louisiana	45	22	1110	Union
+Louisiana	45	22	1130	Vermilion
+Louisiana	45	22	1150	Vernon
+Louisiana	45	22	1170	Washington
+Louisiana	45	22	1190	Webster
+Louisiana	45	22	1210	West Baton Rouge
+Louisiana	45	22	1230	West Carroll
+Louisiana	45	22	1250	West Feliciana
+Louisiana	45	22	1270	Winn
+Maine	2	23	10	Androscoggin
+Maine	2	23	30	Aroostook
+Maine	2	23	50	Cumberland
+Maine	2	23	70	Franklin
+Maine	2	23	90	Hancock
+Maine	2	23	110	Kennebec
+Maine	2	23	130	Knox
+Maine	2	23	150	Lincoln
+Maine	2	23	170	Oxford
+Maine	2	23	190	Penobscot
+Maine	2	23	210	Piscataquis
+Maine	2	23	230	Sagadahoc
+Maine	2	23	250	Somerset
+Maine	2	23	270	Waldo
+Maine	2	23	290	Washington
+Maine	2	23	310	York
+Maryland	52	24	10	Allegany
+Maryland	52	24	30	Anne Arundel
+Maryland	52	24	50	Baltimore
+Maryland	52	24	70	Calvert
+Maryland	52	24	90	Caroline
+Maryland	52	24	110	Carroll
+Maryland	52	24	130	Cecil
+Maryland	52	24	150	Charles
+Maryland	52	24	170	Dorchester
+Maryland	52	24	190	Frederick
+Maryland	52	24	210	Garrett
+Maryland	52	24	230	Harford
+Maryland	52	24	250	Howard
+Maryland	52	24	270	Kent
+Maryland	52	24	290	Montgomery
+Maryland	52	24	310	Prince Georges
+Maryland	52	24	330	Queen Annes
+Maryland	52	24	350	Somerset
+Maryland	52	24	370	St Marys
+Maryland	52	24	390	Talbot
+Maryland	52	24	410	Washington
+Maryland	52	24	430	Wicomico
+Maryland	52	24	450	Worcester
+Maryland	52	24	5100	Baltimore City
+Massachusetts	3	25	10	Barnstable
+Massachusetts	3	25	30	Berkshire
+Massachusetts	3	25	50	Bristol
+Massachusetts	3	25	70	Dukes
+Massachusetts	3	25	90	Essex
+Massachusetts	3	25	110	Franklin
+Massachusetts	3	25	130	Hampden
+Massachusetts	3	25	150	Hampshire
+Massachusetts	3	25	170	Middlesex
+Massachusetts	3	25	190	Nantucket
+Massachusetts	3	25	210	Norfolk
+Massachusetts	3	25	230	Plymouth
+Massachusetts	3	25	250	Suffolk
+Massachusetts	3	25	270	Worcester
+Michigan	23	26	10	Alcona
+Michigan	23	26	30	Alger
+Michigan	23	26	50	Allegan
+Michigan	23	26	70	Alpena
+Michigan	23	26	90	Antrim
+Michigan	23	26	110	Arenac
+Michigan	23	26	130	Baraga
+Michigan	23	26	150	Barry
+Michigan	23	26	170	Bay
+Michigan	23	26	190	Benzie
+Michigan	23	26	210	Berrien
+Michigan	23	26	230	Branch
+Michigan	23	26	250	Calhoun
+Michigan	23	26	270	Cass
+Michigan	23	26	290	Charlevoix
+Michigan	23	26	310	Cheboygan
+Michigan	23	26	330	Chippewa
+Michigan	23	26	350	Clare
+Michigan	23	26	370	Clinton
+Michigan	23	26	390	Crawford
+Michigan	23	26	410	Delta
+Michigan	23	26	430	Dickinson
+Michigan	23	26	450	Eaton
+Michigan	23	26	470	Emmet
+Michigan	23	26	490	Genesee
+Michigan	23	26	510	Gladwin
+Michigan	23	26	530	Gogebic
+Michigan	23	26	550	Grand Traverse
+Michigan	23	26	570	Gratiot
+Michigan	23	26	590	Hillsdale
+Michigan	23	26	610	Houghton
+Michigan	23	26	630	Huron
+Michigan	23	26	650	Ingham
+Michigan	23	26	670	Ionia
+Michigan	23	26	690	Iosco
+Michigan	23	26	710	Iron
+Michigan	23	26	730	Isabella
+Michigan	23	26	735	Isle Royale
+Michigan	23	26	750	Jackson
+Michigan	23	26	770	Kalamazoo
+Michigan	23	26	790	Kalkaska
+Michigan	23	26	810	Kent
+Michigan	23	26	830	Keweenaw
+Michigan	23	26	850	Lake
+Michigan	23	26	870	Lapeer
+Michigan	23	26	890	Leelanau
+Michigan	23	26	910	Lenawee
+Michigan	23	26	930	Livingston
+Michigan	23	26	950	Luce
+Michigan	23	26	970	Mackinac/Michilim
+Michigan	23	26	990	Macomb
+Michigan	23	26	1010	Manistee
+Michigan	23	26	1015	Manitou
+Michigan	23	26	1030	Marquette
+Michigan	23	26	1050	Mason
+Michigan	23	26	1070	Mecosta
+Michigan	23	26	1090	Menominee
+Michigan	23	26	1110	Midland
+Michigan	23	26	1130	Missaukee
+Michigan	23	26	1150	Monroe
+Michigan	23	26	1170	Montcalm
+Michigan	23	26	1190	Montmorency
+Michigan	23	26	1210	Muskegon
+Michigan	23	26	1230	Newaygo
+Michigan	23	26	1250	Oakland
+Michigan	23	26	1270	Oceana
+Michigan	23	26	1290	Ogemaw
+Michigan	23	26	1310	Ontonagon
+Michigan	23	26	1330	Osceola
+Michigan	23	26	1350	Oscoda
+Michigan	23	26	1370	Otsego
+Michigan	23	26	1390	Ottawa
+Michigan	23	26	1410	Presque Isle
+Michigan	23	26	1430	Roscommon
+Michigan	23	26	1450	Saginaw
+Michigan	23	26	1470	St Clair
+Michigan	23	26	1490	St Joseph
+Michigan	23	26	1510	Sanilac
+Michigan	23	26	1530	Schoolcraft
+Michigan	23	26	1550	Shiawassee
+Michigan	23	26	1570	Tuscola
+Michigan	23	26	1590	Van Buren
+Michigan	23	26	1610	Washtenaw
+Michigan	23	26	1630	Wayne
+Michigan	23	26	1650	Wexford
+Minnesota	33	27	10	Aitkin
+Minnesota	33	27	30	Anoka
+Minnesota	33	27	50	Becker
+Minnesota	33	27	70	Beltrami
+Minnesota	33	27	90	Benton
+Minnesota	33	27	110	Big Stone
+Minnesota	33	27	130	Blue Earth
+Minnesota	33	27	150	Brown
+Minnesota	33	27	155	Buchanan
+Minnesota	33	27	170	Carlton
+Minnesota	33	27	190	Carver
+Minnesota	33	27	210	Cass
+Minnesota	33	27	230	Chippewa
+Minnesota	33	27	250	Chisago
+Minnesota	33	27	270	Clay
+Minnesota	33	27	290	Clearwater
+Minnesota	33	27	310	Cook
+Minnesota	33	27	330	Cottonwood
+Minnesota	33	27	350	Crow Wing
+Minnesota	33	27	370	Dakota
+Minnesota	33	27	390	Dodge
+Minnesota	33	27	410	Douglas
+Minnesota	33	27	430	Faribault
+Minnesota	33	27	450	Fillmore
+Minnesota	33	27	470	Freeborn
+Minnesota	33	27	490	Goodhue
+Minnesota	33	27	510	Grant
+Minnesota	33	27	530	Hennepin
+Minnesota	33	27	550	Houston
+Minnesota	33	27	570	Hubbard
+Minnesota	33	27	590	Isanti
+Minnesota	33	27	610	Itasca
+Minnesota	33	27	630	Jackson
+Minnesota	33	27	650	Kanabec
+Minnesota	33	27	670	Kandiyohi
+Minnesota	33	27	690	Kittson/Pembina
+Minnesota	33	27	710	Koochiching
+Minnesota	33	27	730	Lac Qui Parle
+Minnesota	33	27	750	Lake
+Minnesota	33	27	770	Lake of the Woods
+Minnesota	33	27	790	Le Sueur
+Minnesota	33	27	810	Lincoln
+Minnesota	33	27	830	Lyon
+Minnesota	33	27	850	McLeod
+Minnesota	33	27	870	Mahnomen
+Minnesota	33	27	875	Mahkahta
+Minnesota	33	27	890	Marshall
+Minnesota	33	27	910	Martin
+Minnesota	33	27	930	Meeker
+Minnesota	33	27	950	Mille Lacs
+Minnesota	33	27	955	Monongalia
+Minnesota	33	27	970	Morrison
+Minnesota	33	27	990	Mower
+Minnesota	33	27	1010	Murray
+Minnesota	33	27	1030	Nicollet
+Minnesota	33	27	1050	Nobles
+Minnesota	33	27	1070	Norman
+Minnesota	33	27	1090	Olmsted
+Minnesota	33	27	1110	Otter Tail
+Minnesota	33	27	1130	Pennington
+Minnesota	33	27	1135	Pierce
+Minnesota	33	27	1150	Pine
+Minnesota	33	27	1170	Pipestone
+Minnesota	33	27	1190	Polk
+Minnesota	33	27	1210	Pope
+Minnesota	33	27	1230	Ramsey
+Minnesota	33	27	1250	Red Lake
+Minnesota	33	27	1270	Redwood
+Minnesota	33	27	1290	Renville
+Minnesota	33	27	1310	Rice
+Minnesota	33	27	1330	Rock
+Minnesota	33	27	1350	Roseau
+Minnesota	33	27	1370	St Louis
+Minnesota	33	27	1390	Scott
+Minnesota	33	27	1410	Sherburne
+Minnesota	33	27	1430	Sibley
+Minnesota	33	27	1450	Stearns
+Minnesota	33	27	1470	Steele
+Minnesota	33	27	1490	Stevens
+Minnesota	33	27	1510	Swift
+Minnesota	33	27	1530	Todd
+Minnesota	33	27	1550	Traverse
+Minnesota	33	27	1570	Wabasha
+Minnesota	33	27	1590	Wadena
+Minnesota	33	27	1595	Wahnata
+Minnesota	33	27	1610	Waseca
+Minnesota	33	27	1630	Washington
+Minnesota	33	27	1650	Watonwan
+Minnesota	33	27	1655	White Earth
+Minnesota	33	27	1670	Wilkin/Toombs
+Minnesota	33	27	1690	Winona
+Minnesota	33	27	1710	Wright
+Minnesota	33	27	1730	Yellow Medicine
+Minnesota	33	27	9010	White Earth Reservation
+Mississippi	46	28	10	Adams
+Mississippi	46	28	30	Alcorn
+Mississippi	46	28	50	Amite
+Mississippi	46	28	70	Attala
+Mississippi	46	28	90	Benton
+Mississippi	46	28	110	Bolivar
+Mississippi	46	28	130	Calhoun
+Mississippi	46	28	150	Carroll
+Mississippi	46	28	170	Chickasaw
+Mississippi	46	28	190	Choctaw
+Mississippi	46	28	210	Claiborne
+Mississippi	46	28	230	Clarke
+Mississippi	46	28	250	Clay
+Mississippi	46	28	270	Coahoma
+Mississippi	46	28	290	Copiah
+Mississippi	46	28	310	Covington
+Mississippi	46	28	330	De Soto
+Mississippi	46	28	350	Forrest
+Mississippi	46	28	370	Franklin
+Mississippi	46	28	390	George
+Mississippi	46	28	410	Greene
+Mississippi	46	28	430	Grenada
+Mississippi	46	28	450	Hancock
+Mississippi	46	28	470	Harrison
+Mississippi	46	28	490	Hinds
+Mississippi	46	28	510	Holmes
+Mississippi	46	28	530	Humphreys
+Mississippi	46	28	550	Issaquena
+Mississippi	46	28	570	Itawamba
+Mississippi	46	28	590	Jackson
+Mississippi	46	28	610	Jasper
+Mississippi	46	28	630	Jefferson
+Mississippi	46	28	650	Jefferson Davis
+Mississippi	46	28	670	Jones
+Mississippi	46	28	690	Kemper
+Mississippi	46	28	710	Lafayette
+Mississippi	46	28	730	Lamar
+Mississippi	46	28	750	Lauderdale
+Mississippi	46	28	770	Lawrence
+Mississippi	46	28	790	Leake
+Mississippi	46	28	810	Lee
+Mississippi	46	28	830	Leflore
+Mississippi	46	28	850	Lincoln
+Mississippi	46	28	870	Lowndes
+Mississippi	46	28	890	Madison
+Mississippi	46	28	910	Marion
+Mississippi	46	28	930	Marshall
+Mississippi	46	28	950	Monroe
+Mississippi	46	28	970	Montgomery
+Mississippi	46	28	990	Neshoba
+Mississippi	46	28	1010	Newton
+Mississippi	46	28	1030	Noxubee
+Mississippi	46	28	1050	Oktibbeha
+Mississippi	46	28	1070	Panola
+Mississippi	46	28	1090	Pearl River
+Mississippi	46	28	1110	Perry
+Mississippi	46	28	1130	Pike
+Mississippi	46	28	1150	Pontotoc
+Mississippi	46	28	1170	Prentiss
+Mississippi	46	28	1190	Quitman
+Mississippi	46	28	1210	Rankin
+Mississippi	46	28	1230	Scott
+Mississippi	46	28	1250	Sharkey
+Mississippi	46	28	1270	Simpson
+Mississippi	46	28	1290	Smith
+Mississippi	46	28	1310	Stone
+Mississippi	46	28	1330	Sunflower
+Mississippi	46	28	1350	Tallahatchie
+Mississippi	46	28	1370	Tate
+Mississippi	46	28	1390	Tippah
+Mississippi	46	28	1410	Tishomingo
+Mississippi	46	28	1430	Tunica
+Mississippi	46	28	1450	Union
+Mississippi	46	28	1470	Walthall
+Mississippi	46	28	1490	Warren
+Mississippi	46	28	1510	Washington
+Mississippi	46	28	1530	Wayne
+Mississippi	46	28	1550	Webster
+Mississippi	46	28	1570	Wilkinson
+Mississippi	46	28	1590	Winston
+Mississippi	46	28	1610	Yalobusha
+Mississippi	46	28	1630	Yazoo
+Missouri	34	29	10	Adair
+Missouri	34	29	30	Andrew
+Missouri	34	29	50	Atchison
+Missouri	34	29	70	Audrain
+Missouri	34	29	90	Barry
+Missouri	34	29	110	Barton
+Missouri	34	29	130	Bates
+Missouri	34	29	150	Benton
+Missouri	34	29	170	Bollinger
+Missouri	34	29	190	Boone
+Missouri	34	29	210	Buchanan
+Missouri	34	29	230	Butler
+Missouri	34	29	250	Caldwell
+Missouri	34	29	270	Callaway
+Missouri	34	29	290	Camden
+Missouri	34	29	310	Cape Girardeau
+Missouri	34	29	330	Carroll
+Missouri	34	29	350	Carter
+Missouri	34	29	370	Cass/Van Buren
+Missouri	34	29	390	Cedar
+Missouri	34	29	410	Chariton
+Missouri	34	29	430	Christian
+Missouri	34	29	450	Clark
+Missouri	34	29	470	Clay
+Missouri	34	29	490	Clinton
+Missouri	34	29	510	Cole
+Missouri	34	29	530	Cooper
+Missouri	34	29	550	Crawford
+Missouri	34	29	570	Dade
+Missouri	34	29	590	Dallas
+Missouri	34	29	610	Daviess
+Missouri	34	29	630	De Kalb
+Missouri	34	29	650	Dent
+Missouri	34	29	655	Dodge
+Missouri	34	29	670	Douglas
+Missouri	34	29	690	Dunklin
+Missouri	34	29	710	Franklin
+Missouri	34	29	730	Gasconade
+Missouri	34	29	750	Gentry
+Missouri	34	29	770	Greene
+Missouri	34	29	790	Grundy
+Missouri	34	29	810	Harrison
+Missouri	34	29	830	Henry/Rives
+Missouri	34	29	850	Hickory
+Missouri	34	29	870	Holt
+Missouri	34	29	890	Howard
+Missouri	34	29	910	Howell
+Missouri	34	29	930	Iron
+Missouri	34	29	950	Jackson
+Missouri	34	29	970	Jasper
+Missouri	34	29	990	Jefferson
+Missouri	34	29	1010	Johnson
+Missouri	34	29	1030	Knox
+Missouri	34	29	1050	Laclede
+Missouri	34	29	1070	Lafayette
+Missouri	34	29	1090	Lawrence
+Missouri	34	29	1110	Lewis
+Missouri	34	29	1130	Lincoln
+Missouri	34	29	1150	Linn
+Missouri	34	29	1170	Livingston
+Missouri	34	29	1190	McDonald
+Missouri	34	29	1210	Macon
+Missouri	34	29	1230	Madison
+Missouri	34	29	1250	Maries
+Missouri	34	29	1270	Marion
+Missouri	34	29	1290	Mercer
+Missouri	34	29	1310	Miller
+Missouri	34	29	1330	Mississippi
+Missouri	34	29	1350	Moniteau
+Missouri	34	29	1370	Monroe
+Missouri	34	29	1390	Montgomery
+Missouri	34	29	1410	Morgan
+Missouri	34	29	1430	New Madrid
+Missouri	34	29	1450	Newton
+Missouri	34	29	1470	Nodaway
+Missouri	34	29	1490	Oregon
+Missouri	34	29	1510	Osage
+Missouri	34	29	1530	Ozark
+Missouri	34	29	1550	Pemiscot
+Missouri	34	29	1570	Perry
+Missouri	34	29	1590	Pettis
+Missouri	34	29	1610	Phelps
+Missouri	34	29	1630	Pike
+Missouri	34	29	1650	Platte
+Missouri	34	29	1670	Polk
+Missouri	34	29	1690	Pulaski
+Missouri	34	29	1710	Putnam
+Missouri	34	29	1730	Ralls
+Missouri	34	29	1750	Randolph
+Missouri	34	29	1770	Ray
+Missouri	34	29	1790	Reynolds
+Missouri	34	29	1810	Ripley
+Missouri	34	29	1830	St Charles
+Missouri	34	29	1850	St Clair
+Missouri	34	29	1870	St Francois
+Missouri	34	29	1890	St Louis
+Missouri	34	29	1930	Ste Genevieve
+Missouri	34	29	1950	Saline
+Missouri	34	29	1970	Schuyler
+Missouri	34	29	1990	Scotland
+Missouri	34	29	2010	Scott
+Missouri	34	29	2030	Shannon
+Missouri	34	29	2050	Shelby
+Missouri	34	29	2070	Stoddard
+Missouri	34	29	2090	Stone
+Missouri	34	29	2110	Sullivan
+Missouri	34	29	2130	Taney
+Missouri	34	29	2150	Texas
+Missouri	34	29	2170	Vernon
+Missouri	34	29	2190	Warren
+Missouri	34	29	2210	Washington
+Missouri	34	29	2230	Wayne
+Missouri	34	29	2250	Webster
+Missouri	34	29	2270	Worth
+Missouri	34	29	2290	Wright
+Missouri	34	29	5100	St Louis City
+Montana	64	30	10	Beaverhead
+Montana	64	30	30	Big Horn
+Montana	64	30	50	Blaine
+Montana	64	30	70	Broadwater
+Montana	64	30	90	Carbon
+Montana	64	30	110	Carter
+Montana	64	30	130	Cascade
+Montana	64	30	150	Chouteau
+Montana	64	30	155	Crow Reservation
+Montana	64	30	170	Custer
+Montana	64	30	190	Daniels
+Montana	64	30	210	Dawson
+Montana	64	30	230	Deer Lodge
+Montana	64	30	250	Fallon
+Montana	64	30	270	Fergus
+Montana	64	30	290	Flathead
+Montana	64	30	310	Gallatin
+Montana	64	30	330	Garfield
+Montana	64	30	350	Glacier
+Montana	64	30	370	Golden Valley
+Montana	64	30	390	Granite
+Montana	64	30	410	Hill
+Montana	64	30	430	Jefferson
+Montana	64	30	450	Judith Basin
+Montana	64	30	470	Lake
+Montana	64	30	490	Lewis And Clark
+Montana	64	30	510	Liberty
+Montana	64	30	530	Lincoln
+Montana	64	30	550	Mccone
+Montana	64	30	570	Madison
+Montana	64	30	590	Meagher
+Montana	64	30	610	Mineral
+Montana	64	30	630	Missoula
+Montana	64	30	650	Musselshell
+Montana	64	30	670	Park
+Montana	64	30	690	Petroleum
+Montana	64	30	710	Phillips
+Montana	64	30	730	Pondera
+Montana	64	30	750	Powder River
+Montana	64	30	770	Powell
+Montana	64	30	790	Prairie
+Montana	64	30	810	Ravalli
+Montana	64	30	830	Richland
+Montana	64	30	850	Roosevelt
+Montana	64	30	870	Rosebud
+Montana	64	30	890	Sanders
+Montana	64	30	910	Sheridan
+Montana	64	30	930	Silver Bow
+Montana	64	30	950	Stillwater
+Montana	64	30	970	Sweet Grass
+Montana	64	30	990	Teton
+Montana	64	30	1010	Toole
+Montana	64	30	1030	Treasure
+Montana	64	30	1050	Valley
+Montana	64	30	1070	Wheatland
+Montana	64	30	1090	Wibaux
+Montana	64	30	1110	Yellowstone
+Nebraska	35	31	10	Adams
+Nebraska	35	31	30	Antelope
+Nebraska	35	31	50	Arthur
+Nebraska	35	31	70	Banner
+Nebraska	35	31	75	Blackbird
+Nebraska	35	31	90	Blaine
+Nebraska	35	31	110	Boone
+Nebraska	35	31	130	Box Butte
+Nebraska	35	31	150	Boyd
+Nebraska	35	31	170	Brown
+Nebraska	35	31	190	Buffalo
+Nebraska	35	31	210	Burt
+Nebraska	35	31	230	Butler
+Nebraska	35	31	250	Cass
+Nebraska	35	31	270	Cedar
+Nebraska	35	31	290	Chase
+Nebraska	35	31	310	Cherry
+Nebraska	35	31	330	Cheyenne
+Nebraska	35	31	350	Clay
+Nebraska	35	31	370	Colfax
+Nebraska	35	31	390	Cuming
+Nebraska	35	31	410	Custer
+Nebraska	35	31	430	Dakota
+Nebraska	35	31	450	Dawes
+Nebraska	35	31	470	Dawson
+Nebraska	35	31	490	Deuel
+Nebraska	35	31	510	Dixon
+Nebraska	35	31	530	Dodge
+Nebraska	35	31	550	Douglas
+Nebraska	35	31	570	Dundy
+Nebraska	35	31	590	Fillmore
+Nebraska	35	31	610	Franklin
+Nebraska	35	31	630	Frontier
+Nebraska	35	31	650	Furnas
+Nebraska	35	31	670	Gage
+Nebraska	35	31	690	Garden
+Nebraska	35	31	710	Garfield
+Nebraska	35	31	730	Gosper
+Nebraska	35	31	750	Grant
+Nebraska	35	31	770	Greeley
+Nebraska	35	31	790	Hall
+Nebraska	35	31	810	Hamilton
+Nebraska	35	31	830	Harlan
+Nebraska	35	31	835	Harrison
+Nebraska	35	31	850	Hayes
+Nebraska	35	31	870	Hitchcock
+Nebraska	35	31	890	Holt
+Nebraska	35	31	910	Hooker
+Nebraska	35	31	930	Howard
+Nebraska	35	31	935	Jackson
+Nebraska	35	31	950	Jefferson
+Nebraska	35	31	970	Johnson/Johnston
+Nebraska	35	31	975	Jones
+Nebraska	35	31	990	Kearney
+Nebraska	35	31	1010	Keith
+Nebraska	35	31	1030	Keya Paha
+Nebraska	35	31	1050	Kimball
+Nebraska	35	31	1070	Knox/L'eau Qui Co
+Nebraska	35	31	1090	Lancaster
+Nebraska	35	31	1110	Lincoln
+Nebraska	35	31	1130	Logan
+Nebraska	35	31	1150	Loup
+Nebraska	35	31	1155	Lyon
+Nebraska	35	31	1170	McPherson
+Nebraska	35	31	1190	Madison
+Nebraska	35	31	1210	Merrick
+Nebraska	35	31	1215	Monroe
+Nebraska	35	31	1230	Morrill
+Nebraska	35	31	1250	Nance
+Nebraska	35	31	1270	Nemaha
+Nebraska	35	31	1290	Nuckolls
+Nebraska	35	31	1310	Otoe
+Nebraska	35	31	1330	Pawnee
+Nebraska	35	31	1350	Perkins
+Nebraska	35	31	1370	Phelps
+Nebraska	35	31	1390	Pierce
+Nebraska	35	31	1410	Platte
+Nebraska	35	31	1430	Polk
+Nebraska	35	31	1450	Red Willow
+Nebraska	35	31	1470	Richardson
+Nebraska	35	31	1490	Rock
+Nebraska	35	31	1510	Saline
+Nebraska	35	31	1530	Sarpy
+Nebraska	35	31	1550	Saunders
+Nebraska	35	31	1570	Scotts Bluff
+Nebraska	35	31	1590	Seward
+Nebraska	35	31	1610	Sheridan
+Nebraska	35	31	1630	Sherman
+Nebraska	35	31	1635	Shorter
+Nebraska	35	31	1650	Sioux
+Nebraska	35	31	1670	Stanton
+Nebraska	35	31	1675	Taylor
+Nebraska	35	31	1690	Thayer
+Nebraska	35	31	1710	Thomas
+Nebraska	35	31	1730	Thurston
+Nebraska	35	31	1750	Valley
+Nebraska	35	31	1770	Washington
+Nebraska	35	31	1790	Wayne
+Nebraska	35	31	1810	Webster
+Nebraska	35	31	1830	Wheeler
+Nebraska	35	31	1850	York
+Nebraska	35	31	9995	Unorganized Territory
+Nevada	65	32	5	Carson
+Nevada	65	32	10	Churchill
+Nevada	65	32	30	Clark
+Nevada	65	32	50	Douglas
+Nevada	65	32	70	Elko
+Nevada	65	32	90	Esmeralda
+Nevada	65	32	110	Eureka
+Nevada	65	32	130	Humboldt
+Nevada	65	32	150	Lander
+Nevada	65	32	170	Lincoln
+Nevada	65	32	190	Lyon
+Nevada	65	32	210	Mineral
+Nevada	65	32	230	Nye
+Nevada	65	32	250	Pershing
+Nevada	65	32	270	Riovirgin
+Nevada	65	32	279	Roop
+Nevada	65	32	285	St. Mary’s
+Nevada	65	32	290	Storey
+Nevada	65	32	310	Washoe
+Nevada	65	32	330	White Pine
+Nevada	65	32	510	Carson City
+New Hampshire	4	33	10	Belknap
+New Hampshire	4	33	30	Carroll
+New Hampshire	4	33	50	Cheshire
+New Hampshire	4	33	70	Coos
+New Hampshire	4	33	90	Grafton
+New Hampshire	4	33	110	Hillsborough
+New Hampshire	4	33	130	Merrimack
+New Hampshire	4	33	150	Rockingham
+New Hampshire	4	33	170	Strafford
+New Hampshire	4	33	190	Sullivan
+New Jersey	12	34	10	Atlantic
+New Jersey	12	34	30	Bergen
+New Jersey	12	34	50	Burlington
+New Jersey	12	34	70	Camden
+New Jersey	12	34	90	Cape May
+New Jersey	12	34	110	Cumberland
+New Jersey	12	34	130	Essex
+New Jersey	12	34	150	Gloucester
+New Jersey	12	34	170	Hudson
+New Jersey	12	34	190	Hunterdon
+New Jersey	12	34	210	Mercer
+New Jersey	12	34	230	Middlesex
+New Jersey	12	34	250	Monmouth
+New Jersey	12	34	270	Morris
+New Jersey	12	34	290	Ocean
+New Jersey	12	34	310	Passaic
+New Jersey	12	34	330	Salem
+New Jersey	12	34	350	Somerset
+New Jersey	12	34	370	Sussex
+New Jersey	12	34	390	Union
+New Jersey	12	34	410	Warren
+New Mexico	66	35	10	Bernalillo
+New Mexico	66	35	30	Catron
+New Mexico	66	35	50	Chaves
+New Mexico	66	35	70	Colfax
+New Mexico	66	35	90	Curry
+New Mexico	66	35	110	DeBaca
+New Mexico	66	35	130	Dona Ana
+New Mexico	66	35	150	Eddy
+New Mexico	66	35	170	Grant
+New Mexico	66	35	190	Guadalupe
+New Mexico	66	35	210	Harding
+New Mexico	66	35	230	Hidalgo
+New Mexico	66	35	250	Lea
+New Mexico	66	35	255	Lea-Roosevelt
+New Mexico	66	35	270	Lincoln
+New Mexico	66	35	290	Luna
+New Mexico	66	35	310	Mckinley
+New Mexico	66	35	330	Mora
+New Mexico	66	35	350	Otero
+New Mexico	66	35	370	Quay
+New Mexico	66	35	390	Rio Arriba
+New Mexico	66	35	410	Roosevelt
+New Mexico	66	35	430	Sandoval
+New Mexico	66	35	450	San Juan
+New Mexico	66	35	470	San Miguel
+New Mexico	66	35	475	Santa Ana
+New Mexico	66	35	490	Santa Fe
+New Mexico	66	35	510	Sierra
+New Mexico	66	35	530	Socorro
+New Mexico	66	35	550	Taos
+New Mexico	66	35	570	Torrance
+New Mexico	66	35	590	Union
+New Mexico	66	35	610	Valencia
+New York	13	36	10	Albany
+New York	13	36	30	Allegany
+New York	13	36	50	Bronx
+New York	13	36	70	Broome
+New York	13	36	90	Cattaraugus
+New York	13	36	110	Cayuga
+New York	13	36	130	Chautauqua
+New York	13	36	150	Chemung
+New York	13	36	170	Chenango
+New York	13	36	190	Clinton
+New York	13	36	210	Columbia
+New York	13	36	230	Cortland
+New York	13	36	250	Delaware
+New York	13	36	270	Dutchess
+New York	13	36	290	Erie
+New York	13	36	310	Essex
+New York	13	36	330	Franklin
+New York	13	36	350	Fulton
+New York	13	36	370	Genesee
+New York	13	36	390	Greene
+New York	13	36	410	Hamilton
+New York	13	36	430	Herkimer
+New York	13	36	450	Jefferson
+New York	13	36	470	Kings
+New York	13	36	490	Lewis
+New York	13	36	510	Livingston
+New York	13	36	530	Madison
+New York	13	36	550	Monroe
+New York	13	36	570	Montgomery
+New York	13	36	590	Nassau
+New York	13	36	610	New York
+New York	13	36	630	Niagara
+New York	13	36	650	Oneida
+New York	13	36	670	Onondaga
+New York	13	36	690	Ontario
+New York	13	36	710	Orange
+New York	13	36	730	Orleans
+New York	13	36	750	Oswego
+New York	13	36	770	Otsego
+New York	13	36	790	Putnam
+New York	13	36	810	Queens
+New York	13	36	830	Rensselaer
+New York	13	36	850	Richmond
+New York	13	36	870	Rockland
+New York	13	36	890	St Lawrence
+New York	13	36	910	Saratoga
+New York	13	36	930	Schenectady
+New York	13	36	950	Schoharie
+New York	13	36	970	Schuyler
+New York	13	36	990	Seneca
+New York	13	36	1010	Steuben
+New York	13	36	1030	Suffolk
+New York	13	36	1050	Sullivan
+New York	13	36	1070	Tioga
+New York	13	36	1090	Tompkins
+New York	13	36	1110	Ulster
+New York	13	36	1130	Warren
+New York	13	36	1150	Washington
+New York	13	36	1170	Wayne
+New York	13	36	1190	Westchester
+New York	13	36	1210	Wyoming
+New York	13	36	1230	Yates
+North Carolina	47	37	10	Alamance
+North Carolina	47	37	30	Alexander
+North Carolina	47	37	50	Alleghany
+North Carolina	47	37	70	Anson
+North Carolina	47	37	90	Ashe
+North Carolina	47	37	110	Avery
+North Carolina	47	37	130	Beaufort
+North Carolina	47	37	150	Bertie
+North Carolina	47	37	170	Bladen
+North Carolina	47	37	190	Brunswick
+North Carolina	47	37	210	Buncombe
+North Carolina	47	37	230	Burke
+North Carolina	47	37	250	Cabarrus
+North Carolina	47	37	270	Caldwell
+North Carolina	47	37	290	Camden
+North Carolina	47	37	310	Carteret
+North Carolina	47	37	330	Caswell
+North Carolina	47	37	350	Catawba
+North Carolina	47	37	370	Chatham
+North Carolina	47	37	390	Cherokee
+North Carolina	47	37	410	Chowan
+North Carolina	47	37	430	Clay
+North Carolina	47	37	450	Cleveland
+North Carolina	47	37	470	Columbus
+North Carolina	47	37	490	Craven
+North Carolina	47	37	510	Cumberland
+North Carolina	47	37	530	Currituck
+North Carolina	47	37	550	Dare
+North Carolina	47	37	570	Davidson
+North Carolina	47	37	590	Davie
+North Carolina	47	37	610	Duplin
+North Carolina	47	37	630	Durham
+North Carolina	47	37	650	Edgecombe
+North Carolina	47	37	670	Forsyth
+North Carolina	47	37	690	Franklin
+North Carolina	47	37	710	Gaston
+North Carolina	47	37	730	Gates
+North Carolina	47	37	750	Graham
+North Carolina	47	37	770	Granville
+North Carolina	47	37	790	Greene
+North Carolina	47	37	810	Guilford
+North Carolina	47	37	830	Halifax
+North Carolina	47	37	850	Harnett
+North Carolina	47	37	870	Haywood
+North Carolina	47	37	890	Henderson
+North Carolina	47	37	910	Hertford
+North Carolina	47	37	930	Hoke
+North Carolina	47	37	950	Hyde
+North Carolina	47	37	970	Iredell
+North Carolina	47	37	990	Jackson
+North Carolina	47	37	1010	Johnston
+North Carolina	47	37	1030	Jones
+North Carolina	47	37	1050	Lee
+North Carolina	47	37	1070	Lenoir
+North Carolina	47	37	1090	Lincoln
+North Carolina	47	37	1110	McDowell
+North Carolina	47	37	1130	Macon
+North Carolina	47	37	1150	Madison
+North Carolina	47	37	1170	Martin
+North Carolina	47	37	1190	Mecklenburg
+North Carolina	47	37	1210	Mitchell
+North Carolina	47	37	1230	Montgomery
+North Carolina	47	37	1250	Moore
+North Carolina	47	37	1270	Nash
+North Carolina	47	37	1290	New Hanover
+North Carolina	47	37	1310	Northampton
+North Carolina	47	37	1330	Onslow
+North Carolina	47	37	1350	Orange
+North Carolina	47	37	1370	Pamlico
+North Carolina	47	37	1390	Pasquotank
+North Carolina	47	37	1410	Pender
+North Carolina	47	37	1430	Perquimans
+North Carolina	47	37	1450	Person
+North Carolina	47	37	1470	Pitt
+North Carolina	47	37	1490	Polk
+North Carolina	47	37	1510	Randolph
+North Carolina	47	37	1530	Richmond
+North Carolina	47	37	1550	Robeson
+North Carolina	47	37	1570	Rockingham
+North Carolina	47	37	1590	Rowan
+North Carolina	47	37	1610	Rutherford
+North Carolina	47	37	1630	Sampson
+North Carolina	47	37	1650	Scotland
+North Carolina	47	37	1670	Stanly
+North Carolina	47	37	1690	Stokes
+North Carolina	47	37	1710	Surry
+North Carolina	47	37	1730	Swain
+North Carolina	47	37	1750	Transylvania
+North Carolina	47	37	1770	Tyrrell
+North Carolina	47	37	1790	Union
+North Carolina	47	37	1810	Vance
+North Carolina	47	37	1830	Wake
+North Carolina	47	37	1835	Walton
+North Carolina	47	37	1850	Warren
+North Carolina	47	37	1870	Washington
+North Carolina	47	37	1890	Watauga
+North Carolina	47	37	1910	Wayne
+North Carolina	47	37	1930	Wilkes
+North Carolina	47	37	1950	Wilson
+North Carolina	47	37	1970	Yadkin
+North Carolina	47	37	1990	Yancey
+North Dakota	36	38	10	Adams
+North Dakota	36	38	30	Barnes
+North Dakota	36	38	50	Benson
+North Dakota	36	38	70	Billings
+North Dakota	36	38	75	Billings-Sioux
+North Dakota	36	38	90	Bottineau
+North Dakota	36	38	110	Bowman
+North Dakota	36	38	115	Buford
+North Dakota	36	38	130	Burke
+North Dakota	36	38	150	Burleigh
+North Dakota	36	38	170	Cass
+North Dakota	36	38	190	Cavalier
+North Dakota	36	38	195	Church
+North Dakota	36	38	210	Dickey
+North Dakota	36	38	230	Divide
+North Dakota	36	38	250	Dunn
+North Dakota	36	38	270	Eddy
+North Dakota	36	38	290	Emmons
+North Dakota	36	38	295	Flannery
+North Dakota	36	38	310	Foster
+North Dakota	36	38	315	Garfield
+North Dakota	36	38	330	Golden Valley
+North Dakota	36	38	350	Grand Forks
+North Dakota	36	38	370	Grant
+North Dakota	36	38	390	Griggs
+North Dakota	36	38	410	Hettinger
+North Dakota	36	38	415	Howard
+North Dakota	36	38	430	Kidder
+North Dakota	36	38	450	La Moure
+North Dakota	36	38	470	Logan
+North Dakota	36	38	490	McHenry
+North Dakota	36	38	510	McIntosh
+North Dakota	36	38	530	McKenzie
+North Dakota	36	38	550	McLean
+North Dakota	36	38	570	Mercer
+North Dakota	36	38	590	Morton
+North Dakota	36	38	610	Mountrail
+North Dakota	36	38	630	Nelson
+North Dakota	36	38	650	Oliver
+North Dakota	36	38	670	Pembina
+North Dakota	36	38	690	Pierce
+North Dakota	36	38	710	Ramsey
+North Dakota	36	38	730	Ransom
+North Dakota	36	38	750	Renville
+North Dakota	36	38	770	Richland
+North Dakota	36	38	790	Rolette
+North Dakota	36	38	810	Sargent
+North Dakota	36	38	830	Sheridan
+North Dakota	36	38	850	Sioux
+North Dakota	36	38	870	Slope
+North Dakota	36	38	875	Standing Rock
+North Dakota	36	38	890	Stark
+North Dakota	36	38	910	Steele
+North Dakota	36	38	915	Stevens
+North Dakota	36	38	930	Stutsman
+North Dakota	36	38	950	Towner
+North Dakota	36	38	970	Traill
+North Dakota	36	38	985	Wallace
+North Dakota	36	38	987	Wallette
+North Dakota	36	38	990	Walsh
+North Dakota	36	38	1010	Ward
+North Dakota	36	38	1030	Wells
+North Dakota	36	38	1050	Williams
+North Dakota	36	38	9070	Standing Rock Reservation
+Ohio	24	39	10	Adams
+Ohio	24	39	30	Allen
+Ohio	24	39	50	Ashland
+Ohio	24	39	70	Ashtabula
+Ohio	24	39	90	Athens
+Ohio	24	39	110	Auglaize
+Ohio	24	39	130	Belmont
+Ohio	24	39	150	Brown
+Ohio	24	39	170	Butler
+Ohio	24	39	190	Carroll
+Ohio	24	39	210	Champaign
+Ohio	24	39	230	Clark
+Ohio	24	39	250	Clermont
+Ohio	24	39	270	Clinton
+Ohio	24	39	290	Columbiana
+Ohio	24	39	310	Coshocton
+Ohio	24	39	330	Crawford
+Ohio	24	39	350	Cuyahoga
+Ohio	24	39	370	Darke
+Ohio	24	39	390	Defiance
+Ohio	24	39	410	Delaware
+Ohio	24	39	430	Erie
+Ohio	24	39	450	Fairfield
+Ohio	24	39	470	Fayette
+Ohio	24	39	490	Franklin
+Ohio	24	39	510	Fulton
+Ohio	24	39	530	Gallia
+Ohio	24	39	550	Geauga
+Ohio	24	39	570	Greene
+Ohio	24	39	590	Guernsey
+Ohio	24	39	610	Hamilton
+Ohio	24	39	630	Hancock
+Ohio	24	39	650	Hardin
+Ohio	24	39	670	Harrison
+Ohio	24	39	690	Henry
+Ohio	24	39	710	Highland
+Ohio	24	39	730	Hocking
+Ohio	24	39	750	Holmes
+Ohio	24	39	770	Huron
+Ohio	24	39	790	Jackson
+Ohio	24	39	810	Jefferson
+Ohio	24	39	830	Knox
+Ohio	24	39	850	Lake
+Ohio	24	39	870	Lawrence
+Ohio	24	39	890	Licking
+Ohio	24	39	910	Logan
+Ohio	24	39	930	Lorain
+Ohio	24	39	950	Lucas
+Ohio	24	39	970	Madison
+Ohio	24	39	990	Mahoning
+Ohio	24	39	1010	Marion
+Ohio	24	39	1030	Medina
+Ohio	24	39	1050	Meigs
+Ohio	24	39	1070	Mercer
+Ohio	24	39	1090	Miami
+Ohio	24	39	1110	Monroe
+Ohio	24	39	1130	Montgomery
+Ohio	24	39	1150	Morgan
+Ohio	24	39	1170	Morrow
+Ohio	24	39	1190	Muskingum
+Ohio	24	39	1210	Noble
+Ohio	24	39	1230	Ottawa
+Ohio	24	39	1250	Paulding
+Ohio	24	39	1270	Perry
+Ohio	24	39	1290	Pickaway
+Ohio	24	39	1310	Pike
+Ohio	24	39	1330	Portage
+Ohio	24	39	1350	Preble
+Ohio	24	39	1370	Putnam
+Ohio	24	39	1390	Richland
+Ohio	24	39	1410	Ross
+Ohio	24	39	1430	Sandusky
+Ohio	24	39	1450	Scioto
+Ohio	24	39	1470	Seneca
+Ohio	24	39	1490	Shelby
+Ohio	24	39	1510	Stark
+Ohio	24	39	1530	Summit
+Ohio	24	39	1550	Trumbull
+Ohio	24	39	1570	Tuscarawas
+Ohio	24	39	1590	Union
+Ohio	24	39	1610	Van Wert
+Ohio	24	39	1630	Vinton
+Ohio	24	39	1650	Warren
+Ohio	24	39	1670	Washington
+Ohio	24	39	1690	Wayne
+Ohio	24	39	1710	Williams
+Ohio	24	39	1730	Wood
+Ohio	24	39	1750	Wyandot
+Oklahoma	53	40	10	Adair
+Oklahoma	53	40	30	Alfalfa
+Oklahoma	53	40	50	Atoka
+Oklahoma	53	40	70	Beaver
+Oklahoma	53	40	90	Beckham
+Oklahoma	53	40	110	Blaine
+Oklahoma	53	40	130	Bryan
+Oklahoma	53	40	150	Caddo
+Oklahoma	53	40	170	Canadian
+Oklahoma	53	40	190	Carter
+Oklahoma	53	40	210	Cherokee
+Oklahoma	53	40	230	Choctaw
+Oklahoma	53	40	250	Cimarron
+Oklahoma	53	40	270	Cleveland
+Oklahoma	53	40	290	Coal
+Oklahoma	53	40	310	Comanche
+Oklahoma	53	40	330	Cotton
+Oklahoma	53	40	350	Craig
+Oklahoma	53	40	370	Creek
+Oklahoma	53	40	390	Custer
+Oklahoma	53	40	410	Delaware
+Oklahoma	53	40	430	Dewey
+Oklahoma	53	40	450	Ellis
+Oklahoma	53	40	470	Garfield
+Oklahoma	53	40	490	Garvin
+Oklahoma	53	40	510	Grady
+Oklahoma	53	40	530	Grant
+Oklahoma	53	40	550	Greer
+Oklahoma	53	40	570	Harmon
+Oklahoma	53	40	590	Harper
+Oklahoma	53	40	610	Haskell
+Oklahoma	53	40	630	Hughes
+Oklahoma	53	40	650	Jackson
+Oklahoma	53	40	670	Jefferson
+Oklahoma	53	40	690	Johnston
+Oklahoma	53	40	710	Kay
+Oklahoma	53	40	730	Kingfisher
+Oklahoma	53	40	750	Kiowa
+Oklahoma	53	40	770	Latimer
+Oklahoma	53	40	790	Le Flore
+Oklahoma	53	40	810	Lincoln
+Oklahoma	53	40	830	Logan
+Oklahoma	53	40	850	Love
+Oklahoma	53	40	870	Mcclain
+Oklahoma	53	40	890	Mccurtain
+Oklahoma	53	40	910	Mcintosh
+Oklahoma	53	40	930	Major
+Oklahoma	53	40	950	Marshall
+Oklahoma	53	40	970	Mayes
+Oklahoma	53	40	990	Murray
+Oklahoma	53	40	1010	Muskogee
+Oklahoma	53	40	1030	Noble
+Oklahoma	53	40	1050	Nowata
+Oklahoma	53	40	1070	Okfuskee
+Oklahoma	53	40	1090	Oklahoma
+Oklahoma	53	40	1110	Okmulgee
+Oklahoma	53	40	1130	Osage
+Oklahoma	53	40	1150	Ottawa
+Oklahoma	53	40	1170	Pawnee
+Oklahoma	53	40	1190	Payne
+Oklahoma	53	40	1210	Pittsburg
+Oklahoma	53	40	1230	Pontotoc
+Oklahoma	53	40	1250	Pottawatomie
+Oklahoma	53	40	1270	Pushmataha
+Oklahoma	53	40	1290	Roger Mills
+Oklahoma	53	40	1310	Rogers
+Oklahoma	53	40	1330	Seminole
+Oklahoma	53	40	1350	Sequoyah
+Oklahoma	53	40	1370	Stephens
+Oklahoma	53	40	1390	Texas
+Oklahoma	53	40	1410	Tillman
+Oklahoma	53	40	1430	Tulsa
+Oklahoma	53	40	1450	Wagoner
+Oklahoma	53	40	1470	Washington
+Oklahoma	53	40	1490	Washita
+Oklahoma	53	40	1510	Woods
+Oklahoma	53	40	1530	Woodward
+Oklahoma	53	40	9010	Cherokee Nation
+Oklahoma	53	40	9030	Chickasaw Nation
+Oklahoma	53	40	9050	Choctaw Nation
+Oklahoma	53	40	9070	Creek Nation
+Oklahoma	53	40	9090	Seminole Nation
+Oklahoma	53	40	9120	Modoc Nation
+Oklahoma	53	40	9130	Ottawa Nation
+Oklahoma	53	40	9140	Peoria Nation
+Oklahoma	53	40	9160	Seneca Nation
+Oklahoma	53	40	9170	Shawnee Nation
+Oklahoma	53	40	9180	Wyandotte Nation
+Oklahoma	53	40	9210	Kaw Indian Reservation
+Oklahoma	53	40	9230	Apache Kiowa and Comanche Reservation
+Oklahoma	53	40	9250	Osage Nation
+Oklahoma	53	40	9270	Wichita Reservation
+Oregon	72	41	10	Baker
+Oregon	72	41	30	Benton
+Oregon	72	41	50	Clackamas
+Oregon	72	41	70	Clatsop
+Oregon	72	41	90	Columbia
+Oregon	72	41	110	Coos
+Oregon	72	41	130	Crook
+Oregon	72	41	150	Curry
+Oregon	72	41	170	Deschutes
+Oregon	72	41	190	Douglas
+Oregon	72	41	210	Gilliam
+Oregon	72	41	230	Grant
+Oregon	72	41	250	Harney
+Oregon	72	41	270	Hood River
+Oregon	72	41	290	Jackson
+Oregon	72	41	310	Jefferson
+Oregon	72	41	330	Josephine
+Oregon	72	41	350	Klamath
+Oregon	72	41	370	Lake
+Oregon	72	41	390	Lane
+Oregon	72	41	410	Lincoln
+Oregon	72	41	430	Linn
+Oregon	72	41	450	Malheur
+Oregon	72	41	470	Marion
+Oregon	72	41	490	Morrow
+Oregon	72	41	510	Multnomah
+Oregon	72	41	530	Polk
+Oregon	72	41	550	Sherman
+Oregon	72	41	570	Tillamook
+Oregon	72	41	590	Umatilla
+Oregon	72	41	605	Union
+Oregon	72	41	610	Umpqua
+Oregon	72	41	630	Wallowa
+Oregon	72	41	650	Wasco
+Oregon	72	41	670	Washington
+Oregon	72	41	690	Wheeler
+Oregon	72	41	710	Yamhill
+Pennsylvania	14	42	10	Adams
+Pennsylvania	14	42	30	Allegheny
+Pennsylvania	14	42	50	Armstrong
+Pennsylvania	14	42	70	Beaver
+Pennsylvania	14	42	90	Bedford
+Pennsylvania	14	42	110	Berks
+Pennsylvania	14	42	130	Blair
+Pennsylvania	14	42	150	Bradford
+Pennsylvania	14	42	170	Bucks
+Pennsylvania	14	42	190	Butler
+Pennsylvania	14	42	210	Cambria
+Pennsylvania	14	42	230	Cameron
+Pennsylvania	14	42	250	Carbon
+Pennsylvania	14	42	270	Centre
+Pennsylvania	14	42	290	Chester
+Pennsylvania	14	42	310	Clarion
+Pennsylvania	14	42	330	Clearfield
+Pennsylvania	14	42	350	Clinton
+Pennsylvania	14	42	370	Columbia
+Pennsylvania	14	42	390	Crawford
+Pennsylvania	14	42	410	Cumberland
+Pennsylvania	14	42	430	Dauphin
+Pennsylvania	14	42	450	Delaware
+Pennsylvania	14	42	470	Elk
+Pennsylvania	14	42	490	Erie
+Pennsylvania	14	42	510	Fayette
+Pennsylvania	14	42	530	Forest
+Pennsylvania	14	42	550	Franklin
+Pennsylvania	14	42	570	Fulton
+Pennsylvania	14	42	590	Greene
+Pennsylvania	14	42	610	Huntingdon
+Pennsylvania	14	42	630	Indiana
+Pennsylvania	14	42	650	Jefferson
+Pennsylvania	14	42	670	Juniata
+Pennsylvania	14	42	690	Lackawanna
+Pennsylvania	14	42	710	Lancaster
+Pennsylvania	14	42	730	Lawrence
+Pennsylvania	14	42	750	Lebanon
+Pennsylvania	14	42	770	Lehigh
+Pennsylvania	14	42	790	Luzerne
+Pennsylvania	14	42	810	Lycoming
+Pennsylvania	14	42	830	Mckean
+Pennsylvania	14	42	850	Mercer
+Pennsylvania	14	42	870	Mifflin
+Pennsylvania	14	42	890	Monroe
+Pennsylvania	14	42	910	Montgomery
+Pennsylvania	14	42	930	Montour
+Pennsylvania	14	42	950	Northampton
+Pennsylvania	14	42	970	Northumberland
+Pennsylvania	14	42	990	Perry
+Pennsylvania	14	42	1010	Philadelphia
+Pennsylvania	14	42	1030	Pike
+Pennsylvania	14	42	1050	Potter
+Pennsylvania	14	42	1070	Schuylkill
+Pennsylvania	14	42	1090	Snyder
+Pennsylvania	14	42	1110	Somerset
+Pennsylvania	14	42	1130	Sullivan
+Pennsylvania	14	42	1150	Susquehanna
+Pennsylvania	14	42	1170	Tioga
+Pennsylvania	14	42	1190	Union
+Pennsylvania	14	42	1210	Venango
+Pennsylvania	14	42	1230	Warren
+Pennsylvania	14	42	1250	Washington
+Pennsylvania	14	42	1270	Wayne
+Pennsylvania	14	42	1290	Westmoreland
+Pennsylvania	14	42	1310	Wyoming
+Pennsylvania	14	42	1330	York
+Rhode Island	5	44	10	Bristol
+Rhode Island	5	44	30	Kent
+Rhode Island	5	44	50	Newport
+Rhode Island	5	44	70	Providence
+Rhode Island	5	44	90	Washington
+South Carolina	48	45	10	Abbeville
+South Carolina	48	45	30	Aiken
+South Carolina	48	45	50	Allendale
+South Carolina	48	45	70	Anderson
+South Carolina	48	45	90	Bamberg
+South Carolina	48	45	110	Barnwell
+South Carolina	48	45	130	Beaufort
+South Carolina	48	45	150	Berkeley
+South Carolina	48	45	170	Calhoun
+South Carolina	48	45	190	Charleston
+South Carolina	48	45	210	Cherokee
+South Carolina	48	45	230	Chester
+South Carolina	48	45	250	Chesterfield
+South Carolina	48	45	270	Clarendon
+South Carolina	48	45	290	Colleton
+South Carolina	48	45	310	Darlington
+South Carolina	48	45	330	Dillon
+South Carolina	48	45	350	Dorchester
+South Carolina	48	45	370	Edgefield
+South Carolina	48	45	390	Fairfield
+South Carolina	48	45	410	Florence
+South Carolina	48	45	430	Georgetown
+South Carolina	48	45	450	Greenville
+South Carolina	48	45	470	Greenwood
+South Carolina	48	45	490	Hampton
+South Carolina	48	45	510	Horry
+South Carolina	48	45	530	Jasper
+South Carolina	48	45	550	Kershaw
+South Carolina	48	45	570	Lancaster
+South Carolina	48	45	590	Laurens
+South Carolina	48	45	610	Lee
+South Carolina	48	45	630	Lexington
+South Carolina	48	45	650	McCormick
+South Carolina	48	45	670	Marion
+South Carolina	48	45	690	Marlboro
+South Carolina	48	45	710	Newberry
+South Carolina	48	45	730	Oconee
+South Carolina	48	45	750	Orangeburg
+South Carolina	48	45	755	Pendleton
+South Carolina	48	45	770	Pickens
+South Carolina	48	45	790	Richland
+South Carolina	48	45	810	Saluda
+South Carolina	48	45	830	Spartanburg
+South Carolina	48	45	850	Sumter
+South Carolina	48	45	870	Union
+South Carolina	48	45	890	Williamsburg
+South Carolina	48	45	910	York
+South Dakota	37	46	10	Armstrong
+South Dakota	37	46	30	Aurora
+South Dakota	37	46	50	Beadle
+South Dakota	37	46	70	Bennett
+South Dakota	37	46	90	Bon Homme
+South Dakota	37	46	95	Boreman
+South Dakota	37	46	110	Brookings
+South Dakota	37	46	130	Brown
+South Dakota	37	46	150	Brule
+South Dakota	37	46	170	Buffalo
+South Dakota	37	46	190	Butte
+South Dakota	37	46	210	Campbell
+South Dakota	37	46	230	Charles Mix
+South Dakota	37	46	235	Cheyenne River
+South Dakota	37	46	245	Choteau
+South Dakota	37	46	250	Clark
+South Dakota	37	46	270	Clay
+South Dakota	37	46	290	Codington
+South Dakota	37	46	310	Corson
+South Dakota	37	46	330	Custer
+South Dakota	37	46	350	Davison
+South Dakota	37	46	370	Day
+South Dakota	37	46	390	Deuel
+South Dakota	37	46	410	Dewey
+South Dakota	37	46	430	Douglas
+South Dakota	37	46	455	Ewing
+South Dakota	37	46	450	Edmunds
+South Dakota	37	46	470	Fall River
+South Dakota	37	46	490	Faulk
+South Dakota	37	46	510	Grant
+South Dakota	37	46	530	Gregory
+South Dakota	37	46	550	Haakon
+South Dakota	37	46	570	Hamlin
+South Dakota	37	46	590	Hand
+South Dakota	37	46	610	Hanson
+South Dakota	37	46	630	Harding
+South Dakota	37	46	650	Hughes
+South Dakota	37	46	670	Hutchinson
+South Dakota	37	46	690	Hyde
+South Dakota	37	46	710	Jackson
+South Dakota	37	46	715	Jayne
+South Dakota	37	46	730	Jerauld
+South Dakota	37	46	750	Jones
+South Dakota	37	46	770	Kingsbury
+South Dakota	37	46	790	Lake
+South Dakota	37	46	810	Lawrence
+South Dakota	37	46	830	Lincoln
+South Dakota	37	46	850	Lyman
+South Dakota	37	46	870	McCook
+South Dakota	37	46	890	McPherson
+South Dakota	37	46	910	Marshall
+South Dakota	37	46	915	Martin
+South Dakota	37	46	930	Meade
+South Dakota	37	46	950	Mellette
+South Dakota	37	46	955	Meyer
+South Dakota	37	46	970	Miner
+South Dakota	37	46	990	Minnehaha
+South Dakota	37	46	1010	Moody
+South Dakota	37	46	1015	Nowlin
+South Dakota	37	46	1030	Pennington
+South Dakota	37	46	1050	Perkins/Spink
+South Dakota	37	46	1055	Pine Ridge Reservation (Alternate)
+South Dakota	37	46	1070	Potter
+South Dakota	37	46	1075	Pratt
+South Dakota	37	46	1078	Presho
+South Dakota	37	46	1090	Roberts/Sully
+South Dakota	37	46	1110	Sanborn
+South Dakota	37	46	1115	Schnasse
+South Dakota	37	46	1125	Scobey
+South Dakota	37	46	1130	Shannon
+South Dakota	37	46	1150	Spink
+South Dakota	37	46	1170	Stanley
+South Dakota	37	46	1175	Sterling
+South Dakota	37	46	1190	Sully
+South Dakota	37	46	1210	Todd
+South Dakota	37	46	1230	Tripp
+South Dakota	37	46	1250	Turner
+South Dakota	37	46	1270	Union
+South Dakota	37	46	1290	Walworth
+South Dakota	37	46	1310	Washabaugh
+South Dakota	37	46	1330	Washington
+South Dakota	37	46	1350	Yankton
+South Dakota	37	46	1370	Ziebach
+South Dakota	37	46	9010	Cheyenne River Reservation
+South Dakota	37	46	9030	Pine Ridge Reservation 
+South Dakota	37	46	9050	Rosebud Reservation
+South Dakota	37	46	9070	Standing Rock Reservation
+South Dakota	37	46	9999	Unorganized Territory, Dakota
+Tennessee	54	47	10	Anderson
+Tennessee	54	47	30	Bedford
+Tennessee	54	47	50	Benton
+Tennessee	54	47	70	Bledsoe
+Tennessee	54	47	90	Blount
+Tennessee	54	47	110	Bradley
+Tennessee	54	47	130	Campbell
+Tennessee	54	47	150	Cannon
+Tennessee	54	47	170	Carroll
+Tennessee	54	47	190	Carter
+Tennessee	54	47	210	Cheatham
+Tennessee	54	47	230	Chester
+Tennessee	54	47	250	Claiborne
+Tennessee	54	47	270	Clay
+Tennessee	54	47	290	Cocke
+Tennessee	54	47	310	Coffee
+Tennessee	54	47	330	Crockett
+Tennessee	54	47	350	Cumberland
+Tennessee	54	47	370	Davidson
+Tennessee	54	47	390	Decatur
+Tennessee	54	47	410	De Kalb
+Tennessee	54	47	430	Dickson
+Tennessee	54	47	450	Dyer
+Tennessee	54	47	470	Fayette
+Tennessee	54	47	490	Fentress
+Tennessee	54	47	510	Franklin
+Tennessee	54	47	530	Gibson
+Tennessee	54	47	550	Giles
+Tennessee	54	47	570	Grainger
+Tennessee	54	47	590	Greene
+Tennessee	54	47	610	Grundy
+Tennessee	54	47	630	Hamblen
+Tennessee	54	47	650	Hamilton
+Tennessee	54	47	670	Hancock
+Tennessee	54	47	690	Hardeman
+Tennessee	54	47	710	Hardin
+Tennessee	54	47	730	Hawkins
+Tennessee	54	47	750	Haywood
+Tennessee	54	47	770	Henderson
+Tennessee	54	47	790	Henry
+Tennessee	54	47	810	Hickman
+Tennessee	54	47	830	Houston
+Tennessee	54	47	850	Humphreys
+Tennessee	54	47	870	Jackson
+Tennessee	54	47	875	James
+Tennessee	54	47	890	Jefferson
+Tennessee	54	47	910	Johnson
+Tennessee	54	47	930	Knox
+Tennessee	54	47	950	Lake
+Tennessee	54	47	970	Lauderdale
+Tennessee	54	47	990	Lawrence
+Tennessee	54	47	1010	Lewis
+Tennessee	54	47	1030	Lincoln
+Tennessee	54	47	1050	Loudon
+Tennessee	54	47	1070	McMinn
+Tennessee	54	47	1090	McNairy
+Tennessee	54	47	1110	Macon
+Tennessee	54	47	1130	Madison
+Tennessee	54	47	1150	Marion
+Tennessee	54	47	1170	Marshall
+Tennessee	54	47	1190	Maury
+Tennessee	54	47	1210	Meigs
+Tennessee	54	47	1230	Monroe
+Tennessee	54	47	1250	Montgomery
+Tennessee	54	47	1270	Moore
+Tennessee	54	47	1290	Morgan
+Tennessee	54	47	1310	Obion
+Tennessee	54	47	1330	Overton
+Tennessee	54	47	1350	Perry
+Tennessee	54	47	1370	Pickett
+Tennessee	54	47	1390	Polk
+Tennessee	54	47	1410	Putnam
+Tennessee	54	47	1430	Rhea
+Tennessee	54	47	1450	Roane
+Tennessee	54	47	1470	Robertson
+Tennessee	54	47	1490	Rutherford
+Tennessee	54	47	1510	Scott
+Tennessee	54	47	1530	Sequatchie
+Tennessee	54	47	1550	Sevier
+Tennessee	54	47	1570	Shelby
+Tennessee	54	47	1590	Smith
+Tennessee	54	47	1610	Stewart
+Tennessee	54	47	1630	Sullivan
+Tennessee	54	47	1650	Sumner
+Tennessee	54	47	1670	Tipton
+Tennessee	54	47	1690	Trousdale
+Tennessee	54	47	1710	Unicoi
+Tennessee	54	47	1730	Union
+Tennessee	54	47	1750	Van Buren
+Tennessee	54	47	1770	Warren
+Tennessee	54	47	1790	Washington
+Tennessee	54	47	1810	Wayne
+Tennessee	54	47	1830	Weakley
+Tennessee	54	47	1850	White
+Tennessee	54	47	1870	Williamson
+Tennessee	54	47	1890	Wilson
+Texas	49	48	10	Anderson
+Texas	49	48	30	Andrews
+Texas	49	48	50	Angelina
+Texas	49	48	70	Aransas
+Texas	49	48	90	Archer
+Texas	49	48	110	Armstrong
+Texas	49	48	130	Atascosa
+Texas	49	48	150	Austin
+Texas	49	48	170	Bailey
+Texas	49	48	190	Bandera
+Texas	49	48	210	Bastrop
+Texas	49	48	230	Baylor
+Texas	49	48	250	Bee
+Texas	49	48	270	Bell
+Texas	49	48	290	Bexar
+Texas	49	48	310	Blanco
+Texas	49	48	330	Borden
+Texas	49	48	350	Bosque
+Texas	49	48	370	Bowie
+Texas	49	48	390	Brazoria
+Texas	49	48	410	Brazos
+Texas	49	48	430	Brewster
+Texas	49	48	450	Briscoe
+Texas	49	48	470	Brooks
+Texas	49	48	490	Brown
+Texas	49	48	495	Buchel
+Texas	49	48	510	Burleson
+Texas	49	48	530	Burnet
+Texas	49	48	550	Caldwell
+Texas	49	48	570	Calhoun
+Texas	49	48	590	Callahan
+Texas	49	48	610	Cameron
+Texas	49	48	615	Cameron-Starr-Webb
+Texas	49	48	630	Camp
+Texas	49	48	650	Carson
+Texas	49	48	670	Cass/Davis
+Texas	49	48	690	Castro
+Texas	49	48	710	Chambers
+Texas	49	48	730	Cherokee
+Texas	49	48	750	Childress
+Texas	49	48	770	Clay
+Texas	49	48	790	Cochran
+Texas	49	48	810	Coke
+Texas	49	48	830	Coleman
+Texas	49	48	850	Collin
+Texas	49	48	870	Collingsworth
+Texas	49	48	890	Colorado
+Texas	49	48	910	Comal
+Texas	49	48	930	Comanche
+Texas	49	48	950	Concho
+Texas	49	48	970	Cooke
+Texas	49	48	990	Coryell
+Texas	49	48	1010	Cottle
+Texas	49	48	1030	Crane
+Texas	49	48	1050	Crockett
+Texas	49	48	1070	Crosby
+Texas	49	48	1090	Culberson
+Texas	49	48	1110	Dallam
+Texas	49	48	1130	Dallas
+Texas	49	48	1150	Dawson
+Texas	49	48	1170	Deaf Smith
+Texas	49	48	1190	Delta
+Texas	49	48	1210	Denton
+Texas	49	48	1230	De Witt
+Texas	49	48	1250	Dickens
+Texas	49	48	1270	Dimmit
+Texas	49	48	1290	Donley
+Texas	49	48	1310	Duval
+Texas	49	48	1330	Eastland
+Texas	49	48	1350	Ector
+Texas	49	48	1370	Edwards
+Texas	49	48	1390	Ellis
+Texas	49	48	1410	El Paso
+Texas	49	48	1415	Encinal
+Texas	49	48	1430	Erath
+Texas	49	48	1450	Falls
+Texas	49	48	1470	Fannin
+Texas	49	48	1490	Fayette
+Texas	49	48	1510	Fisher
+Texas	49	48	1530	Floyd
+Texas	49	48	1550	Foard
+Texas	49	48	1570	Fort Bend
+Texas	49	48	1590	Franklin
+Texas	49	48	1610	Freestone
+Texas	49	48	1630	Frio
+Texas	49	48	1650	Gaines
+Texas	49	48	1670	Galveston
+Texas	49	48	1690	Garza
+Texas	49	48	1710	Gillespie
+Texas	49	48	1730	Glasscock
+Texas	49	48	1750	Goliad
+Texas	49	48	1770	Gonzales
+Texas	49	48	1790	Gray
+Texas	49	48	1810	Grayson
+Texas	49	48	1830	Gregg
+Texas	49	48	1850	Grimes
+Texas	49	48	1870	Guadalupe
+Texas	49	48	1890	Hale
+Texas	49	48	1910	Hall
+Texas	49	48	1930	Hamilton
+Texas	49	48	1950	Hansford
+Texas	49	48	1970	Hardeman
+Texas	49	48	1990	Hardin
+Texas	49	48	2010	Harris
+Texas	49	48	2030	Harrison
+Texas	49	48	2050	Hartley
+Texas	49	48	2070	Haskell
+Texas	49	48	2090	Hays
+Texas	49	48	2110	Hemphill
+Texas	49	48	2130	Henderson
+Texas	49	48	2150	Hidalgo
+Texas	49	48	2170	Hill
+Texas	49	48	2190	Hockley
+Texas	49	48	2210	Hood
+Texas	49	48	2230	Hopkins
+Texas	49	48	2250	Houston
+Texas	49	48	2270	Howard
+Texas	49	48	2290	Hudspeth
+Texas	49	48	2310	Hunt
+Texas	49	48	2330	Hutchinson
+Texas	49	48	2350	Irion
+Texas	49	48	2370	Jack
+Texas	49	48	2390	Jackson
+Texas	49	48	2410	Jasper
+Texas	49	48	2430	Jeff Davis
+Texas	49	48	2450	Jefferson
+Texas	49	48	2470	Jim Hogg
+Texas	49	48	2490	Jim Wells
+Texas	49	48	2510	Johnson
+Texas	49	48	2530	Jones
+Texas	49	48	2550	Karnes
+Texas	49	48	2570	Kaufman
+Texas	49	48	2590	Kendall
+Texas	49	48	2610	Kenedy
+Texas	49	48	2630	Kent
+Texas	49	48	2650	Kerr
+Texas	49	48	2670	Kimble
+Texas	49	48	2690	King
+Texas	49	48	2710	Kinney
+Texas	49	48	2730	Kleberg
+Texas	49	48	2750	Knox
+Texas	49	48	2770	Lamar
+Texas	49	48	2790	Lamb
+Texas	49	48	2810	Lampasas
+Texas	49	48	2830	La Salle
+Texas	49	48	2850	Lavaca
+Texas	49	48	2870	Lee
+Texas	49	48	2890	Leon
+Texas	49	48	2910	Liberty
+Texas	49	48	2930	Limestone
+Texas	49	48	2950	Lipscomb
+Texas	49	48	2970	Live Oak
+Texas	49	48	2990	Llano
+Texas	49	48	3010	Loving
+Texas	49	48	3030	Lubbock
+Texas	49	48	3050	Lynn
+Texas	49	48	3070	McCulloch
+Texas	49	48	3090	McLennan
+Texas	49	48	3110	McMullen
+Texas	49	48	3130	Madison
+Texas	49	48	3150	Marion
+Texas	49	48	3170	Martin
+Texas	49	48	3190	Mason
+Texas	49	48	3210	Matagorda
+Texas	49	48	3230	Maverick
+Texas	49	48	3250	Medina
+Texas	49	48	3270	Menard
+Texas	49	48	3290	Midland
+Texas	49	48	3310	Milam
+Texas	49	48	3330	Mills
+Texas	49	48	3350	Mitchell
+Texas	49	48	3370	Montague
+Texas	49	48	3390	Montgomery
+Texas	49	48	3410	Moore
+Texas	49	48	3430	Morris
+Texas	49	48	3450	Motley
+Texas	49	48	3470	Nacogdoches
+Texas	49	48	3490	Navarro
+Texas	49	48	3510	Newton
+Texas	49	48	3530	Nolan
+Texas	49	48	3550	Nueces
+Texas	49	48	3570	Ochiltree
+Texas	49	48	3590	Oldham
+Texas	49	48	3610	Orange
+Texas	49	48	3630	Palo Pinto
+Texas	49	48	3650	Panola
+Texas	49	48	3670	Parker
+Texas	49	48	3690	Parmer
+Texas	49	48	3710	Pecos
+Texas	49	48	3730	Polk
+Texas	49	48	3750	Potter
+Texas	49	48	3770	Presidio
+Texas	49	48	3790	Rains
+Texas	49	48	3810	Randall
+Texas	49	48	3830	Reagan
+Texas	49	48	3850	Real
+Texas	49	48	3870	Red River
+Texas	49	48	3890	Reeves
+Texas	49	48	3910	Refugio
+Texas	49	48	3930	Roberts
+Texas	49	48	3950	Robertson
+Texas	49	48	3970	Rockwall
+Texas	49	48	3990	Runnels
+Texas	49	48	4010	Rusk
+Texas	49	48	4030	Sabine
+Texas	49	48	4050	San Augustine
+Texas	49	48	4070	San Jacinto
+Texas	49	48	4090	San Patricio
+Texas	49	48	4110	San Saba
+Texas	49	48	4130	Schleicher
+Texas	49	48	4150	Scurry
+Texas	49	48	4170	Shackelford
+Texas	49	48	4190	Shelby
+Texas	49	48	4210	Sherman
+Texas	49	48	4230	Smith
+Texas	49	48	4250	Somervell
+Texas	49	48	4270	Starr
+Texas	49	48	4290	Stephens/Buchanan
+Texas	49	48	4310	Sterling
+Texas	49	48	4330	Stonewall
+Texas	49	48	4350	Sutton
+Texas	49	48	4370	Swisher
+Texas	49	48	4390	Tarrant
+Texas	49	48	4410	Taylor
+Texas	49	48	4430	Terrell
+Texas	49	48	4450	Terry
+Texas	49	48	4470	Throckmorton
+Texas	49	48	4490	Titus
+Texas	49	48	4510	Tom Green
+Texas	49	48	4530	Travis
+Texas	49	48	4550	Trinity
+Texas	49	48	4570	Tyler
+Texas	49	48	4590	Upshur
+Texas	49	48	4610	Upton
+Texas	49	48	4630	Uvalde
+Texas	49	48	4650	Val Verde
+Texas	49	48	4670	Van Zandt
+Texas	49	48	4690	Victoria
+Texas	49	48	4710	Walker
+Texas	49	48	4730	Waller
+Texas	49	48	4750	Ward
+Texas	49	48	4770	Washington
+Texas	49	48	4790	Webb
+Texas	49	48	4810	Wharton
+Texas	49	48	4830	Wheeler
+Texas	49	48	4850	Wichita
+Texas	49	48	4870	Wilbarger
+Texas	49	48	4890	Willacy
+Texas	49	48	4910	Williamson
+Texas	49	48	4930	Wilson
+Texas	49	48	4950	Winkler
+Texas	49	48	4970	Wise
+Texas	49	48	4990	Wood
+Texas	49	48	5010	Yoakum
+Texas	49	48	5030	Young
+Texas	49	48	5050	Zapata
+Texas	49	48	5070	Zavalla
+Utah	67	49	10	Beaver
+Utah	67	49	30	Box Elder
+Utah	67	49	50	Cache
+Utah	67	49	70	Carbon
+Utah	67	49	75	Cedar
+Utah	67	49	90	Daggett
+Utah	67	49	110	Davis
+Utah	67	49	130	Duchesne
+Utah	67	49	150	Emery
+Utah	67	49	170	Garfield
+Utah	67	49	190	Grand
+Utah	67	49	195	Green River
+Utah	67	49	210	Iron
+Utah	67	49	230	Juab
+Utah	67	49	250	Kane
+Utah	67	49	270	Millard
+Utah	67	49	290	Morgan
+Utah	67	49	310	Piute
+Utah	67	49	330	Rich
+Utah	67	49	350	Salt Lake
+Utah	67	49	370	San Juan
+Utah	67	49	390	Sanpete
+Utah	67	49	410	Sevier
+Utah	67	49	415	Shambip
+Utah	67	49	430	Summit
+Utah	67	49	450	Tooele
+Utah	67	49	470	Uintah
+Utah	67	49	490	Utah
+Utah	67	49	510	Wasatch
+Utah	67	49	530	Washington
+Utah	67	49	550	Wayne
+Utah	67	49	570	Weber
+Vermont	6	50	10	Addison
+Vermont	6	50	30	Bennington
+Vermont	6	50	50	Caledonia
+Vermont	6	50	70	Chittenden
+Vermont	6	50	90	Essex
+Vermont	6	50	110	Franklin
+Vermont	6	50	130	Grand Isle
+Vermont	6	50	150	Lamoille
+Vermont	6	50	170	Orange
+Vermont	6	50	190	Orleans
+Vermont	6	50	210	Rutland
+Vermont	6	50	230	Washington
+Vermont	6	50	250	Windham
+Vermont	6	50	270	Windsor
+Virginia	40	51	10	Accomack
+Virginia	40	51	30	Albemarle
+Virginia	40	51	50	Alleghany
+Virginia	40	51	70	Amelia
+Virginia	40	51	90	Amherst
+Virginia	40	51	110	Appomattox
+Virginia	40	51	130	Arlington/Alexandria
+Virginia	40	51	150	Augusta
+Virginia	40	51	155	Barbour
+Virginia	40	51	170	Bath
+Virginia	40	51	190	Bedford
+Virginia	40	51	195	Berkeley
+Virginia	40	51	210	Bland
+Virginia	40	51	215	Boone
+Virginia	40	51	230	Botetourt
+Virginia	40	51	235	Braxton
+Virginia	40	51	245	Brooke
+Virginia	40	51	250	Brunswick
+Virginia	40	51	270	Buchanan
+Virginia	40	51	290	Buckingham
+Virginia	40	51	295	Cabell
+Virginia	40	51	310	Campbell
+Virginia	40	51	330	Caroline
+Virginia	40	51	350	Carroll
+Virginia	40	51	360	Charles City
+Virginia	40	51	370	Charlotte
+Virginia	40	51	410	Chesterfield
+Virginia	40	51	430	Clarke
+Virginia	40	51	450	Craig
+Virginia	40	51	470	Culpeper
+Virginia	40	51	490	Cumberland
+Virginia	40	51	510	Dickenson
+Virginia	40	51	530	Dinwiddie
+Virginia	40	51	535	Doddridge
+Virginia	40	51	550	Elizabeth City
+Virginia	40	51	570	Essex
+Virginia	40	51	590	Fairfax
+Virginia	40	51	610	Fauquier
+Virginia	40	51	615	Fayette
+Virginia	40	51	630	Floyd
+Virginia	40	51	650	Fluvanna
+Virginia	40	51	670	Franklin
+Virginia	40	51	690	Frederick
+Virginia	40	51	710	Giles
+Virginia	40	51	715	Gilmer
+Virginia	40	51	730	Gloucester
+Virginia	40	51	750	Goochland
+Virginia	40	51	770	Grayson
+Virginia	40	51	775	Greenbrier
+Virginia	40	51	790	Greene
+Virginia	40	51	810	Greensville
+Virginia	40	51	830	Halifax
+Virginia	40	51	850	Hanover
+Virginia	40	51	855	Hardy
+Virginia	40	51	865	Harrison
+Virginia	40	51	870	Henrico
+Virginia	40	51	890	Henry
+Virginia	40	51	910	Highland
+Virginia	40	51	930	Isle Of Wight
+Virginia	40	51	935	Jackson
+Virginia	40	51	950	James City
+Virginia	40	51	955	Jefferson
+Virginia	40	51	965	Kanawha
+Virginia	40	51	970	King And Queen
+Virginia	40	51	990	King George
+Virginia	40	51	1010	King William
+Virginia	40	51	1030	Lancaster
+Virginia	40	51	1050	Lee
+Virginia	40	51	1055	Lewis
+Virginia	40	51	1065	Logan
+Virginia	40	51	1070	Loudoun
+Virginia	40	51	1090	Louisa
+Virginia	40	51	1110	Lunenburg
+Virginia	40	51	1130	Madison
+Virginia	40	51	1135	City Of Manchester
+Virginia	40	51	1141	Marion
+Virginia	40	51	1145	Marshall
+Virginia	40	51	1148	Mason
+Virginia	40	51	1150	Mathews
+Virginia	40	51	1170	Mecklenburg
+Virginia	40	51	1175	Mercer
+Virginia	40	51	1190	Middlesex
+Virginia	40	51	1195	Monongalia
+Virginia	40	51	1205	Monroe
+Virginia	40	51	1210	Montgomery
+Virginia	40	51	1215	Morgan
+Virginia	40	51	1230	Nansemond
+Virginia	40	51	1250	Nelson
+Virginia	40	51	1270	New Kent
+Virginia	40	51	1275	Nicholas
+Virginia	40	51	1290	Norfolk
+Virginia	40	51	1310	Northampton
+Virginia	40	51	1330	Northumberland
+Virginia	40	51	1350	Nottoway
+Virginia	40	51	1355	Ohio
+Virginia	40	51	1370	Orange
+Virginia	40	51	1390	Page
+Virginia	40	51	1410	Patrick
+Virginia	40	51	1415	Pendleton
+Virginia	40	51	1430	Pittsylvania
+Virginia	40	51	1445	Pocahontas
+Virginia	40	51	1450	Powhatan
+Virginia	40	51	1455	Preston
+Virginia	40	51	1470	Prince Edward
+Virginia	40	51	1490	Prince George
+Virginia	40	51	1510	Princess Anne
+Virginia	40	51	1530	Prince William
+Virginia	40	51	1550	Pulaski
+Virginia	40	51	1555	Putnam
+Virginia	40	51	1565	Raleigh
+Virginia	40	51	1567	Randolph
+Virginia	40	51	1570	Rappahannock
+Virginia	40	51	1590	Richmond
+Virginia	40	51	1595	Ritchie
+Virginia	40	51	1610	Roanoke
+Virginia	40	51	1630	Rockbridge
+Virginia	40	51	1650	Rockingham
+Virginia	40	51	1670	Russell
+Virginia	40	51	1690	Scott
+Virginia	40	51	1710	Shenandoah
+Virginia	40	51	1730	Smyth
+Virginia	40	51	1750	Southampton
+Virginia	40	51	1770	Spotsylvania
+Virginia	40	51	1790	Stafford
+Virginia	40	51	1810	Surry
+Virginia	40	51	1830	Sussex
+Virginia	40	51	1835	Taylor
+Virginia	40	51	1850	Tazewell
+Virginia	40	51	1859	Tyler
+Virginia	40	51	1870	Warren
+Virginia	40	51	1875	Warwick
+Virginia	40	51	1910	Washington
+Virginia	40	51	1915	Wayne
+Virginia	40	51	1930	Westmoreland
+Virginia	40	51	1935	Wetzel
+Virginia	40	51	1945	Wirt
+Virginia	40	51	1950	Wise
+Virginia	40	51	1955	Wood
+Virginia	40	51	1965	Wyoming
+Virginia	40	51	1970	Wythe
+Virginia	40	51	1990	York
+Virginia	40	51	5100	Alexandria City
+Virginia	40	51	5200	Bristol
+Virginia	40	51	5300	Buena Vista
+Virginia	40	51	5400	Charlottesville
+Virginia	40	51	5600	Clifton Forge
+Virginia	40	51	5900	Danville
+Virginia	40	51	6300	Fredericksburg
+Virginia	40	51	6500	Hampton
+Virginia	40	51	6600	Harrisonburg
+Virginia	40	51	6700	Hopewell
+Virginia	40	51	6800	Lynchburg
+Virginia	40	51	6860	Manchester
+Virginia	40	51	6900	Martinsville
+Virginia	40	51	7000	Newport News
+Virginia	40	51	7100	Norfolk City
+Virginia	40	51	7300	Petersburg
+Virginia	40	51	7400	Portsmouth
+Virginia	40	51	7500	Radford
+Virginia	40	51	7600	Richmond City
+Virginia	40	51	7700	Roanoke City
+Virginia	40	51	7850	South Norfolk
+Virginia	40	51	7900	Staunton
+Virginia	40	51	8000	Suffolk
+Virginia	40	51	8300	Williamsburg City
+Virginia	40	51	8400	Winchester
+Washington	73	53	10	Adams
+Washington	73	53	30	Asotin
+Washington	73	53	50	Benton
+Washington	73	53	70	Chelan
+Washington	73	53	90	Clallam
+Washington	73	53	110	Clark
+Washington	73	53	130	Columbia
+Washington	73	53	150	Cowlitz
+Washington	73	53	170	Douglas
+Washington	73	53	190	Ferry
+Washington	73	53	210	Franklin
+Washington	73	53	230	Garfield
+Washington	73	53	250	Grant
+Washington	73	53	270	Grays Harbor/Cheh
+Washington	73	53	290	Island
+Washington	73	53	310	Jefferson
+Washington	73	53	330	King
+Washington	73	53	350	Kitsap
+Washington	73	53	370	Kittitas
+Washington	73	53	390	Klickitat
+Washington	73	53	410	Lewis
+Washington	73	53	430	Lincoln
+Washington	73	53	450	Mason
+Washington	73	53	470	Okanogan
+Washington	73	53	490	Pacific
+Washington	73	53	510	Pend Oreille
+Washington	73	53	530	Pierce
+Washington	73	53	550	San Juan
+Washington	73	53	570	Skagit
+Washington	73	53	590	Skamania
+Washington	73	53	610	Snohomish
+Washington	73	53	630	Spokane
+Washington	73	53	650	Stevens
+Washington	73	53	670	Thurston
+Washington	73	53	690	Wahkiakum
+Washington	73	53	710	Walla Walla
+Washington	73	53	730	Whatcom
+Washington	73	53	750	Whitman
+Washington	73	53	770	Yakima
+West Virginia	56	54	10	Barbour
+West Virginia	56	54	30	Berkeley
+West Virginia	56	54	50	Boone
+West Virginia	56	54	70	Braxton
+West Virginia	56	54	90	Brooke
+West Virginia	56	54	110	Cabell
+West Virginia	56	54	130	Calhoun
+West Virginia	56	54	150	Clay
+West Virginia	56	54	170	Doddridge
+West Virginia	56	54	190	Fayette
+West Virginia	56	54	210	Gilmer
+West Virginia	56	54	230	Grant
+West Virginia	56	54	250	Greenbrier
+West Virginia	56	54	270	Hampshire
+West Virginia	56	54	290	Hancock
+West Virginia	56	54	310	Hardy
+West Virginia	56	54	330	Harrison
+West Virginia	56	54	350	Jackson
+West Virginia	56	54	370	Jefferson
+West Virginia	56	54	390	Kanawha
+West Virginia	56	54	410	Lewis
+West Virginia	56	54	430	Lincoln
+West Virginia	56	54	450	Logan
+West Virginia	56	54	470	McDowell
+West Virginia	56	54	490	Marion
+West Virginia	56	54	510	Marshall
+West Virginia	56	54	530	Mason
+West Virginia	56	54	550	Mercer
+West Virginia	56	54	570	Mineral
+West Virginia	56	54	590	Mingo
+West Virginia	56	54	610	Monongalia
+West Virginia	56	54	630	Monroe
+West Virginia	56	54	650	Morgan
+West Virginia	56	54	670	Nicholas
+West Virginia	56	54	690	Ohio
+West Virginia	56	54	710	Pendleton
+West Virginia	56	54	730	Pleasants
+West Virginia	56	54	750	Pocahontas
+West Virginia	56	54	770	Preston
+West Virginia	56	54	790	Putnam
+West Virginia	56	54	810	Raleigh
+West Virginia	56	54	830	Randolph
+West Virginia	56	54	850	Ritchie
+West Virginia	56	54	870	Roane
+West Virginia	56	54	890	Summers
+West Virginia	56	54	910	Taylor
+West Virginia	56	54	930	Tucker
+West Virginia	56	54	950	Tyler
+West Virginia	56	54	970	Upshur
+West Virginia	56	54	990	Wayne
+West Virginia	56	54	1010	Webster
+West Virginia	56	54	1030	Wetzel
+West Virginia	56	54	1050	Wirt
+West Virginia	56	54	1070	Wood
+West Virginia	56	54	1090	Wyoming
+Wisconsin	25	55	10	Adams
+Wisconsin	25	55	30	Ashland
+Wisconsin	25	55	50	Barron/Dallas
+Wisconsin	25	55	70	Bayfield/La Point
+Wisconsin	25	55	90	Brown
+Wisconsin	25	55	110	Buffalo
+Wisconsin	25	55	130	Burnett
+Wisconsin	25	55	150	Calumet
+Wisconsin	25	55	170	Chippewa
+Wisconsin	25	55	190	Clark
+Wisconsin	25	55	210	Columbia
+Wisconsin	25	55	230	Crawford
+Wisconsin	25	55	250	Dane
+Wisconsin	25	55	270	Dodge
+Wisconsin	25	55	290	Door
+Wisconsin	25	55	310	Douglas
+Wisconsin	25	55	330	Dunn
+Wisconsin	25	55	350	Eau Claire
+Wisconsin	25	55	370	Florence
+Wisconsin	25	55	390	Fond Du Lac
+Wisconsin	25	55	410	Forest
+Wisconsin	25	55	430	Grant
+Wisconsin	25	55	450	Green
+Wisconsin	25	55	470	Green Lake
+Wisconsin	25	55	490	Iowa
+Wisconsin	25	55	510	Iron
+Wisconsin	25	55	530	Jackson
+Wisconsin	25	55	550	Jefferson
+Wisconsin	25	55	570	Juneau
+Wisconsin	25	55	590	Kenosha
+Wisconsin	25	55	610	Kewaunee
+Wisconsin	25	55	630	La Crosse
+Wisconsin	25	55	650	Lafayette
+Wisconsin	25	55	670	Langlade
+Wisconsin	25	55	690	Lincoln
+Wisconsin	25	55	710	Manitowoc
+Wisconsin	25	55	730	Marathon
+Wisconsin	25	55	750	Marinette
+Wisconsin	25	55	770	Marquette
+Wisconsin	25	55	790	Milwaukee
+Wisconsin	25	55	810	Monroe
+Wisconsin	25	55	830	Oconto
+Wisconsin	25	55	850	Oneida
+Wisconsin	25	55	870	Outagamie
+Wisconsin	25	55	890	Ozaukee
+Wisconsin	25	55	910	Pepin
+Wisconsin	25	55	930	Pierce
+Wisconsin	25	55	950	Polk
+Wisconsin	25	55	970	Portage
+Wisconsin	25	55	990	Price
+Wisconsin	25	55	1010	Racine
+Wisconsin	25	55	1030	Richland
+Wisconsin	25	55	1050	Rock
+Wisconsin	25	55	1070	Rusk
+Wisconsin	25	55	1090	St Croix
+Wisconsin	25	55	1110	Sauk
+Wisconsin	25	55	1130	Sawyer
+Wisconsin	25	55	1150	Shawano
+Wisconsin	25	55	1170	Sheboygan
+Wisconsin	25	55	1190	Taylor
+Wisconsin	25	55	1210	Trempealeau
+Wisconsin	25	55	1230	Vernon/Bad Ax
+Wisconsin	25	55	1250	Vilas
+Wisconsin	25	55	1270	Walworth
+Wisconsin	25	55	1290	Washburn
+Wisconsin	25	55	1310	Washington
+Wisconsin	25	55	1330	Waukesha
+Wisconsin	25	55	1350	Waupaca
+Wisconsin	25	55	1370	Waushara
+Wisconsin	25	55	1390	Winnebago
+Wisconsin	25	55	1410	Wood
+Wyoming	68	56	10	Albany
+Wyoming	68	56	30	Big Horn
+Wyoming	68	56	50	Campbell
+Wyoming	68	56	70	Carbon
+Wyoming	68	56	90	Converse
+Wyoming	68	56	95	Converse-Natrona
+Wyoming	68	56	110	Crook
+Wyoming	68	56	130	Fremont
+Wyoming	68	56	150	Goshen
+Wyoming	68	56	170	Hot Springs
+Wyoming	68	56	190	Johnson
+Wyoming	68	56	210	Laramie
+Wyoming	68	56	230	Lincoln
+Wyoming	68	56	250	Natrona
+Wyoming	68	56	270	Niobrara
+Wyoming	68	56	290	Park
+Wyoming	68	56	310	Platte
+Wyoming	68	56	330	Sheridan
+Wyoming	68	56	350	Sublette
+Wyoming	68	56	370	Sweetwater
+Wyoming	68	56	390	Teton
+Wyoming	68	56	410	Uinta
+Wyoming	68	56	430	Washakie
+Wyoming	68	56	450	Weston
+Wyoming	68	56	455	Yellowstone 
+Wyoming	68	56		National Park
+Other	97	97	9970	Overseas Military

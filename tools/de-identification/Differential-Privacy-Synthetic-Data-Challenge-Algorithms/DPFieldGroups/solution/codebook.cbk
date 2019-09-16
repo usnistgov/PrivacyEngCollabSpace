@@ -1,0 +1,8629 @@
+Description: 1940 Full Extract
+Samples selected:
+      1940 100% database
+            Note: Preliminary data release.
+            Density of the full data file:  100.0%
+            Density of your extract: 100.0%
+
+File Type:                    hierarchical
+Case Selection:               No
+  Variable               Columns        Len    1940   
+  RECTYPE            H   1              1      X 
+  YEAR               H   2-5            4      X 
+  DATANUM            H   6-7            2      X 
+  SERIAL             H   8-15           8      X 
+  NUMPREC            H  16-17           2      X 
+  SUBSAMP            H  18-19           2      X 
+  HHWT               H  20-29          10      X 
+  NUMPERHH           H  30-33           4      X 
+  HHTYPE             H  34              1      X 
+  DWELLING           H  35-42           8      X 
+  SLPERNUM           H  43-44           2      X 
+  CPI99              H  45-49           5      X 
+  REGION             H  50-51           2      X 
+  STATEICP           H  52-53           2      X 
+  STATEFIP           H  54-55           2      X 
+  COUNTY             H  56-59           4      X 
+  URBAN              H  60              1      X 
+  METRO              H  61              1      X 
+  METAREA            H  62-64           3      X 
+  METAREAD           H  65-68           4      X 
+  CITY               H  69-72           4      X 
+  CITYPOP            H  73-77           5      X 
+  SIZEPL             H  78-79           2      X 
+  URBPOP             H  80-84           5      X 
+  SEA                H  85-87           3      X 
+  WARD               H  88-90           3      X 
+  CNTRY              H  91-93           3      X 
+  GQ                 H  94              1      X 
+  GQTYPE             H  95              1      X 
+  GQTYPED            H  96-98           3      X 
+  GQFUNDS            H  99-100          2      X 
+  FARM               H 101              1      X 
+  OWNERSHP           H 102              1      X 
+  OWNERSHPD          H 103-104          2      X 
+  RENT               H 105-108          4      X 
+  VALUEH             H 109-115          7      X 
+  NFAMS              H 116-117          2      X 
+  NSUBFAM            H 118              1      X 
+  NCOUPLES           H 119              1      X 
+  NMOTHERS           H 120              1      X 
+  NFATHERS           H 121              1      X 
+  MULTGEN            H 122              1      X 
+  MULTGEND           H 123-124          2      X 
+  ENUMDIST           H 125-128          4      X 
+  SUPDIST            H 129-131          3      X 
+  RESPOND            H 132              1      X 
+  SPLIT              H 133              1      X 
+  SPLITHID           H 134-141          8      X 
+  SPLITNUM           H 142-145          4      X 
+  SPLIT40            H 146              1      X 
+  SERIAL40           H 147-154          8      X 
+  NUMPREC40          H 155-158          4      X 
+  EDMISS             H 159              1      X 
+  RECTYPEP           P   1              1      X 
+  YEARP              P   2-5            4      X 
+  DATANUMP           P   6-7            2      X 
+  SERIALP            P   8-15           8      X 
+  PERNUM             P  16-19           4      X 
+  PERWT              P  20-29          10      X 
+  SLWT               P  30-39          10      X 
+  SLREC              P  40              1      X 
+  RESPONDT           P  41              1      X 
+  FAMUNIT            P  42-43           2      X 
+  FAMSIZE            P  44-45           2      X 
+  SUBFAM             P  46              1      X 
+  SFTYPE             P  47              1      X 
+  SFRELATE           P  48              1      X 
+  MOMLOC             P  49-50           2      X 
+  STEPMOM            P  51              1      X 
+  MOMRULE_HIST       P  52              1      X 
+  POPLOC             P  53-54           2      X 
+  STEPPOP            P  55              1      X 
+  POPRULE_HIST       P  56              1      X 
+  SPLOC              P  57-58           2      X 
+  SPRULE_HIST        P  59              1      X 
+  NCHILD             P  60              1      X 
+  NCHLT5             P  61              1      X 
+  NSIBS              P  62              1      X 
+  ELDCH              P  63-64           2      X 
+  YNGCH              P  65-66           2      X 
+  RELATE             P  67-68           2      X 
+  RELATED            P  69-72           4      X 
+  SEX                P  73              1      X 
+  AGE                P  74-76           3      X 
+  AGEMONTH           P  77-78           2      X 
+  MARST              P  79              1      X 
+  MARRNO             P  80              1      X 
+  AGEMARR            P  81-82           2      X 
+  CHBORN             P  83-84           2      X 
+  RACE               P  85              1      X 
+  RACED              P  86-88           3      X 
+  HISPAN             P  89              1      X 
+  HISPAND            P  90-92           3      X 
+  BPL                P  93-95           3      X 
+  BPLD               P  96-100          5      X 
+  MBPL               P 101-103          3      X 
+  MBPLD              P 104-108          5      X 
+  FBPL               P 109-111          3      X 
+  FBPLD              P 112-116          5      X 
+  NATIVITY           P 117              1      X 
+  CITIZEN            P 118              1      X 
+  MTONGUE            P 119-120          2      X 
+  MTONGUED           P 121-124          4      X 
+  SPANNAME           P 125              1      X 
+  HISPRULE           P 126              1      X 
+  SCHOOL             P 127              1      X 
+  HIGRADE            P 128-129          2      X 
+  HIGRADED           P 130-132          3      X 
+  EDUC               P 133-134          2      X 
+  EDUCD              P 135-137          3      X 
+  EMPSTAT            P 138              1      X 
+  EMPSTATD           P 139-140          2      X 
+  LABFORCE           P 141              1      X 
+  OCC                P 142-145          4      X 
+  OCC1950            P 146-148          3      X 
+  IND                P 149-152          4      X 
+  IND1950            P 153-155          3      X 
+  CLASSWKR           P 156              1      X 
+  CLASSWKRD          P 157-158          2      X 
+  WKSWORK1           P 159-160          2      X 
+  WKSWORK2           P 161              1      X 
+  HRSWORK1           P 162-163          2      X 
+  HRSWORK2           P 164              1      X 
+  DURUNEMP           P 165-167          3      X 
+  UOCC               P 168-170          3      X 
+  UOCC95             P 171-173          3      X 
+  UIND               P 174-176          3      X 
+  UCLASSWK           P 177              1      X 
+  INCWAGE            P 178-183          6      X 
+  INCNONWG           P 184              1      X 
+  OCCSCORE           P 185-186          2      X 
+  SEI                P 187-188          2      X 
+  PRESGL             P 189-191          3      X 
+  ERSCOR50           P 192-195          4      X 
+  EDSCOR50           P 196-199          4      X 
+  NPBOSS50           P 200-203          4      X 
+  MIGRATE5           P 204              1      X 
+  MIGRATE5D          P 205-206          2      X 
+  MIGPLAC5           P 207-209          3      X 
+  MIGMET5            P 210-213          4      X 
+  MIGTYPE5           P 214              1      X 
+  MIGCITY5           P 215-218          4      X 
+  MIGSEA5            P 219-221          3      X 
+  SAMEPLAC           P 222              1      X 
+  SAMESEA5           P 223              1      X 
+  MIGCOUNTY          P 224-227          4      X 
+  VETSTAT            P 228              1      X 
+  VETSTATD           P 229-230          2      X 
+  VET1940            P 231              1      X 
+  VETWWI             P 232              1      X 
+  VETPER             P 233              1      X 
+  VETCHILD           P 234              1      X 
+  HISTID             P 235-270         36      X 
+  SURSIM             P 271-272          2      X 
+  SSENROLL           P 273              1      X 
+
+Variable Availability Key:
+All Years X - available in this sample
+All Years . - not available in this sample
+
+ NUMPREC		Number of person records following
+00		Vacant household
+01		1 person record
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+
+ SUBSAMP		Subsample number
+00		First 1% subsample
+01		2nd 1% subsample
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+31		31
+32		32
+33		33
+34		34
+35		35
+36		36
+37		37
+38		38
+39		39
+40		40
+41		41
+42		42
+43		43
+44		44
+45		45
+46		46
+47		47
+48		48
+49		49
+50		50
+51		51
+52		52
+53		53
+54		54
+55		55
+56		56
+57		57
+58		58
+59		59
+60		60
+61		61
+62		62
+63		63
+64		64
+65		65
+66		66
+67		67
+68		68
+69		69
+70		70
+71		71
+72		72
+73		73
+74		74
+75		75
+76		76
+77		77
+78		78
+79		79
+80		80
+81		81
+82		82
+83		83
+84		84
+85		85
+86		86
+87		87
+88		88
+89		89
+90		90
+91		91
+92		92
+93		93
+94		94
+95		95
+96		96
+97		97
+98		98
+99		99
+
+ HHTYPE		Household Type
+0		N/A
+		Family Households:
+1		Married-couple family household
+2		Male householder, no wife present
+3		Female householder, no husband present
+		Nonfamily Households:
+4		Male householder, living alone
+5		Male householder, not living alone
+6		Female householder, living alone
+7		Female householder, not living alone
+9		HHTYPE could not be determined
+
+ REGION		Census region and division
+		NORTHEAST REGION
+11		New England Division
+12		Middle Atlantic Division
+13		Mixed Northeast Divisions (1970 Metro)
+		MIDWEST REGION
+21		East North Central Div.
+22		West North Central Div.
+23		Mixed Midwest Divisions (1970 Metro)
+		SOUTH REGION
+31		South Atlantic Division
+32		East South Central Div.
+33		West South Central Div.
+34		Mixed Southern Divisions (1970 Metro)
+		WEST REGION
+41		Mountain Division
+42		Pacific Division
+43		Mixed Western Divisions (1970 Metro)
+		STATE UNKNOWN
+91		Military/Military reservations
+92		PUMA boundaries cross state lines-1% sample
+97		State not identified
+99		Not identified
+
+ STATEICP		State (ICPSR code)
+01		Connecticut
+02		Maine
+03		Massachusetts
+04		New Hampshire
+05		Rhode Island
+06		Vermont
+11		Delaware
+12		New Jersey
+13		New York
+14		Pennsylvania
+21		Illinois
+22		Indiana
+23		Michigan
+24		Ohio
+25		Wisconsin
+31		Iowa
+32		Kansas
+33		Minnesota
+34		Missouri
+35		Nebraska
+36		North Dakota
+37		South Dakota
+40		Virginia
+41		Alabama
+42		Arkansas
+43		Florida
+44		Georgia
+45		Louisiana
+46		Mississippi
+47		North Carolina
+48		South Carolina
+49		Texas
+51		Kentucky
+52		Maryland
+53		Oklahoma
+54		Tennessee
+56		West Virginia
+61		Arizona
+62		Colorado
+63		Idaho
+64		Montana
+65		Nevada
+66		New Mexico
+67		Utah
+68		Wyoming
+71		California
+72		Oregon
+73		Washington
+81		Alaska
+82		Hawaii
+83		Puerto Rico
+96		State groupings (1980 Urban/rural sample)
+97		Military/Mil. Reservations
+98		District of Columbia
+99		State not identified
+
+ STATEFIP		State (FIPS code)
+01		Alabama
+02		Alaska
+04		Arizona
+05		Arkansas
+06		California
+08		Colorado
+09		Connecticut
+10		Delaware
+11		District of Columbia
+12		Florida
+13		Georgia
+15		Hawaii
+16		Idaho
+17		Illinois
+18		Indiana
+19		Iowa
+20		Kansas
+21		Kentucky
+22		Louisiana
+23		Maine
+24		Maryland
+25		Massachusetts
+26		Michigan
+27		Minnesota
+28		Mississippi
+29		Missouri
+30		Montana
+31		Nebraska
+32		Nevada
+33		New Hampshire
+34		New Jersey
+35		New Mexico
+36		New York
+37		North Carolina
+38		North Dakota
+39		Ohio
+40		Oklahoma
+41		Oregon
+42		Pennsylvania
+44		Rhode Island
+45		South Carolina
+46		South Dakota
+47		Tennessee
+48		Texas
+49		Utah
+50		Vermont
+51		Virginia
+53		Washington
+54		West Virginia
+55		Wisconsin
+56		Wyoming
+		State groups (1980 Urban/rural sample):
+61		Maine-New Hampshire-Vermont
+62		Massachusetts-Rhode Island
+63		Minnesota-Iowa-Missouri-Kansas-Nebraska-S.Dakota-N.Dakota
+64		Maryland-Delaware
+65		Montana-Idaho-Wyoming
+66		Utah-Nevada
+67		Arizona-New Mexico
+68		Alaska-Hawaii
+72		Puerto Rico
+97		Military/Mil. Reservation
+99		State not identified
+
+ URBAN		Urban/rural status
+0		N/A
+1		Rural
+2		Urban
+
+ METRO		Metropolitan status
+0		Not identifiable
+1		Not in metro area
+		In metro area:
+2		In metro area, central / principal city
+3		In metro area, outside central / principal city
+4		Central / Principal city status unknown
+
+ METAREA		Metropolitan area [general version]
+000		Not identifiable or not in an MSA
+004		Abilene, TX
+006		Aguadilla, PR
+008		Akron, OH
+012		Albany, GA
+016		Albany-Schenectady-Troy, NY
+020		Albuquerque, NM
+022		Alexandria, LA
+024		Allentown-Bethlehem-Easton, PA/NJ
+028		Altoona, PA
+032		Amarillo, TX
+038		Anchorage, AK
+040		Anderson, IN
+044		Ann Arbor, MI
+045		Anniston, AL
+046		Appleton-Oshkosh-Neenah, WI
+047		Arecibo, PR
+048		Asheville, NC
+050		Athens, GA
+052		Atlanta, GA
+056		Atlantic City, NJ
+058		Auburn-Opekika, AL
+060		Augusta-Aiken, GA/SC
+064		Austin, TX
+068		Bakersfield, CA
+072		Baltimore, MD
+073		Bangor, ME
+074		Barnstable-Yarmouth, MA
+076		Baton Rouge, LA
+078		Battle Creek, MI
+084		Beaumont-Port Arthur-Orange, TX
+086		Bellingham, WA
+087		Benton Harbor, MI
+088		Billings, MT
+092		Biloxi-Gulfport, MS
+096		Binghamton, NY
+100		Birmingham, AL
+102		Bloomington, IN
+104		Bloomington-Normal, IL
+108		Boise City, ID
+112		Boston, MA/NH
+114		Bradenton, FL
+115		Bremerton, WA
+116		Bridgeport, CT
+120		Brockton, MA
+124		Brownsville-Harlingen-San Benito, TX
+126		Bryan-College Station, TX
+128		Buffalo-Niagara Falls, NY
+130		Burlington, NC
+131		Burlington, VT
+132		Canton, OH
+133		Caguas, PR
+135		Casper, WY
+136		Cedar Rapids, IA
+140		Champaign-Urbana-Rantoul, IL
+144		Charleston-N. Charleston, SC
+148		Charleston, WV
+152		Charlotte-Gastonia-Rock Hill, NC/SC
+154		Charlottesville, VA
+156		Chattanooga, TN/GA
+158		Cheyenne, WY
+160		Chicago, IL
+162		Chico, CA
+164		Cincinnati-Hamilton, OH/KY/IN
+166		Clarksville- Hopkinsville, TN/KY
+168		Cleveland, OH
+172		Colorado Springs, CO
+174		Columbia, MO
+176		Columbia, SC
+180		Columbus, GA/AL
+184		Columbus, OH
+188		Corpus Christi, TX
+190		Cumberland, MD/WV
+192		Dallas-Fort Worth, TX
+193		Danbury, CT
+195		Danville, VA
+196		Davenport, IA - Rock Island-Moline, IL
+200		Dayton-Springfield, OH
+202		Daytona Beach, FL
+203		Decatur, AL
+204		Decatur, IL
+208		Denver-Boulder, CO
+212		Des Moines, IA
+216		Detroit, MI
+218		Dothan, AL
+219		Dover, DE
+220		Dubuque, IA
+224		Duluth-Superior, MN/WI
+228		Dutchess Co., NY
+229		Eau Claire, WI
+231		El Paso, TX
+232		Elkhart-Goshen, IN
+233		Elmira, NY
+234		Enid, OK
+236		Erie, PA
+240		Eugene-Springfield, OR
+244		Evansville, IN/KY
+252		Fargo-Morehead, ND/MN
+256		Fayetteville, NC
+258		Fayetteville-Springdale, AR
+260		Fitchburg-Leominster, MA
+262		Flagstaff, AZ/UT
+264		Flint, MI
+265		Florence, AL
+266		Florence, SC
+267		Fort Collins-Loveland, CO
+268		Fort Lauderdale-Hollywood-Pompano Beach, FL
+270		Fort Myers-Cape Coral, FL
+271		Fort Pierce, FL
+272		Fort Smith, AR/OK
+275		Fort Walton Beach, FL
+276		Fort Wayne, IN
+284		Fresno, CA
+288		Gadsden, AL
+290		Gainesville, FL
+292		Galveston-Texas City, TX
+297		Glens Falls, NY
+298		Goldsboro, NC
+299		Grand Forks, ND
+300		Grand Rapids, MI
+301		Grand Junction, CO
+304		Great Falls, MT
+306		Greeley, CO
+308		Green Bay, WI
+312		Greensboro-Winston Salem-High Point, NC
+315		Greenville, NC
+316		Greenville-Spartenburg-Anderson, SC
+318		Hagerstown, MD
+320		Hamilton-Middleton, OH
+324		Harrisburg-Lebanon--Carlisle, PA
+328		Hartford-Bristol-Middleton- New Britain, CT
+329		Hickory-Morganton, NC
+330		Hattiesburg, MS
+332		Honolulu, HI
+335		Houma-Thibodoux, LA
+336		Houston-Brazoria, TX
+340		Huntington-Ashland, WV/KY/OH
+344		Huntsville, AL
+348		Indianapolis, IN
+350		Iowa City, IA
+352		Jackson, MI
+356		Jackson, MS
+358		Jackson, TN
+359		Jacksonville, FL
+360		Jacksonville, NC
+361		Jamestown-Dunkirk, NY
+362		Janesville-Beloit, WI
+366		Johnson City-Kingsport--Bristol, TN/VA
+368		Johnstown, PA
+371		Joplin, MO
+372		Kalamazoo-Portage, MI
+374		Kankakee, IL
+376		Kansas City, MO/KS
+380		Kenosha, WI
+381		Kileen-Temple, TX
+384		Knoxville, TN
+385		Kokomo, IN
+387		LaCrosse, WI
+388		Lafayette, LA
+392		Lafayette-W. Lafayette, IN
+396		Lake Charles, LA
+398		Lakeland-Winterhaven, FL
+400		Lancaster, PA
+404		Lansing-E. Lansing, MI
+408		Laredo, TX
+410		Las Cruces, NM
+412		Las Vegas, NV
+415		Lawrence, KS
+420		Lawton, OK
+424		Lewiston-Auburn, ME
+428		Lexington-Fayette, KY
+432		Lima, OH
+436		Lincoln, NE
+440		Little Rock-N. Little Rock, AR
+441		Long Branch-Asbury Park, NJ
+442		Longview-Marshall, TX
+444		Lorain-Elyria, OH
+448		Los Angeles-Long Beach, CA
+452		Louisville, KY/IN
+460		Lubbock, TX
+464		Lynchburg, VA
+468		Macon-Warner Robins, GA
+472		Madison, WI
+476		Manchester, NH
+480		Mansfield, OH
+484		Mayaguez, PR
+488		McAllen-Edinburg-Pharr-Mission, TX
+489		Medford, OR
+490		Melbourne-Titusville-Cocoa-Palm Bay, FL
+492		Memphis, TN/AR/MS
+494		Merced, CA
+500		Miami-Hialeah, FL
+504		Midland, TX
+508		Milwaukee, WI
+512		Minneapolis-St. Paul, MN
+514		Missoula, MT
+516		Mobile, AL
+517		Modesto, CA
+519		Monmouth-Ocean, NJ
+520		Monroe, LA
+524		Montgomery, AL
+528		Muncie, IN
+532		Muskegon-Norton Shores-Muskegon Heights, MI
+533		Myrtle Beach, SC
+534		Naples, FL
+535		Nashua, NH
+536		Nashville, TN
+540		New Bedford, MA
+546		New Brunswick-Perth Amboy-Sayreville, NJ
+548		New Haven-Meriden, CT
+552		New London-Norwich, CT/RI
+556		New Orleans, LA
+560		New York, NY-Northeastern NJ
+564		Newark, OH
+566		Newburgh-Middletown, NY
+572		Norfolk-VA Beach--Newport News, VA
+576		Norwalk, CT
+579		Ocala, FL
+580		Odessa, TX
+588		Oklahoma City, OK
+591		Olympia, WA
+592		Omaha, NE/IA
+595		Orange, NY
+596		Orlando, FL
+599		Owensboro, KY
+601		Panama City, FL
+602		Parkersburg-Marietta,WV/OH
+603		Pascagoula-Moss Point, MS
+608		Pensacola, FL
+612		Peoria, IL
+616		Philadelphia, PA/NJ
+620		Phoenix, AZ
+628		Pittsburgh, PA
+632		Pittsfield, MA
+636		Ponce, PR
+640		Portland, ME
+644		Portland, OR/WA
+645		Portsmouth-Dover--Rochester, NH/ME
+646		Poughkeepsie, NY
+648		Providence-Fall River-Pawtucket, MA/RI
+652		Provo-Orem, UT
+656		Pueblo, CO
+658		Punta Gorda, FL
+660		Racine, WI
+664		Raleigh-Durham, NC
+666		Rapid City, SD
+668		Reading, PA
+669		Redding, CA
+672		Reno, NV
+674		Richland-Kennewick-Pasco, WA
+676		Richmond-Petersburg, VA
+678		Riverside-San Bernardino, CA
+680		Roanoke, VA
+682		Rochester, MN
+684		Rochester, NY
+688		Rockford, IL
+689		Rocky Mount, NC
+692		Sacramento, CA
+696		Saginaw-Bay City-Midland, MI
+698		St. Cloud, MN
+700		St. Joseph, MO
+704		St. Louis, MO/IL
+708		Salem, OR
+712		Salinas-Sea Side-Monterey, CA
+714		Salisbury-Concord, NC
+716		Salt Lake City-Ogden, UT
+720		San Angelo, TX
+724		San Antonio, TX
+732		San Diego, CA
+736		San Francisco-Oakland-Vallejo, CA
+740		San Jose, CA
+744		San Juan-Bayamon, PR
+746		San Luis Obispo-Atascad-P Robles, CA
+747		Santa Barbara-Santa Maria-Lompoc, CA
+748		Santa Cruz, CA
+749		Santa Fe, NM
+750		Santa Rosa-Petaluma, CA
+751		Sarasota, FL
+752		Savannah, GA
+756		Scranton-Wilkes-Barre, PA
+760		Seattle-Everett, WA
+761		Sharon, PA
+762		Sheboygan, WI
+764		Sherman-Davidson, TX
+768		Shreveport, LA
+772		Sioux City, IA/NE
+776		Sioux Falls, SD
+780		South Bend-Mishawaka, IN
+784		Spokane, WA
+788		Springfield, IL
+792		Springfield, MO
+800		Springfield-Holyoke-Chicopee, MA
+804		Stamford, CT
+805		State College, PA
+808		Steubenville-Weirton,OH/WV
+812		Stockton, CA
+814		Sumter, SC
+816		Syracuse, NY
+820		Tacoma, WA
+824		Tallahassee, FL
+828		Tampa-St. Petersburg-Clearwater, FL
+832		Terre Haute, IN
+836		Texarkana, TX/AR
+840		Toledo, OH/MI
+844		Topeka, KS
+848		Trenton, NJ
+852		Tucson, AZ
+856		Tulsa, OK
+860		Tuscaloosa, AL
+864		Tyler, TX
+868		Utica-Rome, NY
+873		Ventura-Oxnard-Simi Valley, CA
+875		Victoria, TX
+876		Vineland-Milville-Bridgetown, NJ
+878		Visalia-Tulare-Porterville, CA
+880		Waco, TX
+884		Washington, DC/MD/VA
+888		Waterbury, CT
+892		Waterloo-Cedar Falls, IA
+894		Wausau, WI
+896		West Palm Beach-Boca Raton-Delray Beach, FL
+900		Wheeling, WV/OH
+904		Wichita, KS
+908		Wichita Falls, TX
+914		Williamsport, PA
+916		Wilmington, DE/NJ/MD
+920		Wilmington, NC
+924		Worcester, MA
+926		Yakima, WA
+927		Yolo, CA
+928		York, PA
+932		Youngstown-Warren, OH/PA
+934		Yuba City, CA
+936		Yuma, AZ
+
+ METAREAD		Metropolitan area [detailed version]
+0000		Not identifiable or not in an MSA
+0040		Abilene, TX
+0060		Aguadilla, PR
+0080		Akron, OH
+0120		Albany, GA
+0160		Albany-Schenectady-Troy, NY
+0200		Albuquerque, NM
+0220		Alexandria, LA
+0240		Allentown-Bethlehem-Easton, PA/NJ
+0280		Altoona, PA
+0320		Amarillo, TX
+		Anaheim-Santa Ana, CA  (See Los Angeles)
+0380		Anchorage, AK
+0400		Anderson, IN
+		Anderson, SC (See Greenville)
+0440		Ann Arbor, MI
+0450		Anniston, AL
+0460		Appleton-Oshkosh-Neenah, WI
+0470		Arecibo, PR
+0480		Asheville, NC
+0500		Athens, GA
+0520		Atlanta, GA
+0560		Atlantic City, NJ
+0580		Auburn-Opelika, AL
+0600		Augusta-Aiken, GA/SC
+		Aurora-Elgin, IL  (See Chicago)
+0640		Austin, TX
+0680		Bakersfield, CA
+0720		Baltimore, MD
+0730		Bangor, ME
+0740		Barnstable-Yarmouth, MA
+0760		Baton Rouge, LA
+0780		Battle Creek, MI
+		Bay City, MI (See Saginaw)
+0840		Beaumont-Port Arthur-Orange, TX
+		Beaver County, PA (See Pittsburgh)
+0860		Bellingham, WA
+0870		Benton Harbor, MI
+		Bergen-Passaic, NY (See New York)
+0880		Billings, MT
+0920		Biloxi-Gulfport, MS
+0960		Binghamton, NY
+1000		Birmingham, AL
+1010		Bismarck, ND
+1020		Bloomington, IN
+1040		Bloomington-Normal, IL
+1080		Boise City, ID
+1120		Boston, MA
+1121		Lawrence-Haverhill, MA/NH
+1122		Lowell, MA/NH
+1123		Salem-Gloucester, MA
+		Boulder, CO  (See Denver)
+1140		Bradenton, FL
+		Brazoria, TX (See Houston)
+1150		Bremerton, WA
+1160		Bridgeport, CT
+		Bristol, CT (See Hartford)
+1200		Brockton, MA
+1240		Brownsville-Harlingen-San Benito, TX
+1260		Bryan-College Station, TX
+1280		Buffalo-Niagara Falls, NY
+1281		Niagara Falls, NY
+1300		Burlington, NC
+1310		Burlington, VT
+1320		Canton, OH
+1330		Caguas, PR
+1350		Casper, WY
+1360		Cedar Rapids, IA
+1400		Champaign-Urbana-Rantoul, IL
+1440		Charleston-N. Charleston, SC
+1480		Charleston, WV
+1520		Charlotte-Gastonia-Rock Hill, SC
+1521		Rock Hill, SC
+1540		Charlottesville, VA
+1560		Chattanooga, TN/GA
+1580		Cheyenne, WY
+1600		Chicago-Gary-Lake, IL
+1601		Aurora-Elgin, IL
+1602		Gary-Hammond-East Chicago, IN
+1603		Joliet, IL
+1604		Lake County, IL
+1620		Chico, CA
+1640		Cincinnati, OH/KY/IN
+1660		Clarksville-Hopkinsville, TN/KY
+1680		Cleveland, OH
+1720		Colorado Springs, CO
+1740		Columbia, MO
+1760		Columbia, SC
+1800		Columbus, GA/AL
+1840		Columbus, OH
+1880		Corpus Christi, TX
+1900		Cumberland, MD/WV
+1920		Dallas-Fort Worth, TX
+1921		Fort Worth-Arlington, TX
+1930		Danbury, CT
+1950		Danville, VA
+1960		Davenport, IA - Rock Island-Moline, IL
+2000		Dayton-Springfield, OH
+2001		Springfield, OH
+2020		Daytona Beach, FL
+2030		Decatur, AL
+2040		Decatur, IL
+2080		Denver-Boulder-Longmont, CO
+2081		Boulder-Longmont, CO
+2120		Des Moines, IA
+2121		Polk, IA
+2160		Detroit, MI
+2180		Dothan, AL
+2190		Dover, DE
+2200		Dubuque, IA
+2240		Duluth-Superior, MN/WI
+2281		Dutchess Co., NY
+2290		Eau Claire, WI
+2310		El Paso, TX
+2320		Elkhart-Goshen, IN
+2330		Elmira, NY
+2340		Enid, OK
+2360		Erie, PA
+2400		Eugene-Springfield, OR
+2440		Evansville, IN/KY
+		Fall River, MA  (See Providence)
+2520		Fargo-Morehead, ND/MN
+2560		Fayetteville, NC
+2580		Fayetteville-Springdale, AR
+2600		Fitchburg-Leominster, MA
+2620		Flagstaff, AZ/UT
+2640		Flint, MI
+2650		Florence, AL
+2660		Florence, SC
+2670		Fort Collins-Loveland, CO
+2680		Fort Lauderdale-Hollywood-Pompano Beach, FL
+2700		Fort Myers-Cape Coral, FL
+2710		Fort Pierce, FL
+2720		Fort Smith, AR/OK
+2750		Fort Walton Beach, FL
+2760		Fort Wayne, IN
+		Fort Worth, TX  (See Dallas)
+2840		Fresno, CA
+2880		Gadsden, AL
+2900		Gainesville, FL
+2920		Galveston-Texas City, TX
+		Gary, IN  (See Chicago)
+2970		Glens Falls, NY
+2980		Goldsboro, NC
+2990		Grand Forks, ND/MN
+3000		Grand Rapids, MI
+3010		Grand Junction, CO
+3040		Great Falls, MT
+3060		Greeley, CO
+3080		Green Bay, WI
+3120		Greensboro-Winston Salem-High Point, NC
+3121		Winston-Salem, NC
+3150		Greenville, NC
+3160		Greenville-Spartenburg-Anderson, SC
+3161		Anderson, SC
+3180		Hagerstown, MD
+3200		Hamilton-Middleton, OH
+3240		Harrisburg-Lebanon-Carlisle, PA
+3280		Hartford-Bristol-Middleton-New Britain, CT
+3281		Bristol, CT
+3282		Middletown, CT
+3283		New Britain, CT
+3290		Hickory-Morganton, NC
+3300		Hattiesburg, MS
+3320		Honolulu, HI
+3350		Houma-Thibodoux, LA
+3360		Houston-Brazoria, TX
+3361		Brazoria, TX
+3400		Huntington-Ashland, WV/KY/OH
+3440		Huntsville, AL
+3480		Indianapolis, IN
+3500		Iowa City, IA
+3520		Jackson, MI
+3560		Jackson, MS
+3580		Jackson, TN
+3590		Jacksonville, FL
+3600		Jacksonville, NC
+3610		Jamestown-Dunkirk, NY
+3620		Janesville-Beloit, WI
+		Jersey City, NJ  (See New York)
+3660		Johnson City-Kingsport-Bristol, TN/VA
+3680		Johnstown, PA
+		Joliet, IL  (See Chicago)
+3710		Joplin, MO
+3720		Kalamazoo-Portage, MI
+3740		Kankakee, IL
+3760		Kansas City, MO/KS
+3800		Kenosha, WI
+3810		Kileen-Temple, TX
+3840		Knoxville, TN
+3850		Kokomo, IN
+3870		LaCrosse, WI
+3880		Lafayette, LA
+3920		Lafayette-W. Lafayette, IN
+3960		Lake Charles, LA
+		Lake County, IL  (See Chicago)
+3980		Lakeland-Winterhaven, FL
+4000		Lancaster, PA
+4040		Lansing-E. Lansing, MI
+4080		Laredo, TX
+4100		Las Cruces, NM
+4120		Las Vegas, NV
+4150		Lawrence, KS
+		Lawrence-Haverhill, MA  (See Boston)
+4200		Lawton, OK
+4240		Lewiston-Auburn, ME
+4280		Lexington-Fayette, KY
+4320		Lima, OH
+4360		Lincoln, NE
+4400		Little Rock-N. Little Rock, AR
+4410		Long Branch-Asbury Park, NJ
+4420		Longview-Marshall, TX
+4440		Lorain-Elyria, OH
+4480		Los Angeles-Long Beach, CA
+4481		Anaheim-Santa Ana-Garden Grove, CA
+4482		Orange County, CA
+4520		Louisville, KY/IN
+		Lowell, MA  (See Boston)
+4600		Lubbock, TX
+4640		Lynchburg, VA
+4680		Macon-Warner Robins, GA
+4720		Madison, WI
+4760		Manchester, NH
+4800		Mansfield, OH
+4840		Mayaguez, PR
+4880		McAllen-Edinburg-Pharr-Mission, TX
+4890		Medford, OR
+4900		Melbourne-Titusville-Cocoa-Palm Bay, FL
+4920		Memphis, TN/AR/MS
+4940		Merced, CA
+5000		Miami-Hialeah, FL
+		Middlesex-Somerset-Hunterdon (See New York)
+		Middleton, CT (See Hartford)
+5040		Midland, TX
+5080		Milwaukee, WI
+5120		Minneapolis-St. Paul, MN
+5140		Missoula, MT
+5160		Mobile, AL
+5170		Modesto, CA
+5190		Monmouth-Ocean, NJ
+5200		Monroe, LA
+5240		Montgomery, AL
+5280		Muncie, IN
+5320		Muskegon-Norton Shores-Muskegon Heights, MI
+5330		Myrtle Beach, SC
+5340		Naples, FL
+5350		Nashua, NH
+5360		Nashville, TN
+		Nassau-Suffolk, NY  (See New York)
+5400		New Bedford, MA
+		New Britian, CT  (See Hartford)
+5460		New Brunswick-Perth Amboy-Sayreville, NJ
+5480		New Haven-Meriden, CT
+5481		Meriden
+5482		New Haven, CT
+5520		New London-Norwich, CT/RI
+5560		New Orleans, LA
+5600		New York, NY-Northeastern NJ
+5601		Nassau Co, NY
+5602		Bergen-Passaic, NJ
+5603		Jersey City, NJ
+5604		Middlesex-Somerset-Hunterdon, NJ
+5605		Newark, NJ
+5640		Newark, OH
+5660		Newburgh-Middletown, NY
+		Niagara Falls, NY (See Buffalo)
+5720		Norfolk-VA Beach-Newport News, VA
+5721		Newport News-Hampton
+5722		Norfolk- VA Beach-Portsmouth
+5760		Norwalk, CT
+		Oakland, CA (See San Francisco)
+5790		Ocala, FL
+5800		Odessa, TX
+		Ogden, UT (See Salt Lake)
+5880		Oklahoma City, OK
+5910		Olympia, WA
+5920		Omaha, NE/IA
+5950		Orange, NY
+5960		Orlando, FL
+5990		Owensboro, KY
+6010		Panama City, FL
+6020		Parkersburg-Marietta,WV/OH
+6030		Pascagoula-Moss Point, MS
+		Paterson-Clifton, NJ (See New York)
+		Pawtuckett, RI (See Providence)
+6080		Pensacola, FL
+6120		Peoria, IL
+		Petersburg-Col.Heights, VA  (See Richmond)
+6160		Philadelphia, PA/NJ
+6200		Phoenix, AZ
+6240		Pine Bluff, AR
+6280		Pittsburgh-Beaver Valley, PA
+6281		Beaver County, PA
+6320		Pittsfield, MA
+6360		Ponce, PR
+6400		Portland, ME
+6440		Portland-Vancouver, OR
+6441		Vancouver, WA
+6450		Portsmouth-Dover-Rochester, NH/ME
+6460		Poughkeepsie, NY
+6480		Providence-Fall River-Pawtucket, MA/RI
+6481		Fall River, MA/RI
+6482		Pawtuckett-Woonsocket-Attleboro, RI/MA
+6520		Provo-Orem, UT
+6560		Pueblo, CO
+6580		Punta Gorda, FL
+6600		Racine, WI
+6640		Raleigh-Durham, NC
+6641		Durham, NC
+6660		Rapid City, SD
+6680		Reading, PA
+6690		Redding, CA
+6720		Reno, NV
+6740		Richland-Kennewick-Pasco, WA
+6760		Richmond-Petersburg, VA
+6761		Petersburg-Colonial Heights, VA
+6780		Riverside-San Bernardino, CA
+6781		San Bernardino, CA
+6800		Roanoke, VA
+6820		Rochester, MN
+6840		Rochester, NY
+		Rock Hill, SC (See Charlotte)
+6880		Rockford, IL
+6895		Rocky Mount, NC
+6920		Sacramento, CA
+6960		Saginaw-Bay City-Midland, MI
+6961		Bay City, MI
+		Salem-Gloucester, MA (See Boston)
+		San Bernadino, CA (see Riverside)
+		Springfield, OH (See Dayton)
+6980		St. Cloud, MN
+7000		St. Joseph, MO
+7040		St. Louis, MO/IL
+7080		Salem, OR
+7120		Salinas-Sea Side-Monterey, CA
+7140		Salisbury-Concord, NC
+7160		Salt Lake City-Ogden, UT
+7161		Ogden
+7200		San Angelo, TX
+7240		San Antonio, TX
+7320		San Diego, CA
+7360		San Francisco-Oakland-Vallejo, CA
+7361		Oakland, CA
+7362		Vallejo-Fairfield-Napa, CA
+7400		San Jose, CA
+7440		San Juan-Bayamon, PR
+7460		San Luis Obispo-Atascad-P Robles, CA
+7470		Santa Barbara-Santa Maria-Lompoc, CA
+7480		Santa Cruz, CA
+7490		Santa Fe, NM
+7500		Santa Rosa-Petaluma, CA
+7510		Sarasota, FL
+7520		Savannah, GA
+7560		Scranton-Wilkes-Barre, PA
+7561		Wilkes-Barre-Hazelton, PA
+7600		Seattle-Everett, WA
+7610		Sharon, PA
+7620		Sheboygan, WI
+7640		Sherman-Denison, TX
+7680		Shreveport, LA
+7720		Sioux City, IA/NE
+7760		Sioux Falls, SD
+7800		South Bend-Mishawaka, IN
+7840		Spokane, WA
+7880		Springfield, IL
+		Springfield, OH (See Dayton)
+7920		Springfield, MO
+8000		Springfield-Holyoke-Chicopee, MA
+8040		Stamford, CT
+8050		State College, PA
+8080		Steubenville-Weirton,OH/WV
+8120		Stockton, CA
+8140		Sumter, SC
+8160		Syracuse, NY
+8200		Tacoma, WA
+8240		Tallahassee, FL
+8280		Tampa-St. Petersburg-Clearwater, FL
+8320		Terre Haute, IN
+8360		Texarkana, TX/AR
+8400		Toledo, OH/MI
+8440		Topeka, KS
+8480		Trenton, NJ
+8520		Tucson, AZ
+8560		Tulsa, OK
+8600		Tuscaloosa, AL
+8640		Tyler, TX
+8680		Utica-Rome, NY
+		Vallejo-Fairfield-Napa, CA (See San Francisco)
+		Vancouver, WA (see Portland)
+8730		Ventura-Oxnard-Simi Valley, CA
+8750		Victoria, TX
+8760		Vineland-Milville-Bridgetown, NJ
+8780		Visalia-Tulare-Porterville, CA
+8800		Waco, TX
+8840		Washington, DC/MD/VA
+8880		Waterbury, CT
+8920		Waterloo-Cedar Falls, IA
+8940		Wausau, WI
+8960		West Palm Beach-Boca Raton-Delray Beach, FL
+9000		Wheeling, WV/OH
+9040		Wichita, KS
+9080		Wichita Falls, TX
+		Wilkes-Barre, PA (See Scranton)
+9140		Williamsport, PA
+9160		Wilmington, DE/NJ/MD
+9200		Wilmington, NC
+		Winston-Salem, NC (see Greensboro)
+9240		Worcester, MA
+9260		Yakima, WA
+9270		Yolo, CA
+9280		York, PA
+9320		Youngstown-Warren, OH/PA
+9340		Yuba City, CA
+9360		Yuma, AZ
+
+ CITY		City
+0000		Not in identifiable city (or size group)
+0001		Aberdeen, SD
+0002		Aberdeen, WA
+0003		Abilene, TX
+0004		Ada, OK
+0005		Adams, MA
+0006		Adrian, MI
+0007		Abington, PA
+0010		Akron, OH
+0030		Alameda, CA
+0050		Albany, NY
+0051		Albany, GA
+0052		Albert Lea, MN
+0070		Albuquerque, NM
+0090		Alexandria, VA
+0091		Alexandria, LA
+0100		Alhambra, CA
+0110		Allegheny, PA
+0120		Aliquippa, PA
+0130		Allentown, PA
+0131		Alliance, OH
+0132		Alpena, MI
+0140		Alton, IL
+0150		Altoona, PA
+0160		Amarillo, TX
+0161		Ambridge, PA
+0162		Ames, IA
+0163		Amesbury, MA
+0170		Amsterdam, NY
+0171		Anaconda, MT
+0190		Anaheim, CA
+0210		Anchorage, AK
+0230		Anderson, IN
+0231		Anderson, SC
+0250		Andover, MA
+0270		Ann Arbor, MI
+0271		Annapolis, MD
+0272		Anniston, AL
+0273		Ansonia, CT
+0275		Antioch, CA
+0280		Appleton, WI
+0281		Ardmore, OK
+0282		Argenta, AR
+0283		Arkansas, KS
+0284		Arden-Arcade, CA
+0290		Arlington, TX
+0310		Arlington, VA
+0311		Arlington, MA
+0312		Arnold, PA
+0313		Asbury Park, NJ
+0330		Asheville, NC
+0331		Ashland, OH
+0340		Ashland, KY
+0341		Ashland, WI
+0342		Ashtabula, OH
+0343		Astoria, OR
+0344		Atchison, KS
+0345		Athens, GA
+0346		Athol, MA
+0347		Athens-Clarke County, GA
+0350		Atlanta, GA
+0370		Atlantic City, NJ
+0371		Attleboro, MA
+0390		Auburn, NY
+0391		Auburn, ME
+0410		Augusta, GA
+0411		Augusta-Richmond County, GA
+0430		Augusta, ME
+0450		Aurora, CO
+0470		Aurora, IL
+0490		Austin, TX
+0491		Austin, MN
+0510		Bakersfield, CA
+0530		Baltimore, MD
+0550		Bangor, ME
+0551		Barberton, OH
+0552		Barre, VT
+0553		Bartlesville, OK
+0554		Batavia, NY
+0570		Bath, ME
+0590		Baton Rouge, LA
+0610		Battle Creek, MI
+0630		Bay City, MI
+0640		Bayamon, PR
+0650		Bayonne, NJ
+0651		Beacon, NY
+0652		Beatrice, NE
+0660		Belleville, IL
+0670		Beaumont, TX
+0671		Beaver Falls, PA
+0672		Bedford, IN
+0673		Bellaire, OH
+0680		Bellevue, WA
+0690		Bellingham, WA
+0695		Belvedere, CA
+0700		Belleville, NJ
+0701		Bellevue, PA
+0702		Belmont, OH
+0703		Belmont, MA
+0704		Beloit, WI
+0705		Bennington, VT
+0706		Benton Harbor, MI
+0710		Berkeley, CA
+0711		Berlin, NH
+0712		Berwick, PA
+0720		Berwyn, IL
+0721		Bessemer, AL
+0730		Bethlehem, PA
+0740		Biddeford, ME
+0741		Big Spring, TX
+0742		Billings, MT
+0743		Biloxi, MS
+0750		Binghamton, NY
+0760		Beverly, MA
+0761		Beverly Hills, CA
+0770		Birmingham, AL
+0771		Birmingham, CT
+0772		Bismarck, ND
+0780		Bloomfield, NJ
+0790		Bloomington, IL
+0791		Bloomington, IN
+0792		Blue Island, IL
+0793		Bluefield, WV
+0794		Blytheville, AR
+0795		Bogalusa, LA
+0800		Boise, ID
+0801		Boone, IA
+0810		Boston, MA
+0811		Boulder, CO
+0812		Bowling Green, KY
+0813		Braddock, PA
+0814		Braden, WA
+0815		Bradford, PA
+0816		Brainerd, MN
+0817		Braintree, MA
+0818		Brawley, CA
+0819		Bremerton, WA
+0830		Bridgeport, CT
+0831		Bridgeton, NJ
+0832		Bristol, CT
+0833		Bristol, PA
+0834		Bristol, VA
+0835		Bristol, TN
+0837		Bristol, RI
+0850		Brockton, MA
+0851		Brookfield, IL
+0870		Brookline, MA
+		Brooklyn, NY (See NYC)
+0880		Brownsville, TX
+0881		Brownwood, TX
+0882		Brunswick, GA
+0883		Bucyrus, OH
+0890		Buffalo, NY
+0900		Burlington, IA
+0905		Burlington, VT
+0906		Burlington, NJ
+0907		Bushkill, PA
+0910		Butte, MT
+0911		Butler, PA
+0920		Burbank, CA
+0921		Burlingame, CA
+0926		Cairo, IL
+0927		Calumet City, IL
+0930		Cambridge, MA
+0931		Cambridge, OH
+0950		Camden, NJ
+0951		Campbell, OH
+0952		Canonsburg, PA
+0970		Camden, NY
+0990		Canton, OH
+0991		Canton, IL
+0992		Cape Girardeau, MO
+0993		Carbondale, PA
+0994		Carlisle, PA
+0995		Carnegie, PA
+0996		Carrick, PA
+0997		Carteret, NJ
+0998		Carthage, MO
+0999		Casper, WY
+1000		Cape Coral, FL
+1010		Cedar Rapids, IA
+1020		Central Falls, RI
+1021		Centralia, IL
+1023		Chambersburg, PA
+1024		Champaign, IL
+1025		Chanute, KS
+1026		Charleroi, PA
+1027		Chandler, AZ
+1030		Charlestown, MA
+1050		Charleston, SC
+1060		Carolina, PR
+1070		Charleston, WV
+1090		Charlotte, NC
+1091		Charlottesville, VA
+1110		Chattanooga, TN
+1130		Chelsea, MA
+1140		Cheltenham, PA
+1150		Chesapeake, VA
+1170		Chester, PA
+1171		Cheyenne, WY
+1190		Chicago, IL
+1191		Chicago Heights, IL
+1192		Chickasha, OK
+1210		Chicopee, MA
+1230		Chillicothe, OH
+1250		Chula Vista, CA
+1270		Cicero, IL
+1290		Cincinnati, OH
+1291		Clairton, PA
+1292		Claremont, NH
+1310		Clarksburg, WV
+1311		Clarksdale, MS
+1312		Cleburne, TX
+1330		Cleveland, OH
+1340		Cleveland Heights, OH
+1341		Cliffside Park, NJ
+1350		Clifton, NJ
+1351		Clinton, IN
+1370		Clinton, IA
+1371		Clinton, MA
+1372		Coatesville, PA
+1373		Coffeyville, KS
+1374		Cohoes, NY
+1375		Collingswood, NJ
+1390		Colorado Springs, CO
+1400		Cohoes, NY
+1410		Columbia, SC
+1411		Columbia, PA
+1412		Columbia, MO
+1420		Columbia City, IN
+1430		Columbus, GA
+1450		Columbus, OH
+1451		Columbus, MS
+1452		Compton, CA
+1470		Concord, CA
+1490		Concord, NH
+1491		Concord, NC
+1492		Connellsville, PA
+1493		Connersville, IN
+1494		Conshohocken, PA
+1495		Coraopolis, PA
+1496		Corning, NY
+1500		Corona, CA
+1510		Council Bluffs, IA
+1520		Corpus Christi, TX
+1521		Corsicana, TX
+1522		Cortland, NY
+1523		Coshocton, OH
+1530		Covington, KY
+1540		Costa Mesa, CA
+1545		Cranford, NJ
+1550		Cranston, RI
+1551		Crawfordsville, IN
+1552		Cripple Creek, CO
+1553		Cudahy, WI
+1570		Cumberland, MD
+1571		Cumberland, RI
+1572		Cuyahoga Falls, OH
+1590		Dallas, TX
+1591		Danbury, CT
+1592		Daly City, CA
+1610		Danvers, MA
+1630		Danville, IL
+1631		Danville, VA
+1650		Davenport, IA
+1670		Dayton, OH
+1671		Daytona Beach, FL
+1680		Dearborn, MI
+1690		Decatur, IL
+1691		Decatur, AL
+1692		Decatur, GA
+1693		Dedham, MA
+1694		Del Rio, TX
+1695		Denison, TX
+1710		Denver, CO
+1711		Derby, CT
+1713		Derry, PA
+1730		Des Moines, IA
+1750		Detroit, MI
+1751		Dickson City, PA
+1752		Dodge, KS
+1753		Donora, PA
+1754		Dormont, PA
+1755		Dothan, AL
+1770		Dorchester, MA
+1790		Dover, NH
+1791		Dover, NJ
+1792		Du Bois, PA
+1800		Downey, CA
+1810		Dubuque, IA
+1830		Duluth, MN
+1831		Dunkirk, NY
+1832		Dunmore, PA
+1833		Duquesne, PA
+1834		Dundalk, MD
+1850		Durham, NC
+1860		
+1870		East Chicago, IN
+1890		East Cleveland, OH
+1891		East Hartford, CT
+1892		East Liverpool, OH
+1893		East Moline, IL
+1910		East Los Angeles, CA
+1930		East Orange, NJ
+1931		East Providence, RI
+1940		East Saginaw, MI
+1950		East St. Louis, IL
+1951		East Youngstown, OH
+1952		Easthampton, MA
+1970		Easton, PA
+1971		Eau Claire, WI
+1972		Ecorse, MI
+1973		El Dorado, KS
+1974		El Dorado, AR
+1990		El Monte, CA
+2010		El Paso, TX
+2030		Elgin, IL
+2040		Elyria, OH
+2050		Elizabeth, NJ
+2051		Elizabeth City, NC
+2055		Elk Grove, CA
+2060		Elkhart, IN
+2061		Ellwood City, PA
+2062		Elmhurst, IL
+2070		Elmira, NY
+2071		Elmwood Park, IL
+2072		Elwood, IN
+2073		Emporia, KS
+2074		Endicott, NY
+2075		Enfield, CT
+2076		Englewood, NJ
+2080		Enid, OK
+2090		Erie, PA
+2091		Escanaba, MI
+2092		Euclid, OH
+2110		Escondido, CA
+2130		Eugene, OR
+2131		Eureka, CA
+2150		Evanston, IL
+2170		Evansville, IN
+2190		Everett, MA
+2210		Everett, WA
+2211		Fairfield, AL
+2212		Fairfield, CT
+2213		Fairhaven, MA
+2214		Fairmont, WV
+2220		Fargo, ND
+2221		Faribault, MN
+2222		Farrell, PA
+2230		Fall River, MA
+2240		Fayetteville, NC
+2241		Ferndale, MI
+2242		Findlay, OH
+2250		Fitchburg, MA
+2260		Fontana, CA
+2270		Flint, MI
+2271		Floral Park, NY
+2273		Florence, AL
+2274		Florence, SC
+2275		Flushing, NY
+2280		Fond du Lac, WI
+2281		Forest Park, IL
+2290		Fort Lauderdale, FL
+2300		Fort Collins, CO
+2301		Fort Dodge, IA
+2302		Fort Madison, IA
+2303		Fort Scott, KS
+2310		Fort Smith, AR
+2311		Fort Thomas, KY
+2330		Fort Wayne, IN
+2350		Fort Worth, TX
+2351		Fostoria, OH
+2352		Framingham, MA
+2353		Frankfort, IN
+2354		Frankfort, KY
+2355		Franklin, PA
+2356		Frederick, MD
+2357		Freeport, NY
+2358		Freeport, IL
+2359		Fremont, OH
+2360		Fremont, NE
+2370		Fresno, CA
+2390		Fullerton, CA
+2391		Fulton, NY
+2392		Gadsden, AL
+2393		Galena, KS
+2394		Gainseville, FL
+2400		Galesburg, IL
+2410		Galveston, TX
+2411		Gardner, MA
+2430		Garden Grove, CA
+2435		Gardena, CA
+2440		Garfield, NJ
+2441		Garfield Heights, OH
+2450		Garland, TX
+2470		Gary, IN
+2471		Gastonia, NC
+2472		Geneva, NY
+		Georgetown, DC (See Washington, DC)
+2473		Glen Cove, NY
+2489		Glendale, AZ
+2490		Glendale, CA
+2491		Glens Falls, NY
+2510		Gloucester, MA
+2511		Gloucester, NJ
+2512		Gloversville, NY
+2513		Goldsboro, NC
+2514		Goshen, IN
+2515		Grand Forks, ND
+2516		Grand Island, NE
+2517		Grand Junction, CO
+2520		Granite City, IL
+2530		Grand Rapids, MI
+2531		Grandville, MI
+2540		Great Falls, MT
+2541		Greeley, CO
+2550		Green Bay, WI
+2551		Greenfield, MA
+2570		Greensboro, NC
+2571		Greensburg, PA
+2572		Greenville, MS
+2573		Greenville, SC
+2574		Greenville, TX
+2575		Greenwich, CT
+2576		Greenwood, MS
+2577		Greenwood, SC
+2578		Griffin, GA
+2579		Grosse Pointe Park, MI
+2580		Guynabo, PR
+2581		Groton, CT
+2582		Gulfport, MS
+2583		Guthrie, OK
+2584		Hackensack, NJ
+2590		Hagerstown, MD
+2591		Hamden, CT
+2610		Hamilton, OH
+2630		Hammond, IN
+2650		Hampton, VA
+2670		Hamtramck Village, MI
+2680		Hannibal, MO
+2681		Hanover, PA
+2682		Harlingen, TX
+2683		Hanover township, Luzerne county, PA
+2690		Harrisburg, PA
+2691		Harrisburg, IL
+2692		Harrison, NJ
+2693		Harrison, PA
+2710		Hartford, CT
+2711		Harvey, IL
+2712		Hastings, NE
+2713		Hattiesburg, MS
+2725		Haverford, PA
+2730		Haverhill, MA
+2731		Hawthorne, NJ
+2740		Hayward, CA
+2750		Hazleton, PA
+2751		Helena, MT
+2752		Hempstead, NY
+2753		Henderson, KY
+2754		Herkimer, NY
+2755		Herrin, IL
+2756		Hibbing, MN
+2757		Henderson, NV
+2770		Hialeah, FL
+2780		High Point, NC
+2781		Highland Park, IL
+2790		Highland Park, MI
+2791		Hilo, HI
+2792		Hillside, NJ
+2810		Hoboken, NJ
+2811		Holland, MI
+2830		Hollywood, FL
+2850		Holyoke, MA
+2851		Homestead, PA
+2870		Honolulu, HI
+2871		Hopewell, VA
+2872		Hopkinsville, KY
+2873		Hoquiam, WA
+2874		Hornell, NY
+2875		Hot Springs, AR
+2890		Houston, TX
+2891		Hudson, NY
+2892		Huntington, IN
+2910		Huntington, WV
+2930		Huntington Beach, CA
+2950		Huntsville, AL
+2951		Huron, SD
+2960		Hutchinson, KS
+2961		Hyde Park, MA
+2962		Ilion, NY
+2963		Independence, KS
+2970		Independence, MO
+2990		Indianapolis, IN
+3010		Inglewood, CA
+3011		Iowa City, IA
+3012		Iron Mountain, MI
+3013		Ironton, OH
+3014		Ironwood, MI
+3015		Irondequoit, NY
+3020		Irvine, CA
+3030		Irving, TX
+3050		Irvington, NJ
+3051		Ishpeming, MI
+3052		Ithaca, NY
+3070		Jackson, MI
+3071		Jackson, MN
+3090		Jackson, MS
+3091		Jackson, TN
+3110		Jacksonville, FL
+3111		Jacksonville, IL
+3130		Jamestown , NY
+3131		Janesville, WI
+3132		Jeannette, PA
+3133		Jefferson City, MO
+3134		Jeffersonville, IN
+3150		Jersey City, NJ
+3151		Johnson City, NY
+3160		Johnson City, TN
+3161		Johnstown, NY
+3170		Johnstown, PA
+3190		Joliet, IL
+3191		Jonesboro, AR
+3210		Joplin, MO
+3230		Kalamazoo, MI
+3231		Kankakee, IL
+3250		Kansas City, KS
+3260		Kansas City, MO
+3270		Kearny, NJ
+3271		Keene, NH
+3272		Kenmore, NY
+3273		Kenmore, OH
+3290		Kenosha, WI
+3291		Keokuk, IA
+3292		Kewanee, IL
+3293		Key West, FL
+3294		Kingsport, TN
+3310		Kingston, NY
+3311		Kingston, PA
+3312		Kinston, NC
+3313		Klamath Falls, OR
+3330		Knoxville, TN
+3350		Kokomo, IN
+3370		La Crosse, WI
+3380		Lafayette, IN
+3390		Lafayette, LA
+3391		La Grange, IL
+3392		La Grange, GA
+3393		La Porte, IN
+3394		La Salle, IL
+3395		Lackawanna, NY
+3396		Laconia, NH
+3400		Lake Charles, LA
+3405		Lakeland, FL
+3410		Lakewood, CO
+3430		Lakewood, OH
+3440		Lancaster, CA
+3450		Lancaster, PA
+3451		Lancaster, OH
+3470		Lansing, MI
+3471		Lansingburgh, NY
+3480		Laredo, TX
+3481		Latrobe, PA
+3482		Laurel, MS
+3490		Las Vegas, NV
+3510		Lawrence, MA
+3511		Lawrence, KS
+3512		Lawton, OK
+3513		Leadville, CO
+3520		Leavenworth, KS
+3521		Lebanon, PA
+3522		Leominster, MA
+3530		Lehigh, PA
+3540		Lebanon, PA
+3550		Lewiston, ME
+3551		Lewistown, PA
+3560		Lewisville, TX
+3570		Lexington, KY
+3590		Lexington-Fayette, KY
+3610		Lima, OH
+3630		Lincoln, NE
+3631		Lincoln, IL
+3632		Lincoln Park, MI
+3633		Lincoln, RI
+3634		Linden, NJ
+3635		Little Falls, NY
+3638		Lodi, NJ
+3639		Logansport, IN
+3650		Little Rock, AR
+3670		Livonia, MI
+3680		Lockport, NY
+3690		Long Beach, CA
+3691		Long Branch, NJ
+3692		Long Island City, NY
+3693		Longview, WA
+3710		Lorain, OH
+3730		Los Angeles, CA
+3750		Louisville, KY
+3765		Lower Merion, PA
+3770		Lowell, MA
+3771		Lubbock, TX
+3772		Lynbrook, NY
+3790		Lynchburg, VA
+3800		Lyndhurst, NJ
+3810		Lynn, MA
+3830		Macon, GA
+3850		Madison, IN
+3870		Madison, WI
+3871		Mahanoy City, PA
+3890		Malden, MA
+3891		Mamaroneck, NY
+3910		Manchester, NH
+3911		Manchester, CT
+3912		Manhattan, KS
+3913		Manistee, MI
+3914		Manitowoc, WI
+3915		Mankato, MN
+3929		Maplewood, NJ
+3930		Mansfield, OH
+3931		Maplewood, MO
+3932		Marietta, OH
+3933		Marinette, WI
+3934		Marion, IN
+3940		Maywood, IL
+3950		Marion, OH
+3951		Marlborough, MA
+3952		Marquette, MI
+3953		Marshall, TX
+3954		Marshalltown, IA
+3955		Martins Ferry, OH
+3956		Martinsburg, WV
+3957		Mason City, IA
+3958		Massena, NY
+3959		Massillon, OH
+3960		McAllen, TX
+3961		Mattoon, IL
+3962		Mcalester, OK
+3963		Mccomb, MS
+3964		Mckees Rocks, PA
+3970		McKeesport, PA
+3971		Meadville, PA
+3990		Medford, MA
+3991		Medford, OR
+3992		Melrose, MA
+3993		Melrose Park, IL
+4010		Memphis, TN
+4011		Menominee, MI
+4030		Meriden, CT
+4040		Meridian, MS
+4041		Methuen, MA
+4050		Mesa, AZ
+4070		Mesquite, TX
+4090		Metairie, LA
+4110		Miami, FL
+4120		Michigan City, IN
+4121		Middlesborough, KY
+4122		Middletown, CT
+4123		Middletown, NY
+4124		Middletown, OH
+4125		Milford, CT
+4126		Milford, MA
+4127		Millville, NJ
+4128		Milton, MA
+4130		Milwaukee, WI
+4150		Minneapolis, MN
+4151		Minot, ND
+4160		Mishawaka, IN
+4161		Missoula, MT
+4162		Mitchell, SD
+4163		Moberly, MO
+4170		Mobile, AL
+4190		Modesto, CA
+4210		Moline, IL
+4211		Monessen, PA
+4212		Monroe, MI
+4213		Monroe, LA
+4214		Monrovia, CA
+4230		Montclair, NJ
+4250		Montgomery, AL
+4251		Morgantown, WV
+4252		Morristown, NJ
+4253		Moundsville, WV
+4254		Mount Arlington, NJ
+4255		Mount Carmel, PA
+4256		Mount Clemens, MI
+4260		Mount Lebanon, PA
+4270		Moreno Valley, CA
+4290		Mount Vernon, NY
+4291		Mount Vernon, IL
+4310		Muncie, IN
+4311		Munhall, PA
+4312		Murphysboro, IL
+4313		Muscatine, IA
+4330		Muskegon, MI
+4331		Muskegon Heights, MI
+4350		Muskogee, OK
+4351		Nanticoke, PA
+4370		Nantucket, MA
+4390		Nashua, NH
+4410		Nashville-Davidson, TN
+4411		Nashville, TN
+4413		Natchez, MS
+4414		Natick, MA
+4415		Naugatuck, CT
+4416		Needham, MA
+4420		Neptune, NJ
+4430		New Albany, IN
+4450		New Bedford, MA
+4451		New Bern, NC
+4452		New Brighton, NY
+4470		New Britain, CT
+4490		New Brunswick, NJ
+4510		New Castle, PA
+4511		New Castle, IN
+4530		New Haven, CT
+4550		New London, CT
+4570		New Orleans, LA
+4571		New Philadelphia, OH
+4590		New Rochelle, NY
+4610		New York, NY
+4611		Brooklyn (only in census years before 1900)
+4630		Newark, NJ
+4650		Newark, OH
+4670		Newburgh, NY
+4690		Newburyport, MA
+4710		Newport, KY
+4730		Newport, RI
+4750		Newport News, VA
+4770		Newton, MA
+4771		Newton, IA
+4772		Newton, KS
+4790		Niagara Falls, NY
+4791		Niles, MI
+4792		Niles, OH
+4810		Norfolk, VA
+4811		Norfolk, NE
+4820		North Las Vegas, NV
+		Northern Liberties, PA (See Philadelphia)
+4830		Norristown Borough, PA
+4831		North Adams, MA
+4832		North Attleborough, MA
+4833		North Bennington, VT
+4834		North Braddock, PA
+4835		North Branford, CT
+4836		North Haven, CT
+4837		North Little Rock, AR
+4838		North Platte, NE
+4839		North Providence, RI
+4840		Northampton, MA
+4841		North Tonawanda, NY
+4842		North Yakima, WA
+4843		Northbridge, MA
+4845		North Bergen, NJ
+4850		North Providence, RI
+4860		Norwalk, CA
+4870		Norwalk, CT
+4890		Norwich, CT
+4900		Norwood, OH
+4901		Norwood, MA
+4902		Nutley, NJ
+4905		Oak Park, IL
+4910		Oak Park Village
+4930		Oakland, CA
+4950		Oceanside, CA
+4970		Ogden, UT
+4971		Ogdensburg, NY
+4972		Oil City, PA
+4990		Oklahoma City, OK
+4991		Okmulgee, OK
+4992		Old Bennington, VT
+4993		Old Forge, PA
+4994		Olean, NY
+4995		Olympia, WA
+4996		Olyphant, PA
+5010		Omaha, NE
+5011		Oneida, NY
+5012		Oneonta, NY
+5030		Ontario, CA
+5040		Orange, CA
+5050		Orange, NJ
+5051		Orange, CT
+5070		Orlando, FL
+5090		Oshkosh, WI
+5091		Oskaloosa, IA
+5092		Ossining, NY
+5110		Oswego, NY
+5111		Ottawa, IL
+5112		Ottumwa, IA
+5113		Owensboro, KY
+5114		Owosso, MI
+5116		Painesville, OH
+5117		Palestine, TX
+5118		Palo Alto, CA
+5119		Pampa, TX
+5121		Paris, TX
+5122		Park Ridge, IL
+5123		Parkersburg, WV
+5124		Parma, OH
+5125		Parsons, KS
+5130		Oxnard, CA
+5140		Palmdale, CA
+5150		Pasadena, CA
+5170		Pasadena, TX
+5180		Paducah, KY
+5190		Passaic, NJ
+5210		Paterson, NJ
+5230		Pawtucket, RI
+5231		Peabody, MA
+5232		Peekskill, NY
+5233		Pekin, IL
+5240		Pembroke Pines, FL
+5250		Pensacola, FL
+5255		Pensauken, NJ
+5269		Peoria, AZ
+5270		Peoria, IL
+5271		Peoria Heights, IL
+5290		Perth Amboy, NJ
+5291		Peru, IN
+5310		Petersburg, VA
+5311		Phenix City, AL
+5330		Philadelphia, PA
+5331		Kensington
+5332		Mayamensing
+5333		Northern Liberties
+5334		Southwark
+5335		Spring Garden
+5341		Phillipsburg, NJ
+5350		Phoenix, AZ
+5351		Phoenixville, PA
+5352		Pine Bluff, AR
+5353		Piqua, OH
+5354		Pittsburg, KS
+5370		Pittsburgh, PA
+5390		Pittsfield, MA
+5391		Pittston, PA
+5409		Plains, PA
+5410		Plainfield, NJ
+5411		Plattsburg, NY
+5412		Pleasantville, NJ
+5413		Plymouth, PA
+5414		Plymouth, MA
+5415		Pocatello, ID
+5430		Plano, TX
+5450		Pomona, CA
+5451		Ponca City, OK
+5460		Ponce, PR
+5470		Pontiac, MI
+5471		Port Angeles, WA
+5480		Port Arthur, TX
+5481		Port Chester, NY
+5490		Port Huron, MI
+5491		Port Jervis, NY
+5500		Port St. Lucie, FL
+5510		Portland, ME
+5511		Portland, IL
+5530		Portland, OR
+5550		Portsmouth, NH
+5570		Portsmouth, OH
+5590		Portsmouth, VA
+5591		Pottstown, PA
+5610		Pottsville, PA
+5630		Poughkeepsie, NY
+5650		Providence, RI
+5660		Provo, UT
+5670		Pueblo, CO
+5671		Punxsutawney, PA
+5690		Quincy, IL
+5710		Quincy, MA
+5730		Racine, WI
+5731		Rahway, NJ
+5750		Raleigh, NC
+5751		Ranger, TX
+5752		Rapid City, SD
+5770		Rancho Cucamonga, CA
+5790		Reading, PA
+5791		Red Bank, NJ
+5792		Redlands, CA
+5810		Reno, NV
+5811		Rensselaer, NY
+5830		Revere, MA
+5850		Richmond, IN
+5870		Richmond, VA
+5871		Richmond, CA
+5872		Ridgefield Park, NJ
+5873		Ridgewood, NJ
+5874		River Rouge, MI
+5890		Riverside, CA
+5910		Roanoke, VA
+5930		Rochester, NY
+5931		Rochester, NH
+5932		Rochester, MN
+5933		Rock Hill, SC
+5950		Rock Island, IL
+5970		Rockford, IL
+5971		Rockland, ME
+5972		Rockton, IL
+5973		Rockville Centre, NY
+5974		Rocky Mount, NC
+5990		Rome, NY
+5991		Rome, GA
+5992		Roosevelt, NJ
+5993		Roselle, NJ
+5994		Roswell, NM
+5995		Roseville, CA
+6010		Roxbury, MA
+6011		Royal Oak, MI
+6012		Rumford Falls, ME
+6013		Rutherford, NJ
+6014		Rutland, VT
+6030		Sacramento, CA
+6050		Saginaw, MI
+6070		Saint Joseph, MO
+6090		Saint Louis, MO
+6110		Saint Paul, MN
+6130		Saint Petersburg, FL
+6150		Salem, MA
+6170		Salem, OR
+6171		Salem, OH
+6172		Salina, KS
+6190		Salinas, CA
+6191		Salisbury, NC
+6192		Salisbury, MD
+6210		Salt Lake City, UT
+6211		San Angelo, TX
+6220		San Angelo, TX
+6230		San Antonio, TX
+6231		San Benito, TX
+6250		San Bernardino, CA
+6260		San Buenaventura (Ventura), CA
+6270		San Diego, CA
+6280		Sandusky, OH
+6281		Sanford, FL
+6282		Sanford, ME
+6290		San Francisco, CA
+6300		San Juan, PR
+6310		San Jose, CA
+6311		San Leandro, CA
+6312		San Mateo, CA
+6320		Santa Barbara, CA
+6321		Santa Cruz, CA
+6322		Santa Fe, NM
+6330		Santa Ana, CA
+6335		Santa Clara, CA
+6340		Santa Clarita, CA
+6350		Santa Rosa, CA
+6351		Sapulpa, OK
+6352		Saratoga Springs, NY
+6353		Saugus, MA
+6354		Sault Ste. Marie, MI
+6360		Santa Monica, CA
+6370		Savannah, GA
+6390		Schenectedy, NY
+6410		Scranton, PA
+6430		Seattle, WA
+6431		Sedalia, MO
+6432		Selma, AL
+6433		Seminole, OK
+6434		Shaker Heights, OH
+6435		Shamokin, PA
+6437		Sharpsville, PA
+6438		Shawnee, OK
+6440		Sharon, PA
+6450		Sheboygan, WI
+6451		Shelby, NC
+6452		Shelbyville, IN
+6453		Shelton, CT
+6470		Shenandoah Borough, PA
+6471		Sherman, TX
+6472		Shorewood, WI
+6490		Shreveport, LA
+6500		Simi Valley, CA
+6510		Sioux City, IA
+6530		Sioux Falls, SD
+6550		Smithfield, RI (1850)
+6570		Somerville, MA
+6590		South Bend, IN
+6591		South Bethlehem, PA
+6592		South Boise, ID
+6593		South Gate, CA
+6594		South Milwaukee, WI
+6595		South Norwalk, CT
+6610		South Omaha, NE
+6611		South Orange, NJ
+6612		South Pasadena, CA
+6613		South Pittsburgh, PA
+6614		South Portland, ME
+6615		South River, NJ
+6616		South St. Paul, MN
+6617		Southbridge, MA
+		Southwark, PA (See Philadelphia)
+6620		Spartanburg, SC
+6630		Spokane, WA
+		Spring Garden, PA (See Philadelphia)
+6640		Spring Valley, NV
+6650		Springfield, IL
+6670		Springfield, MA
+6690		Springfield, MO
+6691		St. Augustine, FL
+6692		St. Charles, MO
+6693		St. Cloud, MN
+6710		Springfield, OH
+6730		Stamford, CT
+6731		Statesville, NC
+6732		Staunton, VA
+6733		Steelton, PA
+6734		Sterling, IL
+6750		Sterling Heights, MI
+6770		Steubenville, OH
+6771		Stevens Point, WI
+6772		Stillwater, MN
+6789		Stowe, PA
+6790		Stockton, CA
+6791		Stoneham, MA
+6792		Stonington, CT
+6793		Stratford, CT
+6794		Streator, IL
+6795		Struthers, OH
+6796		Suffolk, VA
+6797		Summit, NJ
+6798		Sumter, SC
+6799		Sunbury, PA
+6810		Sunnyvale, CA
+6830		Superior, WI
+6831		Swampscott, MA
+6832		Sweetwater, TX
+6833		Swissvale, PA
+6850		Syracuse, NY
+6870		Tacoma, WA
+6871		Tallahassee, FL
+6872		Tamaqua, PA
+6890		Tampa, FL
+6910		Taunton, MA
+6911		Taylor, PA
+6912		Temple, TX
+6913		Teaneck, NJ
+6930		Tempe, AZ
+6950		Terre Haute, IN
+6951		Texarkana, TX
+6952		Thomasville, GA
+6953		Thomasville, NC
+6954		Tiffin, OH
+6960		Thousand Oaks, CA
+6970		Toledo, OH
+6971		Tonawanda, NY
+6990		Topeka, KS
+6991		Torrington, CT
+6992		Traverse City, MI
+7000		Torrance, CA
+7010		Trenton, NJ
+7011		Trinidad, CO
+7030		Troy, NY
+7050		Tucson, AZ
+7070		Tulsa, OK
+7071		Turtle Creek, PA
+7072		Tuscaloosa, AL
+7073		Two Rivers, WI
+7074		Tyler, TX
+7079		Union, NJ
+7080		Union City, NJ
+7081		Uniontown, PA
+7082		University City, MO
+7083		Urbana, IL
+7084		Upper Darby, PA
+7090		Utica, NY
+7091		Valdosta, GA
+7092		Vallejo, CA
+7093		Valley Stream, NY
+7100		Vancouver, WA
+7110		Vallejo, CA
+7111		Vandergrift, PA
+7112		Venice, CA
+7120		Vicksburg, MS
+7121		Vincennes, IN
+7122		Virginia, MN
+7123		Virginia City, NV
+7130		Virginia Beach, VA
+7140		Visalia, CA
+7150		Waco, TX
+7151		Wakefield, MA
+7152		Walla Walla, WA
+7153		Wallingford, CT
+7170		Waltham, MA
+7180		Warren, MI
+7190		Warren, OH
+7191		Warren, PA
+7210		Warwick Town, RI
+7230		Washington, DC
+7231		Georgetown, DC
+7241		Washington, PA
+7242		Washington, VA
+7250		Waterbury, CT
+7270		Waterloo, IA
+7290		Waterloo, NY
+7310		Watertown, NY
+7311		Watertown, WI
+7312		Watertown, SD
+7313		Watertown, MA
+7314		Waterville, ME
+7315		Watervliet, NY
+7316		Waukegan, IL
+7317		Waukesha, WI
+7318		Wausau, WI
+7319		Wauwatosa, WI
+7320		West Covina, CA
+7321		Waycross, GA
+7322		Waynesboro, PA
+7323		Webb City, MO
+7324		Webster Groves, MO
+7325		Webster, MA
+7326		Wellesley, MA
+7327		Wenatchee, WA
+7328		Weehawken, NJ
+7329		West Bay City, MI
+7330		West Hoboken, NJ
+7331		West Bethlehem, PA
+7332		West Chester, PA
+7333		West Frankfort, IL
+7334		West Hartford, CT
+7335		West Haven, CT
+7340		West Allis, WI
+7350		West New York, NJ
+7351		West Orange, NJ
+7352		West Palm Beach, FL
+7353		West Springfield, MA
+7370		West Troy, NY
+7371		West Warwick, RI
+7372		Westbrook, ME
+7373		Westerly, RI
+7374		Westfield, MA
+7375		Westfield, NJ
+7376		Wewoka, OK
+7377		Weymouth, MA
+7390		Wheeling, WV
+7400		White Plains, NY
+7401		Whiting, IN
+7402		Whittier, CA
+7410		Wichita, KS
+7430		Wichita Falls, TX
+7450		Wilkes-Barre, PA
+7451		Wilkinsburg, PA
+7460		Wilkinsburg, PA
+7470		Williamsport, PA
+7471		Willimantic, CT
+7472		Wilmette, IL
+7490		Wilmington, DE
+7510		Wilmington, NC
+7511		Wilson, NC
+7512		Winchester, VA
+7513		Winchester, MA
+7514		Windham, CT
+7515		Winnetka, IL
+7516		Winona, MN
+7530		Winston-Salem, NC
+7531		Winthrop, MA
+7532		Woburn, MA
+7533		Woodlawn, PA
+7534		Woodmont, CT
+7535		Woodbridge, NJ
+7550		Woonsocket, RI
+7551		Wooster, OH
+7570		Worcester, MA
+7571		Wyandotte, MI
+7572		Xenia, OH
+7573		Yakima, WA
+7590		Yonkers, NY
+7610		York, PA
+7630		Youngstown, OH
+7631		Ypsilanti, MI
+7650		Zanesville, OH
+		Spring Garden, PA (See Philadelphia)
+
+ SIZEPL		Size of place
+00		Not identifiable
+01		Under 1,000, or unincorporated
+02		1,000 - 2,499
+03		2,500 - 3,999
+04		4,000 - 4,999
+05		5,000 - 9,999
+06		10,000 - 24,999
+07		25,000 - 49,999
+08		50,000 - 74,999
+09		75,000 - 99,999
+10		100,000 - 199,999
+20		200,000 - 299,999
+30		300,000 - 399,999
+40		400,000 - 499,999
+50		500,000 - 599,999
+60		600,000 - 749,999
+70		750,000 - 999,999
+80		1,000,000 - 1,999,999
+90		2,000,000+
+
+ CNTRY		Country
+630		Puerto Rico
+840		United States
+
+ GQ		Group quarters status
+0		Vacant unit
+		Households:
+1		Households under 1970 definition
+2		Additional households under 1990 definition
+		Group Quarters:
+3		Group quarters--Institutions
+4		Other group quarters
+5		Additional households under 2000 definition
+6		Fragment
+
+ GQTYPE		Group quarters type [general version]
+0		NA (non-group quarters households)
+		Institutions
+1		Institution (1990, 2000, ACS/PRCS)
+2		Correctional institutions
+3		Mental institutions
+4		Institutions for the elderly, handicapped, and poor
+		Non-institutional group quarters
+5		Non-institutional GQ
+6		Military
+7		College dormitory
+8		Rooming house
+9		Other non-institutional GQ and unknown
+
+ GQTYPED		Group quarters type [detailed version]
+000		NA (non-group quarters households)
+		GQ in IPUMS, sampled as a larger unit (10 or more unrelated persons):
+010		Family group, someone related to head
+020		Unrelated individuals, no one related to head
+		Institutions
+100		Institution (1990, 2000, ACS/PRCS)
+200		Correctional institution
+210		Federal/state correctional
+211		Prison
+212		Penitentiary
+213		Military prison
+220		Local correctional
+221		Jail
+230		School juvenile delinquents
+240		Reformatory
+250		Camp or chain gang
+260		House of correction
+300		Mental institutions
+400		Institutions for the elderly, handicapped, and poor
+410		Homes for elderly
+411		Aged, dependent home
+412		Nursing/convalescent home
+413		Old soldiers' home
+420		Other Instits (Not Aged)
+421		Other Institution nec
+430		Homes neglected/depend children
+431		Orphan school
+432		Orphans' home, asylum
+440		Other instits for children
+441		Children's home, asylum
+450		Homes physically handicapped
+451		Deaf, blind school
+452		Deaf, blind, epilepsy
+460		Mentally handicapped home
+461		School for feeblemind
+470		TB and chronic disease hospital
+471		Chronic hospitals
+472		Sanatoria
+480		Poor houses and farms
+481		Poor house, almshouse
+482		Poor farm, workhouse
+491		Maternity homes for unmarried mothers
+492		Homes for widows, single, fallen women
+493		Detention homes
+494		Misc asylums
+495		Home, other dependent
+496		Institution combination or unknown
+		Non-Institutional group quarters
+500		Non-institutional group quarters
+501		Family formerly in institutional group quarters
+502		Unrelated individual residing with family formerly in institutional group quarters
+600		Military
+601		U.S. army installation
+602		Navy, marine installation
+603		Navy ships
+604		Air service
+700		College dormitory
+701		Military service academies
+800		Rooming house
+801		Hotel
+802		House, lodging apartments
+803		YMCA, YWCA
+804		Club
+900		Other Non-Instit GQ
+901		Other Non-Instit GQ
+910		Schools
+911		Boarding schools
+912		Academy, institute
+913		Industrial training
+914		Indian school
+920		Hospitals
+921		Hospital, charity
+922		Infirmary
+923		Maternity hospital
+924		Children's hospital
+		Religious Institutions
+931		Church, Abbey
+932		Convent
+933		Monastery
+934		Mission
+935		Seminary
+936		Religious commune
+937		Other religious
+940		Work sites
+941		Construction, except rr
+942		Lumber
+943		Mining
+944		Railroad
+945		Farms, ranches
+946		Ships, boats
+947		Other industrial
+948		Other worksites
+950		Nurses home, dorm
+955		Passenger ships
+960		Other group quarters
+999		Fragment (boarders and lodgers, 1900)
+
+ GQFUNDS		Group quarters funding
+00		N/A
+		Public Funds
+11		Federal support
+12		Federal and State
+13		State support
+14		Local support
+15		State and Local
+16		Government, not specified
+		Private Funds
+21		Private, Nonprofit
+22		Private, Commercial
+23		Religious
+24		Ethnic, fraternal
+25		Private, unknown
+99		Fragment or Unknown
+
+ FARM		Farm status
+0		N/A
+1		Non-Farm
+2		Farm
+
+ OWNERSHP		Ownership of dwelling (tenure) [general version]
+0		N/A
+1		Owned or being bought (loan)
+2		Rented
+
+ OWNERSHPD		Ownership of dwelling (tenure) [detailed version]
+00		N/A
+10		Owned or being bought
+11		Check mark (owns?)
+12		Owned free and clear
+13		Owned with mortgage or loan
+20		Rented
+21		No cash rent
+22		With cash rent
+
+ NFAMS		Number of families in household
+00		0 families (vacant unit)
+01		1 family or N/A
+02		2 families
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+
+ NSUBFAM		Number of subfamilies in household
+0		No subfamilies or N/A (GQ/vacant unit)
+1		1 subfamily
+2		2 subfamilies
+3		3
+4		4
+5		5
+6		6
+7		7
+8		8
+9		9
+
+ NCOUPLES		Number of couples in household
+0		0 couples or N/A
+1		1
+2		2
+3		3
+4		4
+5		5
+6		6
+7		7
+8		8
+9		9
+
+ NMOTHERS		Number of mothers in household
+0		0 mothers or N/A
+1		1
+2		2
+3		3
+4		4
+5		5
+6		6
+7		7
+8		8
+
+ NFATHERS		Number of fathers in household
+0		0 fathers or N/A
+1		1
+2		2
+3		3
+4		4
+5		5
+6		6
+
+ MULTGEN		Multigenerational household [general version]
+0		N/A
+1		1 generation
+2		2 generations
+3		3+ generations
+
+ MULTGEND		Multigenerational household [detailed version]
+00		N/A
+10		1 generation
+20		1-2 generations (Census 2008 definition)
+21		2 adjacent generations, adult-children
+22		2 adjacent generations, adult-adult
+23		2 nonadjacent generations
+31		3+ generations (Census 2008 definition)
+32		3+ generations (Additional IPUMS definition)
+
+ RESPOND		Respondent's relationship to household  head
+0		N/A (Group quarters)
+1		Household head
+2		Wife of household head
+3		Related adult other than spouse
+4		Related child (under 14 years old)
+5		Nonrelated adult
+6		Nonrelated child (under 14 years old)
+7		No respondent indicated
+
+ SPLIT		Large group quarters that was split up (100% datasets)
+0		Person was not in a large group quarters that was split apart
+1		Person was in a large group quarters that was split apart
+
+ SPLIT40		Large group quarters that was split up, 1940 100%
+0		Person was not in a large group quarters that was split apart
+1		Person was in a large group quarters that was split apart
+
+ EDMISS		Identifies households in missing data enumeration districts
+0		Household not in missing data enumeration district
+1		Household in missing data enumeration district
+
+ YEARP		Census year
+1850		1850
+1860		1860
+1870		1870
+1880		1880
+1900		1900
+1910		1910
+1920		1920
+1930		1930
+1940		1940
+1950		1950
+1960		1960
+1970		1970
+1980		1980
+1990		1990
+2000		2000
+2001		2001
+2002		2002
+2003		2003
+2004		2004
+2005		2005
+2006		2006
+2007		2007
+2008		2008
+
+ SLREC		Sample-line person identifier
+1		Not a sample-line person
+2		Sample-line person
+
+ RESPONDT		Respondent indicator
+0		Respondent is not a member of the household
+1		Person is not respondent for household or GQ
+2		Person is respondent
+
+ FAMUNIT		Family unit membership
+01		1st family in household or group quarters
+02		2nd family in household or group quarters
+03		3rd
+04		4th
+05		5th
+06		6th
+07		7th
+08		8th
+09		9th
+10		10th
+11		11th
+12		12th
+13		13th
+14		14th
+15		15th
+16		16th
+17		17th
+18		18th
+19		19th
+20		20th
+21		21th
+22		22th
+23		23th
+24		24th
+25		25th
+26		26th
+27		27th
+28		28th
+29		29th
+30		30th
+
+ FAMSIZE		Number of own family members in household
+01		1 family member present
+02		2 family members present
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+
+ SUBFAM		Subfamily membership
+0		Group quarters or not in subfamily
+1		1st subfamily in household
+2		2nd subfamily in household
+3		3rd
+4		4th
+5		5th
+6		6th
+7		7th
+8		8th
+9		9th
+
+ SFTYPE		Subfamily type
+0		Group quarters or not in subfamily
+		RELATED SUBFAMILIES
+1		Married-couple related subfamily with children
+2		Married-couple related subfamily without children
+3		Father-child related subfamily
+4		Mother-child related subfamily
+		UNRELATED SUBFAMILIES
+5		Married-couple unrelated subfamily with children
+6		Married-couple unrelated subfamily without children
+7		Father-child unrelated subfamily
+8		Mother-child unrelated subfamily
+
+ SFRELATE		Relationship within subfamily
+0		Group quarters or not in subfamily
+1		Reference person
+2		Spouse (married-couple subfamily only)
+3		Child
+
+ STEPMOM		Probable step/adopted mother
+0		No stepmother present
+1		Improbable age difference
+2		Spouse of father
+3		Identified stepmother
+4		No surviving children
+5		Identified as adopted
+6		Birthplace/marriage duration mismatch
+7		Number of children born/children surviving check
+
+ MOMRULE_HIST		Rule for linking mother
+0		No mother link
+1		Unambiguous mother link
+2		Daughter/grandchild link
+3		Preceding female (no intervening person)
+4		Preceding female (surname similarity)
+5		Daughter/grandchild (child surviving status)
+6		Preceding female (child surviving status)
+7		Spouse of father becomes stepmother
+
+ STEPPOP		Probable step/adopted father
+0		No stepfather present
+1		Improbable age difference
+2		Spouse of mother
+3		Identified stepfather
+5		Identified as adopted
+6		Birthplace/marriage duration mismatch
+7		Surname difference -- male child or never-married female
+
+ POPRULE_HIST		Rule for linking father
+0		No father link
+1		Unambiguous father link
+2		Son/granchild link
+3		Preceding male (no intervening person)
+4		Preceding male (surname similarity)
+7		Husband of mother becomes stepfather
+
+ SPRULE_HIST		Rule for linking spouse
+0		No spouse link
+		Unambiguous link:
+1		Wife follows husband
+2		Wife precedes husband
+3		Non-adjacent links -- consistent relationship to head/age differences
+4		Adjacent links (wife follows husband -- no age, other relative conflicts)
+5		Adjacent links (wife precedes husband -- no age, other relative conflicts)
+6		Non-adjacent links -- no age, other relative conflicts
+7		Previously allocated marital status -- no age, other relative conflicts
+
+ NCHILD		Number of own children in the household
+0		0 children present
+1		1 child present
+2		2
+3		3
+4		4
+5		5
+6		6
+7		7
+8		8
+9		9+
+
+ NCHLT5		Number of own children under age 5 in household
+0		No children under age 5
+1		1 child under age 5
+2		2
+3		3
+4		4
+5		5
+6		6
+7		7
+8		8
+9		9+
+
+ NSIBS		Number of own siblings in household
+0		0 siblings
+1		1 sibling
+2		2 siblings
+3		3 siblings
+4		4 siblings
+5		5 siblings
+6		6 siblings
+7		7 siblings
+8		8 siblings
+9		9 or more siblings
+
+ ELDCH		Age of eldest own child in household
+00		Less than 1 year old
+01		1
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+31		31
+32		32
+33		33
+34		34
+35		35
+36		36
+37		37
+38		38
+39		39
+40		40
+41		41
+42		42
+43		43
+44		44
+45		45
+46		46
+47		47
+48		48
+49		49
+50		50
+51		51
+52		52
+53		53
+54		54
+55		55
+56		56
+57		57
+58		58
+59		59
+60		60
+61		61
+62		62
+63		63
+64		64
+65		65
+66		66
+67		67
+68		68
+69		69
+70		70
+71		71
+72		72
+73		73
+74		74
+75		75
+76		76
+77		77
+78		78
+79		79
+80		80
+81		81
+82		82
+83		83
+84		84
+85		85
+86		86
+87		87
+88		88
+89		89
+90		90
+91		91
+92		92
+93		93
+94		94
+95		95
+96		96
+97		97
+98		98
+99		N/A
+
+ YNGCH		Age of youngest own child in household
+00		Less than 1 year old
+01		1
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+31		31
+32		32
+33		33
+34		34
+35		35
+36		36
+37		37
+38		38
+39		39
+40		40
+41		41
+42		42
+43		43
+44		44
+45		45
+46		46
+47		47
+48		48
+49		49
+50		50
+51		51
+52		52
+53		53
+54		54
+55		55
+56		56
+57		57
+58		58
+59		59
+60		60
+61		61
+62		62
+63		63
+64		64
+65		65
+66		66
+67		67
+68		68
+69		69
+70		70
+71		71
+72		72
+73		73
+74		74
+75		75
+76		76
+77		77
+78		78
+79		79
+80		80
+81		81
+82		82
+83		83
+84		84
+85		85
+86		86
+87		87
+88		88
+89		89
+90		90
+91		91
+92		92
+93		93
+94		94
+95		95
+96		96
+97		97
+98		98
+99		N/A
+
+ RELATE		Relationship to household head [general version]
+		RELATIVES
+01		Head/Householder
+02		Spouse
+03		Child
+04		Child-in-law
+05		Parent
+06		Parent-in-Law
+07		Sibling
+08		Sibling-in-Law
+09		Grandchild
+10		Other relatives
+		NON-RELATIVES
+11		Partner, friend, visitor
+12		Other non-relatives
+13		Institutional inmates
+
+ RELATED		Relationship to household head [detailed version]
+		RELATIVES
+0101		Head/Householder
+0201		Spouse
+0202		2nd/3rd Wife (Polygamous)
+0301		Child
+0302		Adopted Child
+0303		Stepchild
+0304		Adopted, n.s.
+0401		Child-in-law
+0402		Step Child-in-law
+0501		Parent
+0502		Stepparent
+0601		Parent-in-Law
+0602		Stepparent-in-law
+0701		Sibling
+0702		Step/Half/Adopted Sibling
+0801		Sibling-in-Law
+0802		Step/Half Sibling-in-law
+0901		Grandchild
+0902		Adopted Grandchild
+0903		Step Grandchild
+0904		Grandchild-in-law
+1000		Other Relatives:
+1001		Other Relatives
+1011		Grandparent
+1012		Step Grandparent
+1013		Grandparent-in-law
+1021		Aunt or Uncle
+1022		Aunt,Uncle-in-law
+1031		Nephew, Niece
+1032		Neph/Niece-in-law
+1033		Step/Adopted Nephew/Niece
+1034		Grand Niece/Nephew
+1041		Cousin
+1042		Cousin-in-law
+1051		Great Grandchild
+1061		Other relatives, nec
+		NON-RELATIVES
+1100		Partner, Friend, Visitor
+1110		Partner/friend
+1111		Friend
+1112		Partner
+1113		Partner/roommate
+1114		Unmarried Partner
+1115		Housemate/Roomate
+1120		Relative of partner
+1130		Concubine/Mistress
+1131		Visitor
+1132		Companion and family of companion
+1139		Allocated partner/friend/visitor
+		Pre-1940 system:
+1200		Other non-relatives
+1201		Roomers/boarders/lodgers
+1202		Boarders
+1203		Lodgers
+1204		Roomer
+1205		Tenant
+1206		Foster child
+1210		Employees:
+1211		Servant
+1212		Housekeeper
+1213		Maid
+1214		Cook
+1215		Nurse
+1216		Other probable domestic employee
+1217		Other employee
+1219		Relative of employee
+1221		Military
+1222		Students
+1223		Members of religious orders
+1230		Other non-relatives
+1239		Allocated other non-relative
+		1940-2000 System:
+		Household members:
+1240		Roomers/boarders/lodgers and foster children
+1241		Roomers/boarders/lodgers
+1242		Foster children
+1250		Employees
+1251		Domestic employees
+1252		Non-domestic employees
+1253		Relative of employee
+1260		Other non-relatives (1990 includes employees)
+		Group quarters members:
+1270		Non-inmate 1990
+1281		Head of group quarters
+1282		Employees of group quarters
+1283		Relative of head, staff, or employee group quarters
+1284		Other non-inmate 1940-1959
+1291		Military
+1292		College dormitories
+1293		Residents of rooming houses
+1294		Other non-inmate 1980 (includes employees and non-inmates in
+1295		Other non-inmates 1960-1970 (includes employees)
+1296		Non-inmates in institutions
+1301		Institutional inmates
+9996		Unclassifiable
+9997		Unknown
+9998		Illegible
+9999		Missing
+
+ SEX		Sex
+1		Male
+2		Female
+
+ AGE		Age
+000		Less than 1 year old
+001		1
+002		2
+003		3
+004		4
+005		5
+006		6
+007		7
+008		8
+009		9
+010		10
+011		11
+012		12
+013		13
+014		14
+015		15
+016		16
+017		17
+018		18
+019		19
+020		20
+021		21
+022		22
+023		23
+024		24
+025		25
+026		26
+027		27
+028		28
+029		29
+030		30
+031		31
+032		32
+033		33
+034		34
+035		35
+036		36
+037		37
+038		38
+039		39
+040		40
+041		41
+042		42
+043		43
+044		44
+045		45
+046		46
+047		47
+048		48
+049		49
+050		50
+051		51
+052		52
+053		53
+054		54
+055		55
+056		56
+057		57
+058		58
+059		59
+060		60
+061		61
+062		62
+063		63
+064		64
+065		65
+066		66
+067		67
+068		68
+069		69
+070		70
+071		71
+072		72
+073		73
+074		74
+075		75
+076		76
+077		77
+078		78
+079		79
+080		80
+081		81
+082		82
+083		83
+084		84
+085		85
+086		86
+087		87
+088		88
+089		89
+090		90 (90+ in 1980 and 1990)
+091		91
+092		92
+093		93
+094		94
+095		95
+096		96
+097		97
+098		98
+099		99
+100		100 (100+ in 1960-1970)
+101		101
+102		102
+103		103
+104		104
+105		105
+106		106
+107		107
+108		108
+109		109
+110		110
+111		111
+112		112 (112+ in the 1980 internal data)
+113		113
+114		114
+115		115 (115+ in the 1990 internal data)
+116		116
+117		117
+118		118
+119		119
+120		120
+121		121
+122		122
+123		123
+124		124
+125		125
+126		126
+129		129
+130		130
+135		135
+
+ AGEMONTH		Age in months
+00		0 months old
+01		1 month old
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+98		Unknown/illegible
+99		N/A or blank
+
+ MARST		Marital status
+1		Married, spouse present
+2		Married, spouse absent
+3		Separated
+4		Divorced
+5		Widowed
+6		Never married/single
+
+ MARRNO		Times married
+0		Not Applicable
+1		Married once
+2		Married twice (or more)
+3		Married thrice (or more)
+4		Four times
+5		Five times
+6		Six times
+7		Unknown
+8		Illegible
+9		Missing
+
+ AGEMARR		Age at first marriage
+00		N/A and missing
+12		12 years old
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+31		31
+32		32
+33		33
+34		34
+35		35
+36		36
+37		37
+38		38
+39		39
+40		40
+41		41
+42		42
+43		43
+44		44
+45		45
+46		46
+47		47
+48		48
+49		49
+50		50
+51		51
+52		52
+53		53
+54		54
+55		55
+56		56
+57		57
+58		58
+59		59
+60		60
+61		61
+62		62
+63		63
+64		64
+65		65
+66		66
+67		67
+68		68
+69		69
+70		70
+71		71
+72		72
+73		73
+74		74
+75		75
+76		76
+77		77
+78		78
+79		79
+80		80
+81		81
+82		82
+83		83
+84		84
+85		85
+86		86
+87		87
+88		88
+89		89
+90		90
+91		91
+92		92
+93		93
+94		94
+95		95
+96		96
+97		97
+98		98
+99		99+
+
+ CHBORN		Children ever born
+00		N/A
+01		No children
+02		1 child
+03		2 children
+04		3
+05		4
+06		5
+07		6
+08		7
+09		8
+10		9
+11		10
+12		11
+13		12 (12+ 1960-1990)
+14		13
+15		14
+16		15
+17		16
+18		17
+19		18
+20		19
+21		20
+22		21
+23		22
+24		23
+25		24
+26		25 (25+ 1950)
+27		26
+28		27
+29		28
+30		29
+31		30
+32		31
+33		32
+34		33
+35		34
+36		35
+37		36
+38		37
+39		38
+40		39
+41		40
+42		41
+43		42
+44		43
+45		44
+46		45
+47		46
+48		47
+49		48
+50		49
+51		50
+52		51
+53		52
+54		53
+55		54
+56		55
+57		56
+58		57
+61		60
+87		87
+
+ RACE		Race [general version]
+1		White
+2		Black/African American/Negro
+3		American Indian or Alaska Native
+4		Chinese
+5		Japanese
+6		Other Asian or Pacific Islander
+7		Other race, nec
+8		Two major races
+9		Three or more major races
+
+ RACED		Race [detailed version]
+		ONE MAJOR RACE GROUP
+100		White
+110		Spanish write_in
+120		Blank (white) (1850)
+130		Portuguese
+140		Mexican (1930)
+150		Puerto Rican (1910 Hawaii)
+200		Black/African American/Negro
+210		Mulatto
+300		American Indian/Alaska Native
+		American Indian:
+302		Apache
+303		Blackfoot
+304		Cherokee
+305		Cheyenne
+306		Chickasaw
+307		Chippewa
+308		Choctaw
+309		Comanche
+310		Creek
+311		Crow
+312		Iroquois
+313		Kiowa
+314		Lumbee
+315		Navajo
+316		Osage
+317		Paiute
+318		Pima
+319		Potawatomi
+320		Pueblo
+321		Seminole
+322		Shoshone
+323		Sioux
+324		Tlingit (Tlingit_Haida, 2000/ACS)
+325		Tohono O Odham
+326		All other tribes (1990)
+328		Hopi
+329		Central American Indian
+330		Spanish American Indian
+350		Delaware
+351		Latin American Indian
+352		Puget Sound Salish
+353		Yakama
+354		Yaqui
+355		Colville
+356		Houma
+357		Menominee
+358		Yuman
+359		South American Indian
+360		Mexican American Indian
+361		Other Amer. Indian tribe (2000,ACS)
+362		2+ Amer. Indian tribes (2000,ACS)
+		Alaskan Native:
+370		Alaskan Athabaskan
+371		Aleut
+372		Eskimo
+373		Alaskan mixed
+374		Inupiat
+375		Yup'ik
+379		Other Alaska Native tribe(s) (2000,ACS)
+398		Both Am. Ind. and Alaska Native (2000,ACS)
+399		Tribe not specified
+		Asian or Pacific Islander:
+400		Chinese
+410		Taiwanese
+420		Chinese and Taiwanese
+500		Japanese
+600		Filipino
+610		Asian Indian (Hindu 1920_1940)
+620		Korean
+630		Hawaiian
+631		Hawaiian and Asian (1900,1920)
+632		Hawaiian and European (1900,1920)
+634		Hawaiian mixed
+640		Vietnamese
+641		   Bhutanese
+642		   Mongolian 
+643		   Nepalese
+650		Other Asian or Pacific Islander (1920,1980)
+651		Asian only (CPS)
+652		Pacific Islander only (CPS)
+653		Asian or Pacific Islander, n.s. (1990 Internal Census files)
+660		Cambodian
+661		Hmong
+662		Laotian
+663		Thai
+664		Bangladeshi
+665		Burmese
+666		Indonesian
+667		Malaysian
+668		Okinawan
+669		Pakistani
+670		Sri Lankan
+671		Other Asian, n.e.c.
+672		Asian, not specified
+		Two or more Asian races
+673		Chinese and Japanese
+674		Chinese and Filipino
+675		Chinese and Vietnamese
+676		Chinese and Asian write_in
+677		Japanese and Filipino
+678		Asian Indian and Asian write_in
+679		Other Asian race combinations
+		Polynesian region (also includes Hawaii):
+680		Samoan
+681		Tahitian
+682		Tongan
+683		Other Polynesian (1990)
+684		1+ other Polynesian races (2000,ACS)
+		Micronesian region:
+685		Guamanian/Chamorro
+686		Northern Mariana Islander
+687		Palauan
+688		Other Micronesian (1990)
+689		1+ other Micronesian races (2000,ACS)
+		Melanesian region:
+690		Fijian
+691		Other Melanesian (1990)
+692		1+ other Melanesian races (2000,ACS)
+		Pacific Islanders from two or more PI regions:
+698		2+ PI races from 2+ PI regions
+699		Pacific Islander, n.s.
+700		Other race, n.e.c.
+		Two major race groups:
+801		White and Black
+802		White and AIAN
+810		White and Asian
+811		White and Chinese
+812		White and Japanese
+813		White and Filipino
+814		White and Asian Indian
+815		White and Korean
+816		White and Vietnamese
+817		White and Asian write_in
+818		White and other Asian race(s)
+819		White and two or more Asian groups
+820		White and PI  
+821		White and Native Hawaiian
+822		White and Samoan
+823		White and Guamanian
+824		White and PI write_in
+825		White and other PI race(s)
+826		White and other race write_in
+827		White and other race, n.e.c.
+830		Black and AIAN
+831		Black and Asian
+832		Black and Chinese
+833		Black and Japanese
+834		Black and Filipino
+835		Black and Asian Indian
+836		Black and Korean
+837		Black and Asian write_in
+838		Black and other Asian race(s)
+840		Black and PI
+841		Black and PI write_in
+842		Black and other PI race(s)
+845		Black and other race write_in
+850		AIAN and Asian
+851		AIAN and Filipino (2000 1%)
+852		AIAN and Asian Indian
+853		AIAN and Asian write_in (2000 1%)
+854		AIAN and other Asian race(s)
+855		AIAN and PI
+856		AIAN and other race write_in
+860		Asian and PI
+861		Chinese and Hawaiian
+862		Chinese, Filipino, Hawaiian (2000 1%)
+863		Japanese and Hawaiian (2000 1%)
+864		Filipino and Hawaiian
+865		Filipino and PI write_in
+866		Asian Indian and PI write_in (2000 1%)
+867		Asian write_in and PI write_in
+868		Other Asian race(s) and PI race(s)
+869		Japanese and Korean (ACS)
+880		Asian and other race write_in
+881		Chinese and other race write_in
+882		Japanese and other race write_in
+883		Filipino and other race write_in
+884		Asian Indian and other race write_in
+885		Asian write_in and other race write_in
+886		Other Asian race(s) and other race write_in
+887		      Chinese and Korean
+890		PI and other race write_in: 
+891		PI write_in and other race write_in
+892		Other PI race(s) and other race write_in
+893		         Native Hawaiian or PI other race(s)
+899		API and other race write_in
+		Three major race groups:
+901		White, Black, AIAN
+902		White, Black, Asian
+903		White, Black, PI
+904		White, Black, other race write_in
+905		White, AIAN, Asian
+906		White, AIAN, PI
+907		White, AIAN, other race write_in
+910		White, Asian, PI 
+911		White, Chinese, Hawaiian
+912		White, Chinese, Filipino, Hawaiian (2000 1%)
+913		White, Japanese, Hawaiian (2000 1%)
+914		White, Filipino, Hawaiian
+915		Other White, Asian race(s), PI race(s)
+916		      White, AIAN and Filipino
+917		      White, Black, and Filipino
+920		White, Asian, other race write_in
+921		White, Filipino, other race write_in (2000 1%)
+922		White, Asian write_in, other race write_in (2000 1%)
+923		Other White, Asian race(s), other race write_in (2000 1%)
+925		White, PI, other race write_in
+930		Black, AIAN, Asian
+931		Black, AIAN, PI
+932		Black, AIAN, other race write_in
+933		Black, Asian, PI
+934		Black, Asian, other race write_in
+935		Black, PI, other race write_in
+940		AIAN, Asian, PI
+941		AIAN, Asian, other race write_in
+942		AIAN, PI, other race write_in
+943		Asian, PI, other race write_in
+944		Asian (Chinese, Japanese, Korean, Vietnamese); and Native Hawaiian or PI; and Other
+949		2 or 3 races (CPS)
+		Four major race groups:
+950		White, Black, AIAN, Asian
+951		White, Black, AIAN, PI
+952		White, Black, AIAN, other race write_in
+953		White, Black, Asian, PI
+954		White, Black, Asian, other race write_in
+955		White, Black, PI, other race write_in
+960		White, AIAN, Asian, PI
+961		White, AIAN, Asian, other race write_in
+962		White, AIAN, PI, other race write_in
+963		White, Asian, PI, other race write_in
+964		White, Chinese, Japanese, Native Hawaiian
+970		Black, AIAN, Asian, PI
+971		Black, AIAN, Asian, other race write_in
+972		Black, AIAN, PI, other race write_in
+973		Black, Asian, PI, other race write_in
+974		AIAN, Asian, PI, other race write_in
+975		AIAN, Asian, PI, Hawaiian other race write_in
+976		Two specified Asian  (Chinese and other Asian, Chinese and Japanese, Japanese and other Asian, Korean and other Asian); Native Hawaiian/PI; and Other Race
+		Five major race groups:
+980		White, Black, AIAN, Asian, PI
+981		White, Black, AIAN, Asian, other race write_in
+982		White, Black, AIAN, PI, other race write_in
+983		White, Black, Asian, PI, other race write_in
+984		White, AIAN, Asian, PI, other race write_in
+985		Black, AIAN, Asian, PI, other race write_in
+986		Black, AIAN, Asian, PI, Hawaiian, other race write_in
+989		4 or 5 races (CPS)
+		Six major race groups:
+990		White, Black, AIAN, Asian, PI, other race write_in
+991		White race; Some other race; Black or African American race and/or American Indian and Alaska Native race and/or Asian groups and/or Native Hawaiian and Other Pacific Islander groups
+996		2+ races, n.e.c. (CPS)
+
+ HISPAN		Hispanic origin [general version]
+0		Not Hispanic
+1		Mexican
+2		Puerto Rican
+3		Cuban
+4		Other
+9		Not Reported
+
+ HISPAND		Hispanic origin [detailed version]
+000		Not Hispanic
+100		Mexican
+102		Mexican American
+103		Mexicano/Mexicana
+104		Chicano/Chicana
+105		La Raza
+106		Mexican American Indian
+107		Mexico
+200		Puerto Rican
+300		Cuban
+		Other:
+		Central American
+401		Central American Indian
+402		Canal Zone
+411		Costa Rican
+412		Guatemalan
+413		Honduran
+414		Nicaraguan
+415		Panamanian
+416		Salvadoran
+417		Central American, n.e.c.
+		South American
+420		Argentinean
+421		Bolivian
+422		Chilean
+423		Colombian
+424		Ecuadorian
+425		Paraguayan
+426		Peruvian
+427		Uruguayan
+428		Venezuelan
+429		South American Indian
+430		Criollo
+431		South American, n.e.c.
+		Spaniard
+450		Spaniard
+451		Andalusian
+452		Asturian
+453		Castillian
+454		Catalonian
+455		Balearic Islander
+456		Gallego
+457		Valencian
+458		Canarian
+459		Spanish Basque
+460		Dominican
+465		Latin American
+470		Hispanic
+480		Spanish
+490		Californio
+491		Tejano
+492		Nuevo Mexicano
+493		Spanish American
+494		Spanish American Indian
+495		Meso American Indian
+496		Mestizo
+498		Other, n.s. 
+499		Other, n.e.c.
+900		Not Reported
+
+ BPL		Birthplace [general version]
+		UNITED STATES
+001		Alabama
+002		Alaska
+004		Arizona
+005		Arkansas
+006		California
+008		Colorado
+009		Connecticut
+010		Delaware
+011		District of Columbia
+012		Florida
+013		Georgia
+015		Hawaii
+016		Idaho
+017		Illinois
+018		Indiana
+019		Iowa
+020		Kansas
+021		Kentucky
+022		Louisiana
+023		Maine
+024		Maryland
+025		Massachusetts
+026		Michigan
+027		Minnesota
+028		Mississippi
+029		Missouri
+030		Montana
+031		Nebraska
+032		Nevada
+033		New Hampshire
+034		New Jersey
+035		New Mexico
+036		New York
+037		North Carolina
+038		North Dakota
+039		Ohio
+040		Oklahoma
+041		Oregon
+042		Pennsylvania
+044		Rhode Island
+045		South Carolina
+046		South Dakota
+047		Tennessee
+048		Texas
+049		Utah
+050		Vermont
+051		Virginia
+053		Washington
+054		West Virginia
+055		Wisconsin
+056		Wyoming
+090		Native American
+099		United States, ns
+		US OUTLYING AREAS/TERRITORIES
+100		American Samoa
+105		Guam
+110		Puerto Rico
+115		U.S. Virgin Islands
+120		Other US Possessions
+		OTHER NORTH AMERICA
+150		Canada
+155		St. Pierre and Miquelon
+160		Atlantic Islands
+199		North America, ns
+		CENTRAL AMERICA AND CARIBBEAN
+200		Mexico
+210		Central America
+		Caribbean:
+250		Cuba
+260		West Indies
+299		Americas, n.s.
+300		SOUTH AMERICA
+		EUROPE
+		Northern Europe:
+400		Denmark
+401		Finland
+402		Iceland
+403		Lapland, n.s.
+404		Norway
+405		Sweden
+		United Kingdom and Ireland:
+410		England
+411		Scotland
+412		Wales
+413		United Kingdom, ns
+414		Ireland
+419		Northern Europe, ns
+		Western Europe:
+420		Belgium
+421		France
+422		Liechtenstein
+423		Luxembourg
+424		Monaco
+425		Netherlands
+426		Switzerland
+429		Western Europe, ns
+		Southern Europe:
+430		Albania
+431		Andorra
+432		Gibraltar
+433		Greece
+434		Italy
+435		Malta
+436		Portugal
+437		San Marino
+438		Spain
+439		Vatican City
+440		Southern Europe, ns
+		Central/Eastern Europe:
+450		Austria
+451		Bulgaria
+452		Czechoslovakia
+453		Germany
+454		Hungary
+455		Poland
+456		Romania
+457		Yugoslavia
+458		Central Europe, ns
+459		Eastern Europe, ns
+		Russian Empire:
+		Baltic States:
+460		Estonia
+461		Latvia
+462		Lithuania
+463		Baltic States, ns
+465		Other USSR/Russia
+499		Europe, ns
+		ASIA
+		East Asia:
+500		China
+501		Japan
+502		Korea
+509		East Asia, ns
+		Southeast Asia:
+510		Brunei
+511		Cambodia (Kampuchea)
+512		Indonesia
+513		Laos
+514		Malaysia
+515		Philippines
+516		Singapore
+517		Thailand
+518		Vietnam
+519		Southeast Asia, ns
+		India/Southwest Asia:
+520		Afghanistan
+521		India
+522		Iran
+523		Maldives
+524		Nepal
+		Middle East/Asia Minor:
+530		Bahrain
+531		Cyprus
+532		Iraq
+533		Iraq/Saudi Arabia
+534		Israel/Palestine
+535		Jordan
+536		Kuwait
+537		Lebanon
+538		Oman
+539		Qatar
+540		Saudi Arabia
+541		Syria
+542		Turkey
+543		United Arab Emirates
+544		Yemen Arab Republic (North)
+545		Yemen, PDR (South)
+546		Persian Gulf States, n.s.
+547		Middle East, ns
+548		Southwest Asia, nec/ns
+549		Asia Minor, ns
+550		South Asia, nec
+599		Asia, nec/ns
+		AFRICA
+600		AFRICA
+		Northern Africa:
+		West Africa:
+		East Africa:
+		Central Africa:
+		Southern Africa:
+		OCEANIA
+700		Australia and New Zealand
+710		Pacific Islands
+800		Antarctica, ns/nec
+900		Abroad (unknown) or at sea
+950		Other n.e.c.
+999		Missing/blank
+
+ BPLD		Birthplace [detailed version]
+		UNITED STATES
+00100		Alabama
+00200		Alaska
+00400		Arizona
+00500		Arkansas
+00600		California
+00800		Colorado
+00900		Connecticut
+01000		Delaware
+01100		District of Columbia
+01200		Florida
+01300		Georgia
+01500		Hawaii
+01600		Idaho
+01610		Idaho Territory
+01700		Illinois
+01800		Indiana
+01900		Iowa
+02000		Kansas
+02100		Kentucky
+02200		Louisiana
+02300		Maine
+02400		Maryland
+02500		Massachusetts
+02600		Michigan
+02700		Minnesota
+02800		Mississippi
+02900		Missouri
+03000		Montana
+03100		Nebraska
+03200		Nevada
+03300		New Hampshire
+03400		New Jersey
+03500		New Mexico
+03510		New Mexico Territory
+03600		New York
+03700		North Carolina
+03800		North Dakota
+03900		Ohio
+04000		Oklahoma
+04010		Indian Territory
+04100		Oregon
+04200		Pennsylvania
+04400		Rhode Island
+04500		South Carolina
+04600		South Dakota
+04610		Dakota Territory
+04700		Tennessee
+04800		Texas
+04900		Utah
+04910		Utah Territory
+05000		Vermont
+05100		Virginia
+05300		Washington
+05400		West Virginia
+05500		Wisconsin
+05600		Wyoming
+05610		Wyoming Territory
+09000		Native American
+09900		United States, ns
+		US OUTLYING AREAS/TERRITORIES
+10000		American Samoa
+10010		Samoa, 1940-1950
+10500		Guam
+11000		Puerto Rico
+11500		U.S. Virgin Islands
+11510		St. Croix
+11520		St. John
+11530		St. Thomas
+12000		Other US Possessions:
+12010		Johnston Atoll
+12020		Midway Islands
+12030		Wake Island
+12040		Other US Caribbean Islands
+12041		Navassa Island
+12050		Other US Pacific Islands
+12051		Baker Island
+12052		Howland Island
+12053		Jarvis Island
+12054		Kingman Reef
+12055		Palmyra Atoll
+12056		Canton and Enderbury Island
+12090		US outlying areas, ns
+12091		US possessions, ns
+12092		US territory, ns
+		OTHER NORTH AMERICA
+15000		Canada
+15010		English Canada
+15011		British Columbia
+15013		Alberta
+15015		Saskatchewan
+15017		Northwest
+15019		Ruperts Land
+15020		Manitoba
+15021		Red River
+15030		Ontario/Upper Canada
+15031		Upper Canada
+15032		Canada West
+15040		New Brunswick
+15050		Nova Scotia
+15051		Cape Breton
+15052		Halifax
+15060		Prince Edward Island
+15070		Newfoundland
+15080		French Canada
+15081		Quebec
+15082		Lower Canada
+15083		Canada East
+15500		St. Pierre and Miquelon
+16000		Atlantic Islands
+16010		Bermuda
+16020		Cape Verde
+16030		Falkland Islands
+16040		Greenland
+16050		St. Helena and Ascension
+16060		Canary Islands
+19900		North America, ns
+		CENTRAL AMERICA AND CARIBBEAN
+20000		Mexico
+21000		Central America
+21010		Belize/British Honduras
+21020		Costa Rica
+21030		El Salvador
+21040		Guatemala
+21050		Honduras
+21060		Nicaragua
+21070		Panama
+21071		Canal Zone
+21090		Central America, ns
+		Caribbean:
+25000		Cuba
+26000		West Indies
+26010		Dominican Republic
+26020		Haiti
+26030		Jamaica
+26040		British West Indies
+26041		Anguilla
+26042		Antigua-Barbuda
+26043		Bahamas
+26044		Barbados
+26045		British Virgin Islands
+26046		Anegada
+26047		Cooper
+26048		Jost Van Dyke
+26049		Peter
+26050		Tortola
+26051		Virgin Gorda
+26052		Br. Virgin Islands, ns
+26053		Cayman Islands
+26054		Dominica
+26055		Grenada
+26056		Montserrat
+26057		St. Kitts-Nevis
+26058		St. Lucia
+26059		St. Vincent
+26060		Trinidad and Tobago
+26061		Turks and Caicos
+26069		Br. Virgin Islands, ns
+26070		Other West Indies
+		Dutch West Indies:
+26071		Aruba
+26072		Netherlands Antilles
+26073		Bonaire
+26074		Curacao
+26075		Dutch St. Maarten
+26076		Saba
+26077		St. Eustatius
+26079		Dutch Caribbean, ns
+		French West Indies:
+26080		French St. Maarten
+26081		Guadeloupe
+26082		Martinique
+26083		St. Barthelemy
+26089		French Caribbean, ns
+26090		Antilles, ns
+26091		Caribbean, ns
+26092		Latin America, ns
+26093		Leeward Islands, ns
+26094		West Indies, ns
+26095		Windward Islands, ns
+29900		Americas, ns
+30000		South America
+30005		Argentina
+30010		Bolivia
+30015		Brazil
+30020		Chile
+30025		Colombia
+30030		Ecuador
+30035		French Guiana
+30040		Guyana/British Guiana
+30045		Paraguay
+30050		Peru
+30055		Suriname
+30060		Uruguay
+30065		Venezuela
+30090		South America, ns
+30091		South and Central America, n.s.
+		EUROPE
+		Northern Europe:
+40000		Denmark
+40010		Faeroe Islands
+40100		Finland
+40200		Iceland
+40300		Lapland, ns
+40400		Norway
+40410		Svalbard and Jan Meyen
+40411		Svalbard
+40412		Jan Meyen
+40500		Sweden
+		United Kingdom and Ireland:
+41000		England
+41010		Channel Islands
+41011		Guernsey
+41012		Jersey
+41020		Isle of Man
+41100		Scotland
+41200		Wales
+41300		United Kingdom, ns
+41400		Ireland
+41410		Northern Ireland
+41900		Northern Europe, ns
+		Western Europe:
+42000		Belgium
+42100		France
+42110		Alsace-Lorraine
+42111		Alsace
+42112		Lorraine
+42200		Liechtenstein
+42300		Luxembourg
+42400		Monaco
+42500		Netherlands
+42600		Switzerland
+42900		Western Europe, ns
+		   Southern Europe:
+43000		Albania
+43100		Andorra
+43200		Gibraltar
+43300		Greece
+43310		Dodecanese Islands
+43320		Turkey Greece
+43330		Macedonia
+43400		Italy
+43500		Malta
+43600		Portugal
+43610		Azores
+43620		Madeira Islands
+43630		Cape Verde Islands
+43640		St. Miguel
+43700		San Marino
+43800		Spain
+43900		Vatican City
+44000		Southern Europe, ns
+		Central/Eastern Europe:
+45000		Austria
+45010		Austria-Hungary
+45020		Austria-Graz
+45030		Austria-Linz
+45040		Austria-Salzburg
+45050		Austria-Tyrol
+45060		Austria-Vienna
+45070		Austria-Kaernsten
+45080		Austria-Neustadt
+45100		Bulgaria
+45200		Czechoslovakia
+45210		Bohemia
+45211		Bohemia-Moravia
+45212		Slovakia
+45213		Czech Republic
+45300		Germany
+45301		Berlin
+45302		West Berlin
+45303		East Berlin
+		West Germany
+45310		West Germany
+45311		Baden
+45312		Bavaria
+45313		Braunschweig
+45314		Bremen
+45315		Hamburg
+45316		Hanover
+45317		Hessen
+45318		Hesse-Nassau
+45319		Lippe
+45320		Lubeck
+45321		Oldenburg
+45322		Rheinland
+45323		Schaumburg-Lippe
+45324		Schleswig
+45325		Sigmaringen
+45326		Schwarzburg
+45327		Westphalia
+45328		Wurttemberg
+45329		Waldeck
+45330		Wittenberg
+45331		Frankfurt
+45332		Saarland
+45333		Nordrhein-Westfalen
+		East Germany
+45340		East Germany
+45341		Anhalt
+45342		Brandenburg
+45344		Kingdom of Saxony
+45345		Mecklenburg
+45346		Saxony
+45347		Thuringian States
+45348		Sachsen-Meiningen
+45349		Sachsen-Weimar-Eisenach
+45350		Probable Saxony
+45351		Schwerin
+45352		Strelitz
+45353		Probably Thuringian States
+45360		Prussia, nec
+45361		Hohenzollern
+45362		Niedersachsen
+45400		Hungary
+45500		Poland
+45510		Austrian Poland
+45511		Galicia
+45520		German Poland
+45521		East Prussia
+45522		Pomerania
+45523		Posen
+45524		Prussian Poland
+45525		Silesia
+45526		West Prussia
+45530		Russian Poland
+45600		Romania
+45610		Transylvania
+45700		Yugoslavia
+45710		Croatia
+45720		Montenegro
+45730		Serbia
+45740		Bosnia
+45750		Dalmatia
+45760		Slovonia
+45770		Carniola
+45780		Slovenia
+45790		Kosovo
+45800		Central Europe, ns
+45900		Eastern Europe, ns
+		Russian Empire:
+		Baltic States:
+46000		Estonia
+46100		Latvia
+46200		Lithuania
+46300		Baltic States, ns
+46500		Other USSR/Russia
+46510		Byelorussia
+46520		Moldavia
+46521		Bessarabia
+46530		Ukraine
+46540		Armenia
+46541		Azerbaijan
+46542		Republic of Georgia
+46543		Kazakhstan
+46544		Kirghizia
+46545		Tadzhik
+46546		Turkmenistan
+46547		Uzbekistan
+46548		Siberia
+46590		USSR, ns
+49900		Europe, ns.
+		ASIA
+		East Asia:
+50000		China
+50010		Hong Kong
+50020		Macau
+50030		Mongolia
+50040		Taiwan
+50100		Japan
+50200		Korea
+50210		North Korea
+50220		South Korea
+50900		East Asia, ns
+		Southeast Asia:
+51000		Brunei
+51100		Cambodia (Kampuchea)
+51200		Indonesia
+51210		East Indies
+51220		East Timor
+51300		Laos
+51400		Malaysia
+51500		Philippines
+51600		Singapore
+51700		Thailand
+51800		Vietnam
+51900		Southeast Asia, ns
+51910		Indochina, ns
+		India/Southwest Asia:
+52000		Afghanistan
+52100		India
+52110		Bangladesh
+52120		Bhutan
+52130		Burma (Myanmar)
+52140		Pakistan
+52150		Sri Lanka (Ceylon)
+52200		Iran
+52300		Maldives
+52400		Nepal
+		Middle East/Asia Minor:
+53000		Bahrain
+53100		Cyprus
+53200		Iraq
+53210		Mesopotamia
+53300		Iraq/Saudi Arabia
+		Neutral Zone
+53400		Israel/Palestine
+53410		Gaza Strip
+53420		Palestine
+53430		West Bank
+53440		Israel
+53500		Jordan
+53600		Kuwait
+53700		Lebanon
+53800		Oman
+53900		Qatar
+54000		Saudi Arabia
+54100		Syria
+54200		Turkey
+54210		European Turkey
+54220		Asian Turkey
+54300		United Arab Emirates
+54400		Yemen Arab Republic (North)
+54500		Yemen, PDR (South)
+54600		Persian Gulf States, ns
+54700		Middle East, ns
+54800		Southwest Asia, nec/ns
+54900		Asia Minor, ns
+55000		South Asia, nec
+59900		Asia, nec/ns
+		AFRICA
+60000		Africa
+		Northern Africa:
+60010		Northern Africa
+60011		Algeria
+60012		Egypt/United Arab Rep.
+60013		Libya
+60014		Morocco
+60015		Sudan
+60016		Tunisia
+60017		Western Sahara
+60019		North Africa, ns
+		West Africa:
+60020		Benin
+60021		Burkina Faso
+60022		Gambia
+60023		Ghana
+60024		Guinea
+60025		Guinea-Bissau
+60026		Ivory Coast
+60027		Liberia
+60028		Mali
+60029		Mauritania
+60030		Niger
+60031		Nigeria
+60032		Senegal
+60033		Sierra Leone
+60034		Togo
+60038		Western Africa, ns
+60039		French West Africa, ns
+		East Africa:
+60040		British Indian Ocean Territory
+60041		Burundi
+60042		Comoros
+60043		Djibouti
+60044		Ethiopia
+60045		Kenya
+60046		Madagascar
+60047		Malawi
+60048		Mauritius
+60049		Mozambique
+60050		Reunion
+60051		Rwanda
+60052		Seychelles
+60053		Somalia
+60054		Tanzania
+60055		Uganda
+60056		Zambia
+60057		Zimbabwe
+60058		Bassas de India
+60059		Europa
+60060		Gloriosos
+60061		Juan de Nova
+60062		Mayotte
+60063		Tromelin
+60064		Eastern Africa, nec/ns
+60065		Eritrea
+		Central Africa:
+60070		Central Africa
+60071		Angola
+60072		Cameroon
+60073		Central African Republic
+60074		Chad
+60075		Congo
+60076		Equatorial Guinea
+60077		Gabon
+60078		Sao Tome and Principe
+60079		Zaire
+60080		Central Africa, ns
+60081		Equatorial Africa, ns
+60082		French Equatorial Africa, ns
+		Southern Africa:
+60090		Southern Africa
+60091		Botswana
+60092		Lesotho
+60093		Namibia
+60094		South Africa (Union of)
+60095		Swaziland
+60096		Southern Africa, ns
+60099		Africa, ns/nec
+		OCEANIA
+70000		Australia and New Zealand
+70010		Australia
+70011		Ashmore and Cartier Islands
+70012		Coral Sea Islands Territory
+70013		Christmas Island
+70014		Cocos Islands
+70020		New Zealand
+71000		Pacific Islands
+		Melanesia:
+71010		New Caledonia
+71012		Papua New Guinea
+71013		Solomon Islands
+71014		Vanuatu (New Hebrides)
+71015		Fiji
+71016		Melanesia, ns
+		Polynesia:
+71017		Norfolk Islands
+71018		Niue
+71020		Cook Islands
+71022		French Polynesia
+71023		Tonga
+71024		Wallis and Futuna Islands
+71025		Western Samoa
+71026		Pitcairn Island
+71027		Tokelau
+71028		Tuvalu
+71029		Polynesia, ns
+		Micronesia:
+71032		Kiribati
+71033		Canton and Enderbury
+71034		Nauru
+71039		Micronesia, ns
+		US Pacific Trust Territories:
+71040		US Pacific Trust Territories
+71041		Marshall Islands
+71042		Micronesia
+71043		Kosrae
+71044		Pohnpei
+71045		Truk
+71046		Yap
+71047		Northern Mariana Islands
+71048		Palau
+71049		Pacific Trust Terr, ns
+71050		Clipperton Island
+71090		Oceania, ns/nec
+80000		Antarctica, ns/nec
+80010		Bouvet Islands
+80020		British Antarctic Terr.
+80030		Dronning Maud Land
+80040		French Southern and Antarctic Lands
+80050		Heard and McDonald Islands
+90000		Abroad (unknown) or at sea
+90010		Abroad, ns
+90011		Abroad (US citizen)
+90020		At sea
+90021		At sea (US citizen)
+90022		At sea or abroad (U.S. citizen)
+		Other unknowns:
+95000		Other n.e.c.
+99900		Missing/blank
+
+ MBPL		Mother's birthplace [general version]
+000		Not Applicable
+		UNITED STATES
+001		Alabama
+002		Alaska
+004		Arizona
+005		Arkansas
+006		California
+008		Colorado
+009		Connecticut
+010		Delaware
+011		District of Columbia
+012		Florida
+013		Georgia
+015		Hawaii
+016		Idaho
+017		Illinois
+018		Indiana
+019		Iowa
+020		Kansas
+021		Kentucky
+022		Louisiana
+023		Maine
+024		Maryland
+025		Massachusetts
+026		Michigan
+027		Minnesota
+028		Mississippi
+029		Missouri
+030		Montana
+031		Nebraska
+032		Nevada
+033		New Hampshire
+034		New Jersey
+035		New Mexico
+036		New York
+037		North Carolina
+038		North Dakota
+039		Ohio
+040		Oklahoma
+041		Oregon
+042		Pennsylvania
+044		Rhode Island
+045		South Carolina
+046		South Dakota
+047		Tennessee
+048		Texas
+049		Utah
+050		Vermont
+051		Virginia
+053		Washington
+054		West Virginia
+055		Wisconsin
+056		Wyoming
+090		Native American
+099		United States, ns
+		US OUTLYING AREAS / TERRITORIES
+100		American Samoa
+105		Guam
+110		Puerto Rico
+115		U.S. Virgin Islands
+120		Other US Possessions
+		OTHER NORTH AMERICA
+150		Canada
+155		St. Pierre and Miquelon
+160		Atlantic Islands
+199		North America, n.s.
+		CENTRAL AMERICA AND CARIBBEAN
+200		Mexico
+210		Central America
+		Caribbean:
+250		Cuba
+260		West Indies
+299		Americas, n.s.
+300		SOUTH AMERICA
+		EUROPE
+		Northern Europe:
+400		Denmark
+401		Finland
+402		Iceland
+403		Lapland, n.s.
+404		Norway
+405		Sweden
+		United Kingdom and Ireland:
+410		England
+411		Scotland
+412		Wales
+413		United Kingdom, ns
+414		Ireland
+419		Northern Europe, ns
+		Western Europe:
+420		Belgium
+421		France
+422		Liechtenstein
+423		Luxembourg
+424		Monaco
+425		Netherlands
+426		Switzerland
+429		Western Europe, ns
+		Southern Europe:
+430		Albania
+431		Andorra
+432		Gibraltar
+433		Greece
+434		Italy
+435		Malta
+436		Portugal
+437		San Marino
+438		Spain
+439		Vatican City
+440		Southern Europe, n.s.
+		Central/Eastern Europe:
+450		Austria
+451		Bulgaria
+452		Czechoslovakia
+453		Germany
+454		Hungary
+455		Poland
+456		Romania
+457		Yugoslavia
+458		Central Europe, ns
+459		Eastern Europe, n.s.
+		Russian Empire:
+		Baltic States:
+460		Estonia
+461		Latvia
+462		Lithuania
+463		Baltic States, ns
+465		Other USSR/Russia
+499		Europe, nec/ns
+		ASIA
+		East Asia:
+500		China
+501		Japan
+502		Korea
+509		East Asia, n.s.
+		Southeast Asia:
+510		Brunei
+511		Cambodia (Kampuchea)
+512		Indonesia
+513		Laos
+514		Malaysia
+515		Philippines
+516		Singapore
+517		Thailand
+518		Vietnam
+519		Southeast Asia, ns
+		India/Southwest Asia:
+520		Afghanistan
+521		India
+522		Iran
+523		Maldives
+524		Nepal
+		Middle East/Asia Minor:
+530		Bahrain
+531		Cyprus
+532		Iraq
+533		Iraq/Saudi Arabia
+534		Israel/Palestine
+535		Jordan
+536		Kuwait
+537		Lebanon
+538		Oman
+539		Qatar
+540		Saudi Arabia
+541		Syria
+542		Turkey
+543		United Arab Emirates
+544		Yemen Arab Republic (North)
+545		Yemen, PDR (South)
+546		Persian Gulf States, n.s.
+547		Middle East, n.s.
+548		Southwest Asia, nec/ns
+549		Asia Minor, n.s.
+550		South Asia, n.e.c.
+599		Asia, nec/ns
+		AFRICA
+600		AFRICA
+		Northern Africa:
+		West Africa:
+		East Africa:
+		Central Africa:
+		Southern Africa:
+		OCEANIA
+700		Australia and New Zealand
+710		Pacific Islands
+900		Abroad (unknown) or at sea
+950		Other n.e.c.
+997		Unknown
+999		Missing/blank
+
+ MBPLD		Mother's birthplace [detailed version]
+00000		Not Applicable
+		UNITED STATES
+00100		Alabama
+00200		Alaska
+00400		Arizona
+00500		Arkansas
+00600		California
+00800		Colorado
+00900		Connecticut
+01000		Delaware
+01100		District of Columbia
+01200		Florida
+01300		Georgia
+01500		Hawaii
+01600		Idaho
+01610		Idaho Territory
+01700		Illinois
+01800		Indiana
+01900		Iowa
+02000		Kansas
+02100		Kentucky
+02200		Louisiana
+02300		Maine
+02400		Maryland
+02500		Massachusetts
+02600		Michigan
+02700		Minnesota
+02800		Mississippi
+02900		Missouri
+03000		Montana
+03100		Nebraska
+03200		Nevada
+03300		New Hampshire
+03400		New Jersey
+03500		New Mexico
+03510		New Mexico Territory
+03600		New York
+03700		North Carolina
+03800		North Dakota
+03900		Ohio
+04000		Oklahoma
+04010		Indian Territory
+04100		Oregon
+04200		Pennsylvania
+04400		Rhode Island
+04500		South Carolina
+04600		South Dakota
+04610		Dakota Territory
+04700		Tennessee
+04800		Texas
+04900		Utah
+04910		Utah Territory
+05000		Vermont
+05100		Virginia
+05300		Washington
+05400		West Virginia
+05500		Wisconsin
+05600		Wyoming
+05610		Wyoming Territory
+09000		Native American
+09900		United States, n.s.
+		US OUTLYING AREAS / TERRITORIES
+10000		American Samoa
+10010		Samoa, 1940-1950
+10500		Guam
+11000		Puerto Rico
+11500		U.S. Virgin Islands
+11510		St. Croix
+11520		St. John
+11530		St. Thomas
+12000		Other US Possessions
+12010		Johnston Atoll
+12020		Midway Islands
+12030		Wake Island
+12040		Other US Caribbean Islands
+12041		Navassa Island
+12050		Other US Pacific Is.
+12051		Baker Island
+12052		Howland Island
+12053		Jarvis Island
+12054		Kingman Reef
+12055		Palmyra Atoll
+12056		Canton and Enderbury Island
+12090		US outlying areas, ns
+12091		US Possessions, n.s.
+12092		US territory, ns
+		OTHER NORTH AMERICA
+15000		Canada
+15010		English Canada
+15011		British Columbia
+15013		Alberta
+15015		Saskatchewan
+15017		Northwest
+15019		Ruperts Land
+15020		Manitoba
+15021		Red River
+15030		Ontario/Upper Canada
+15031		Upper Canada
+15032		Canada West
+15040		New Brunswick
+15050		Nova Scotia
+15051		Cape Breton
+15052		Halifax
+15060		Prince Edward Island
+15070		Newfoundland
+15080		French Canada
+15081		Quebec
+15082		Lower Canada
+15083		Canada East
+15500		St. Pierre and Miquelon
+16000		Atlantic Islands
+16010		Bermuda
+16020		Cape Verde
+16030		Falkland Islands
+16040		Greenland
+16050		St. Helena and Ascension
+16060		Canary Islands
+19900		North America, n.s.
+		CENTRAL AMERICA AND CARIBBEAN
+20000		Mexico
+21000		Central America
+21010		Belize/British Honduras
+21020		Costa Rica
+21030		El Salvador
+21040		Guatemala
+21050		Honduras
+21060		Nicaragua
+21070		Panama
+21071		Canal Zone
+21090		Central America, ns
+		Caribbean:
+25000		Cuba
+26000		West Indies
+26010		Dominican Republic
+26020		Haiti
+26030		Jamaica
+26040		British West Indies
+26041		Anguilla
+26042		Antigua-Barbuda
+26043		Bahamas
+26044		Barbados
+26045		British Virgin Islands
+26046		Anegada
+26047		Cooper
+26048		Jost Van Dyke
+26049		Peter
+26050		Tortola
+26051		Virgin Gorda
+26052		Br. Virgin Islands, ns
+26053		Cayman Isles
+26054		Dominica
+26055		Grenada
+26056		Montserrat
+26057		St. Kitts-Nevis
+26058		St. Lucia
+26059		St. Vincent
+26060		Trinidad and Tobago
+26061		Turks and Caicos
+26069		British West Indies, ns
+26070		Other West Indies
+		Dutch West Indies:
+26071		Aruba
+26072		Netherlands Antilles
+26073		Bonaire
+26074		Curacao
+26075		Dutch St. Maarten
+26076		Saba
+26077		St. Eustatius
+26079		Dutch Caribbean, ns
+		French West Indies:
+26080		French St. Maarten
+26081		Guadeloupe
+26082		Martinique
+26083		St. Barthelemy
+26089		French Caribbean, ns
+26090		Antilles, n.s.
+26091		Caribbean, n.s. / n.e.c.
+26092		Latin America, ns
+26093		Leeward Islands, n.s.
+26094		West Indies, ns
+26095		Winward Islands
+29900		Americas, ns
+30000		SOUTH AMERICA
+30005		Argentina
+30010		Bolivia
+30015		Brazil
+30020		Chile
+30025		Colombia
+30030		Ecuador
+30035		French Guiana
+30040		Guyana/British Guiana
+30045		Paraguay
+30050		Peru
+30055		Suriname
+30060		Uruguay
+30065		Venezuela
+30090		South America, n.s.
+30091		South and Central America, n.s.
+		EUROPE
+		Northern Europe:
+40000		Denmark
+40010		Faroe Islands
+40100		Finland
+40200		Iceland
+40300		Lapland, ns
+40400		Norway
+40410		Svalbard and Jan Meyen
+40411		Svalbard
+40412		Jan Meyen
+40500		Sweden
+		United Kingdom and Ireland:
+41000		England
+41010		Channel Islands
+41011		Guernsey
+41012		Jersey
+41020		Isle of Man
+41100		Scotland
+41200		Wales
+41300		United Kingdom, n.s.
+41400		Ireland
+41410		Northern Ireland
+41900		Northern Europe, ns
+		Western Europe:
+42000		Belgium
+42100		France
+42110		Alsace-Lorraine
+42111		Alsace
+42112		Lorraine
+42200		Liechtenstein
+42300		Luxembourg
+42400		Monaco
+42500		Netherlands
+42600		Switzerland
+42900		Western Euproe, ns
+		Southern Europe:
+43000		Albania
+43100		Andorra
+43200		Gibraltar
+43300		Greece
+43310		Dodecanese Islands
+43320		Turkey Greece
+43330		Macedonia
+43400		Italy
+43500		Malta
+43600		Portugal
+43610		Azores
+43620		Madeira Islands
+43630		Cape Verde Islands
+43640		St. Miguel
+43700		San Marino
+43800		Spain
+43900		Vatican City
+44000		Southern Europe, ns
+		Central/Eastern Europe:
+45000		Austria
+45010		Austria-Hungary
+45020		Austria-Graz
+45030		Austria-Linz
+45040		Austria-Salzburg
+45050		Austria-Tyrol
+45060		Austria-Vienna
+45070		Austria-Kaernten
+45080		Austria-Neustadt
+45100		Bulgaria
+45200		Czechoslovakia
+45210		Bohemia
+45211		Bohemia-Moravia
+45212		Slovakia
+45213		Czech Republic
+45300		Germany
+45301		Berlin
+		West Germany
+45310		West Germany
+45311		Baden
+45312		Bavaria
+45313		Bremen
+45314		Braunschweig
+45315		Hamburg
+45316		Hanover
+45317		Hessen
+45318		Hesse-Nassau
+45319		Holstein
+45320		Lippe
+45321		Lubeck
+45322		Oldenburg
+45323		Rheinland
+45324		Schleswig
+45325		Schleswig-Holstein
+45326		Schwarzburg
+45327		Waldeck
+45328		West Berlin
+45329		Westphalia
+45330		Wurttemberg
+45331		Frankfurt
+45332		Saarland
+45333		Nordrhein-Westfalen
+		East Germany
+45340		East Germany
+45341		Anhalt
+45342		Brandenburg
+45343		East Berlin
+45344		Mecklenburg
+45345		Sachsen-Altenburg
+45346		Sachsen-Coburg
+45347		Sachsen-Gotha
+45348		Sachsen-Meiningen
+45349		Sachsen-Weimar-Eisenach
+45350		Saxony
+45351		Schwerin
+45352		Strelitz
+45353		Thuringian States
+45360		Prussia, n.e.c.
+45361		Hohenzollern
+45362		Niedersachsen
+45400		Hungary
+45500		Poland
+45510		Austrian Poland
+45511		Galicia
+45520		German Poland
+45521		East Prussia
+45522		Pomerania
+45523		Posen
+45524		Prussian Poland
+45525		Silesia
+45526		West Prussia
+45530		Russian Poland
+45600		Romania
+45610		Transylvania
+45700		Yugoslavia
+45710		Croatia
+45720		Montenegro
+45730		Serbia
+45740		Bosnia
+45750		Dalmatia
+45760		Slovonia
+45770		Carniola
+45780		Slovenia
+45790		Kosovo
+45800		Central Europe, n.s.
+45900		Eastern Europe, n.s.
+		Russian Empire:
+		Baltic States:
+46000		Estonia
+46100		Latvia
+46200		Lithuania
+46300		Baltic States, ns
+46500		Other USSR/Russia
+46510		Byelorussia
+46520		Moldavia
+46521		Bessarabia
+46530		Ukraine
+46540		Armenia
+46541		Azerbaijan
+46542		Republic of Georgia
+46543		Kazakhstan
+46544		Kirghizia
+46545		Tadzhik
+46546		Turkmenistan
+46547		Uzbekistan
+46548		Siberia
+46590		USSR, ns
+49900		Europe, n.e.c./n.s.
+		ASIA
+		East Asia:
+50000		China
+50010		Hong Kong
+50020		Macau
+50030		Mongolia
+50040		Taiwan
+50100		Japan
+50200		Korea
+50210		North Korea
+50220		South Korea
+50900		East Asia, n.s.
+		Southeast Asia:
+51000		Brunei
+51100		Cambodia (Kampuchea)
+51200		Indonesia
+51210		East Indies
+51220		East Timor
+51300		Laos
+51400		Malaysia
+51500		Philippines
+51600		Singapore
+51700		Thailand
+51800		Vietnam
+51900		Southeast Asia, ns
+51910		Indochina, ns
+		India/Southwest Asia:
+52000		Afghanistan
+52100		India
+52110		Bangladesh
+52120		Bhutan
+52130		Burma (Myanmar)
+52140		Pakistan
+52150		Sri Lanka (Ceylon)
+52200		Iran
+52300		Maldives
+52400		Nepal
+		Middle East/Asia Minor:
+53000		Bahrain
+53100		Cyprus
+53200		Iraq
+53210		Mesopotamia
+53300		Iraq/Saudi Arabia
+		Neutral Zone
+53400		Israel/Palestine
+53420		Palestine
+53430		West Bank
+53440		Israel
+53410		Gaza Strip
+53500		Jordan
+53600		Kuwait
+53700		Lebanon
+53800		Oman
+53900		Qatar
+54000		Saudi Arabia
+54100		Syria
+54200		Turkey
+54210		European Turkey
+54220		Asian Turkey
+54300		United Arab Emirates
+54400		Yemen Arab Republic (North)
+54500		Yemen, PDR (South)
+54600		Persian Gulf States, ns
+54700		Middle East, n.s.
+54800		Southwest Asia, nec/ns
+54900		Asia Minor, n.s.
+55000		South Asia, n.e.c.
+59900		Asia, nec/ns
+		AFRICA
+60000		AFRICA
+		Northern Africa:
+60010		Northern Africa
+60011		Algeria
+60012		Egypt/United Arab Rep.
+60013		Libya
+60014		Morocco
+60015		Sudan
+60016		Tunisia
+60017		Western Sahara
+60019		North Africa, ns
+		West Africa:
+60020		Benin
+60021		Burkina Faso
+60022		Gambia
+60023		Ghana
+60024		Guinea
+60025		Guinea-Bissau
+60026		Ivory Coast
+60027		Liberia
+60028		Mali
+60029		Mauritania
+60030		Niger
+60031		Nigeria
+60032		Senegal
+60033		Sierra Leone
+60034		Togo
+60038		Western Africa, n.s.
+60039		French West Africa, ns
+		East Africa:
+60040		British Indian Ocean Territory
+60041		Burundi
+60042		Comoros
+60043		Djibouti
+60044		Ethiopia
+60045		Kenya
+60046		Madagascar
+60047		Malawi
+60048		Mauritius
+60049		Mozambique
+60050		Reunion
+60051		Rwanda
+60052		Seychelles
+60053		Somalia
+60054		Tanzania
+60055		Uganda
+60056		Zambia
+60057		Zimbabwe
+60058		Bassas de India
+60059		Europa
+60060		Gloriosos
+60061		Juan de Nova
+60062		Mayotte
+60063		Tromelin
+60064		Eastern Africa, nec/ns
+60065		Eritrea
+		Central Africa:
+60070		Central Africa
+60071		Angola
+60072		Cameroon
+60073		Central African Republic
+60074		Chad
+60075		Congo
+60076		Equatorial Guinea
+60077		Gabon
+60078		Sao Tome and Principe
+60079		Zaire
+60080		Central Africa, ns
+60081		Equatorial Africa, ns
+60082		French Equatorial Africa, ns
+		Southern Africa:
+60090		Southern Africa
+60091		Botswana
+60092		Lesotho
+60093		Namibia
+60094		South Africa (Union of)
+60095		Swaziland
+60096		Southern Africa, n.s.
+60099		Africa, ns/nec
+		OCEANIA
+70000		Australia and New Zealand
+70010		Australia
+70011		Ashmore and Cartier Islands
+70012		Coral Sea Islands Territory
+70013		Christmas Island
+70014		Cocos Islands
+70020		New Zealand
+71000		Pacific Islands
+		Melanesia:
+71010		New Caledonia
+71012		Papua New Guinea
+71013		Solomon Islands
+71014		Vanuatu (New Hebrides)
+71016		Melanesia, ns
+		Polynesia:
+71017		Norfolk Islands
+71018		Niue
+71020		Cook Islands
+71021		Fiji
+71022		French Polynesia
+71023		Tonga
+71024		Wallis and Futuna Islands
+71025		Western Samoa
+71026		Pitcairn Island
+71027		Tokelau
+71028		Tuvalu
+71029		Polynesia, n.s.
+		Micronesia:
+71032		Kiribati
+71033		Canton and Enderbury
+71034		Nauru
+71039		Micronesia, ns
+		US Pacific Trust Territories:
+71040		US Pacific Trust Territories
+71041		Marshall Islands
+71042		Micronesia
+71043		Kosrae
+71044		Pohnpei
+71045		Truk
+71046		Yap
+71047		Northern Mariana Islands
+71048		Palau
+71049		Pacific Trust Terr, ns
+71050		Clipperton Island
+71090		Oceania, ns/nec
+80000		Antarctica, ns/nec
+80010		Bouvet Islands
+80020		British Antarctic Terr.
+80030		Dronning Maud Land
+80040		French Southern and Antarctic Lands
+80050		Heard and McDonald Islands
+90000		Abroad (unknown) or at sea
+90010		Abroad, ns
+90011		Abroad (US citizen)
+90020		At sea
+90021		At sea (US citizen)
+90022		At sea or abroad (U.S. citizen)
+		Other unknowns:
+95000		Other n.e.c.
+99700		Unknown
+99900		Missing/blank
+
+ FBPL		Father's birthplace [general version]
+000		Not Applicable
+		UNITED STATES
+001		Alabama
+002		Alaska
+004		Arizona
+005		Arkansas
+006		California
+008		Colorado
+009		Connecticut
+010		Delaware
+011		District of Columbia
+012		Florida
+013		Georgia
+015		Hawaii
+016		Idaho
+017		Illinois
+018		Indiana
+019		Iowa
+020		Kansas
+021		Kentucky
+022		Louisiana
+023		Maine
+024		Maryland
+025		Massachusetts
+026		Michigan
+027		Minnesota
+028		Mississippi
+029		Missouri
+030		Montana
+031		Nebraska
+032		Nevada
+033		New Hampshire
+034		New Jersey
+035		New Mexico
+036		New York
+037		North Carolina
+038		North Dakota
+039		Ohio
+040		Oklahoma
+041		Oregon
+042		Pennsylvania
+044		Rhode Island
+045		South Carolina
+046		South Dakota
+047		Tennessee
+048		Texas
+049		Utah
+050		Vermont
+051		Virginia
+053		Washington
+054		West Virginia
+055		Wisconsin
+056		Wyoming
+090		Native American
+099		United States, ns
+		US OUTLYING AREAS/TERRITORIES
+100		American Samoa
+105		Guam
+110		Puerto Rico
+115		US Virgin Islands
+120		Other US Possessions
+		OTHER NORTH AMERICA
+150		Canada
+155		St Pierre and Miquelon
+160		Atlantic Islands
+199		North America, n.s.
+		CENTRAL AMERICA AND CARIBBEAN
+200		Mexico
+210		Central America
+		Caribbean:
+250		Cuba
+260		West Indies
+299		Americas, n.s.
+300		SOUTH AMERICA
+		EUROPE
+		Northern Europe:
+400		Denmark
+401		Finland
+402		Iceland
+403		Lapland, n.s.
+404		Norway
+405		Sweden
+406		Svalbard
+		United Kingdom and Ireland:
+410		England
+411		Scotland
+412		Wales
+413		United Kingdom, ns
+414		Ireland
+419		Northern Europe, ns
+		Western Europe:
+420		Belgium
+421		France
+422		Liechtenstein
+423		Luxembourg
+424		Monaco
+425		Netherlands
+426		Switzerland
+429		Western Europe, ns
+		Southern Europe:
+430		Albania
+431		Andorra
+432		Gibraltar
+433		Greece
+434		Italy
+435		Malta
+436		Portugal
+437		San Marino
+438		Spain
+439		Vatican City
+440		Southern Europe, n.s.
+		Central/Eastern Europe:
+450		Austria
+451		Bulgaria
+452		Czechsolovakia
+453		Germany
+454		Hungary
+455		Poland
+456		Romania
+457		Yugoslavia
+458		Central Europe, ns
+459		Eastern Europe, ns
+		Russian Empire:
+		Baltic States:
+460		Estonia
+461		Latvia
+462		Lithuania
+463		Baltic States, ns
+465		Other USSR/Russia
+499		Europe, nec/ns
+		ASIA
+		East Asia:
+500		China
+501		Japan
+502		Korea
+		Southeast Asia:
+510		Brunei
+511		Cambodia (Kampuchea)
+512		Indonesia
+513		Laos
+514		Malaysia
+515		Philippines
+516		Singapore
+517		Thailand
+518		Vietnam
+519		Southeast Asia, ns
+		India/Southwest Asia:
+520		Afghanistan
+521		India
+522		Iran
+523		Maldives
+524		Nepal
+		Middle East/Asia Minor:
+530		Bahrain
+531		Cyprus
+532		Iraq
+533		Iraq/Saudi Arabia
+534		Israel/Palestine
+535		Jordan
+536		Kuwait
+537		Lebanon
+538		Oman
+539		Qatar
+540		Saudi Arabia
+541		Syria
+542		Turkey
+543		United Arab Emirates
+544		Yemen Arab Republic (North)
+545		Yemen, PDR (South)
+546		Persian Gulf States, n.s.
+547		Middle East, ns
+548		Southwest Asia, nec/ns
+549		Asia Minor, n.s.
+550		South Asia, n.e.c.
+599		Asia, nec/ns
+		AFRICA
+600		AFRICA
+		Northern Africa:
+		West Africa:
+		East Africa:
+		Central Africa:
+		Southern Africa:
+		OCEANIA
+700		Australia and New Zealand
+710		Pacific Islands
+900		Abroad (unknown) or at sea
+950		Other n.e.c.
+997		Unknown
+998		Illegible
+999		Missing/blank
+
+ FBPLD		Father's birthplace [detailed version]
+00000		Not Applicable
+		UNITED STATES
+00100		Alabama
+00200		Alaska
+00400		Arizona
+00500		Arkansas
+00600		California
+00800		Colorado
+00900		Connecticut
+01000		Delaware
+01100		District of Columbia
+01200		Florida
+01300		Georgia
+01500		Hawaii
+01600		Idaho
+01610		Idaho Territory
+01700		Illinois
+01800		Indiana
+01900		Iowa
+02000		Kansas
+02100		Kentucky
+02200		Louisiana
+02300		Maine
+02400		Maryland
+02500		Massachusetts
+02600		Michigan
+02700		Minnesota
+02800		Mississippi
+02900		Missouri
+03000		Montana
+03100		Nebraska
+03200		Nevada
+03300		New Hampshire
+03400		New Jersey
+03500		New Mexico
+03510		New Mexico Territory
+03600		New York
+03700		North Carolina
+03800		North Dakota
+03900		Ohio
+04000		Oklahoma
+04010		Indian Territory
+04100		Oregon
+04200		Pennsylvania
+04400		Rhode Island
+04500		South Carolina
+04600		South Dakota
+04610		Dakota Territory
+04700		Tennessee
+04800		Texas
+04900		Utah
+04910		Utah Territory
+05000		Vermont
+05100		Virginia
+05300		Washington
+05400		West Virginia
+05500		Wisconsin
+05600		Wyoming
+05610		Wyoming Territory
+09000		Native American
+09900		United States, ns
+		US OUTLYING AREAS/TERRITORIES
+10000		American Samoa
+10010		Samoa, 1940-1950
+10500		Guam
+11000		Puerto Rico
+11500		US Virgin Islands
+11510		St Croix
+11520		St. John
+11530		St Thomas
+12000		Other US Possessions
+12010		Johnston Atoll
+12020		Midway Islands
+12030		Wake Island
+12040		Other US Caribbean Islands
+12041		Navassa Island
+12050		Other US Pacific Is.
+12051		Baker Island
+12052		Howland Island
+12053		Jarvis Island
+12054		Kingman Reef
+12055		Palmyra Atoll
+12056		Canton and Enderbury Island
+12090		US outlying areas, ns
+12091		US Possessions, ns
+12092		US territory, ns
+		OTHER NORTH AMERICA
+15000		Canada
+15010		English Canada
+15011		British Columbia
+15013		Alberta
+15015		Saskatchewan
+15017		Northwest
+15019		Ruperts Land
+15020		Manitoba
+15021		Red River
+15030		Ontario/Upper Canada
+15031		Upper Canada
+15032		Canada West
+15040		New Brunswick
+15042		Canada West
+15050		Nova Scotia
+15051		Cape Breton
+15052		Halifax
+15060		Prince Edward Island
+15070		Newfoundland
+15080		French Canada
+15081		Quebec
+15082		Lower Canada
+15083		Canada East
+15500		St Pierre and Miquelon
+16000		Atlantic Islands
+16010		Bermuda
+16020		Cape Verde
+16030		Falkland Islands
+16040		Greenland
+16050		St Helena and Ascension
+16060		Canary Islands
+19900		North America, n.s.
+		CENTRAL AMERICA AND CARIBBEAN
+20000		Mexico
+21000		Central America
+21010		Belize/British Honduras
+21020		Costa Rica
+21030		El Salvador
+21040		Guatemala
+21050		Honduras
+21060		Nicaragua
+21070		Panama
+21071		Canal Zone
+21090		Central America, ns
+		Caribbean:
+25000		Cuba
+26000		West Indies
+26010		Dominican Republic
+26020		Haiti
+26030		Jamaica
+26040		British West Indies
+26041		Anguilla
+26042		Antigua-Barbuda
+26043		Bahamas
+26044		Barbados
+26045		British Virgin Islands
+26046		Anegada
+26047		Cooper
+26048		Jost Van Dyke
+26049		Peter
+26050		Tortola
+26051		Virgin Gorda
+26052		Br. Virgin Islands, ns
+26053		Cayman Islands
+26054		Dominica
+26055		Grenada
+26056		Montserrat
+26057		St Kitts-Nevis
+26058		St Lucia
+26059		St Vincent
+26060		Trinidad and Tobago
+26061		Turks and Caicos
+26069		British West Indies, ns
+26070		Other West Indies
+		Dutch West Indies:
+26071		Aruba
+26072		Netherlands Antilles
+26073		Bonaire
+26074		Curacao
+26075		Dutch St. Maarten
+26076		Saba
+26077		St. Eustatius
+26079		Dutch Caribbean, ns
+		French West Indies:
+26080		French St Maarten
+26081		Guadeloupe
+26082		Martinique
+26083		St. Barthelemy
+26089		French Caribbean, ns
+26090		Antilles, n.s.
+26091		Caribbean, n.s. / n.e.c.
+26092		Latin America, ns
+26093		Leeward Islands, ns
+26094		West Indies, ns
+26095		Winward Islands
+29900		Americas, ns
+30000		South America
+30005		Argentina
+30010		Bolivia
+30015		Brazil
+30020		Chile
+30025		Colombia
+30030		Ecuador
+30035		French Guiana
+30040		Guyana/British Guiana
+30045		Paraguay
+30050		Peru
+30055		Suriname
+30060		Uruguay
+30065		Venezuela
+30090		South America, ns
+30091		South and Central America, n.s.
+		EUROPE
+		Northern Europe:
+40000		Denmark
+40010		Faroe Islands
+40100		Finland
+40200		Iceland
+40300		Lapland, ns
+40400		Norway
+40410		Svalbard and Jan Meyen
+40412		Jan Meyen
+40500		Sweden
+40600		Svalbard
+		United Kingdom and Ireland:
+41000		England
+41010		Channel Islands
+41011		Guernsey
+41012		Jersey
+41020		Isle of Man
+41100		Scotland
+41200		Wales
+41300		United Kingdom, ns
+41400		Ireland
+41410		Northern Ireland
+41900		Northern Europe, ns
+		Western Europe:
+42000		Belgium
+42100		France
+42110		Alsace-Lorraine
+42111		Alsace
+42112		Lorraine
+42200		Liechtenstein
+42300		Luxembourg
+42400		Monaco
+42500		Netherlands
+42600		Switzerland
+42900		Western Europe, ns
+		Southern Europe:
+43000		Albania
+43100		Andorra
+43200		Gibraltar
+43300		Greece
+43310		Dodecanese Islands
+43320		Turkey Greece
+43330		Macedonia
+43400		Italy
+43500		Malta
+43600		Portugal
+43610		Azores
+43620		Madeira Islands
+43630		Cape Verde Islands
+43640		St Miguel
+43700		San Marino
+43800		Spain
+43900		Vatican City
+44000		Southern Europe, ns
+		Central/Eastern Europe:
+45000		Austria
+45010		Austria-Hungary
+45020		Austria-Graz
+45030		Austria-Linz
+45040		Austria-Salzburg
+45050		Austria-Tyrol
+45060		Austria-Vienna
+45070		Austria-Kaernsten
+45080		Austria-Neustadt
+45100		Bulgaria
+45200		Czechsolovakia
+45210		Bohemia
+45211		Bohemia-Moravia
+45212		Slovakia
+45213		Czech Republic
+45300		Germany
+45301		Berlin
+		West Germany
+45310		West Germany
+45311		Baden
+45312		Bavaria
+45313		Bremen
+45314		Braunschweig
+45315		Hamburg
+45316		Hanover
+45317		Hessen
+45318		Hesse-Nassau
+45319		Holstein
+45320		Lippe
+45321		Lubeck
+45322		Oldenburg
+45323		Rheinland
+45324		Schleswig
+45325		Schleswig-Holstein
+45326		Schwarzburg
+45327		Waldeck
+45328		West Berlin
+45329		Westphalia
+45330		Wurttemberg
+45331		Frankfurt
+45332		Saarland
+45333		Nordrhein-Westfalen
+		East Germany
+45340		East Germany
+45341		Anhalt
+45342		Brandenburg
+45343		East Berlin
+45344		Mecklenburg
+45345		Sachsen-Altenburg
+45346		Sachsen-Coburg
+45347		Sachsen-Gotha
+45348		Sachsen-Meiningen
+45349		Sachsen-Weimar-Eisenach
+45350		Saxony
+45351		Schwerin
+45352		Strelitz
+45353		Thuringian States
+45360		Prussia, nec
+45361		Hohenzollern
+45362		Niedersachsen
+45400		Hungary
+45500		Poland
+45510		Austrian Poland
+45511		Galicia
+45520		German Poland
+45521		East Prussia
+45522		Pomerania
+45523		Posen
+45524		Prussian Poland
+45525		Silesia
+45526		West Prussia
+45530		Russian Poland
+45600		Romania
+45610		Transylvania
+45700		Yugoslavia
+45710		Croatia
+45720		Montenegro
+45730		Serbia
+45740		Bosnia
+45750		Dalmatia
+45760		Slovonia
+45770		Carniola
+45780		Slovenia
+45790		Kosovo
+45800		Central Europe, ns
+45900		Eastern Europe, ns
+		Russian Empire:
+		Baltic States:
+46000		Estonia
+46100		Latvia
+46200		Lithuania
+46300		Baltic States, ns
+46500		Other USSR/Russia
+46510		Byelorussia
+46520		Moldavia
+46521		Bessarabia
+46530		Ukraine
+46540		Armenia
+46541		Azerbaijan
+46542		Republic of Georgia
+46543		Kazakhstan
+46544		Kirghizia
+46545		Tadzhik
+46546		Turkmenistan
+46547		Uzbekistan
+46548		Siberia
+46590		USSR, ns
+49900		Europe, nec/ns
+		ASIA
+		East Asia:
+50000		China
+50010		Hong Kong
+50020		Macau
+50030		Mongolia
+50040		Taiwan
+50100		Japan
+50200		Korea
+50210		North Korea
+50220		South Korea
+50900		East Asia, n.s.
+		Southeast Asia:
+51000		Brunei
+51100		Cambodia (Kampuchea)
+51200		Indonesia
+51210		East Indies
+51220		East Timor
+51300		Laos
+51400		Malaysia
+51500		Philippines
+51600		Singapore
+51700		Thailand
+51800		Vietnam
+51900		Southeast Asia, ns
+51910		Indochina, ns
+		India/Southwest Asia:
+52000		Afghanistan
+52100		India
+52110		Bangladesh
+52120		Bhutan
+52130		Burma (Myanmar)
+52140		Pakistan
+52150		Sri Lanka (Ceylon)
+52200		Iran
+52300		Maldives
+52400		Nepal
+		Middle East/Asia Minor:
+53000		Bahrain
+53100		Cyprus
+53200		Iraq
+53210		Mesopotamia
+53300		Iraq/Saudi Arabia
+		Neutral Zone
+53400		Israel/Palestine
+53410		Gaza Strip
+53420		Palestine
+53430		West Bank
+53440		Israel
+53500		Jordan
+53600		Kuwait
+53700		Lebanon
+53800		Oman
+53900		Qatar
+54000		Saudi Arabia
+54100		Syria
+54200		Turkey
+54210		European Turkey
+54220		Asian Turkey
+54300		United Arab Emirates
+54400		Yemen Arab Republic (North)
+54500		Yemen, PDR (South)
+54600		Persian Gulf States, ns
+54700		Middle East, ns
+54800		Southwest Asia, nec/ns
+54900		Asia Minor, ns
+55000		South Asia, n.e.c.
+59900		Asia, nec/ns
+		AFRICA
+60000		Africa
+		Northern Africa:
+60010		Northern Africa
+60011		Algeria
+60012		Egypt/United Arab Rep
+60013		Libya
+60014		Morocco
+60015		Sudan
+60016		Tunisia
+60017		Western Sahara
+60019		North Africa, ns
+		West Africa:
+60020		Benin
+60021		Burkina Faso
+60022		Gambia
+60023		Ghana
+60024		Guinea
+60025		Guinea-Bissau
+60026		Ivory Coast
+60027		Liberia
+60028		Mali
+60029		Mauritania
+60030		Niger
+60031		Nigeria
+60032		Senegal
+60033		Sierra Leone
+60034		Togo
+60038		Western Africa, n.s.
+60039		French West Africa, ns
+		East Africa:
+60040		British Indian Ocean Territory
+60041		Burundi
+60042		Comoros
+60043		Djibouti
+60044		Ethiopia
+60045		Kenya
+60046		Madagascar
+60047		Malawi
+60048		Mauritius
+60049		Mozambique
+60050		Reunion
+60051		Rwanda
+60052		Seychelles
+60053		Somalia
+60054		Tanzania
+60055		Uganda
+60056		Zambia
+60057		Zimbabwe
+60058		Bassas de India
+60059		Europa
+60060		Gloriosos
+60061		Juan de Nova
+60062		Mayotte
+60063		Tromelin
+60064		Eastern Africa, nec/ns
+60065		Eritrea
+		Central Africa:
+60070		Central Africa
+60071		Angola
+60072		Cameroon
+60073		Central African Republic
+60074		Chad
+60075		Congo
+60076		Equatorial Guinea
+60077		Gabon
+60078		Sao Tome and Principe
+60079		Zaire
+60080		Central Africa, ns
+60081		Equatorial Africa, ns
+60082		French Equatorial Africa, ns
+		Southern Africa:
+60090		Southern Africa
+60091		Botswana
+60092		Lesotho
+60093		Namibia
+60094		South Africa (Union of)
+60095		Swaziland
+60096		Southern Africa, n.s.
+60099		Africa, ns/nec
+		OCEANIA
+70000		Australia and New Zealand
+70010		Australia
+70011		Ashmore and Cartier Islands
+70012		Coral Sea Islands Territory
+70013		Christmas Island
+70014		Cocos Islands
+70020		New Zealand
+71000		Pacific Islands
+		Melanesia:
+71010		New Caledonia
+71012		Papua New Guinea
+71013		Solomon Islands
+71014		Vanuatu (New Hebrides)
+71016		Melanesia, ns
+		Polynesia:
+71017		Norfolk Islands
+71018		Niue
+71020		Cook Islands
+71021		Fiji
+71022		French Polynesia
+71023		Tonga
+71024		Wallis and Futuna Islands
+71025		Western Samoa
+71026		Pitcairn Island
+71027		Tokelau
+71028		Tuvalu
+71029		Polynesia, n.s.
+		Micronesia:
+71032		Kiribati
+71033		Canton and Enderbury
+71034		Nauru
+71039		Micronesia, ns
+		US Pacific Trust Territories:
+71040		US Pacific Trust Territories
+71041		Marshall Islands
+71042		Micronesia
+71043		Kosrae
+71044		Pohnpei
+71045		Truk
+71046		Yap
+71047		Northern Mariana Islands
+71048		Palau
+71049		Pacific Trust Terr, ns
+71050		Clipperton Island
+71090		Oceania, ns/nec
+80000		Antarctica, ns/nec
+80010		Bouvet Islands
+80020		British Antarctic Terr.
+80030		Dronning Maud Land
+80040		French Southern and Antarctic Lands
+80050		Heard and McDonald Islands
+90000		Abroad (unknown) or at sea
+90010		Abroad, ns
+90011		Abroad (US citizen)
+90020		At sea
+90021		At sea (US citizen)
+90022		At sea or abroad (U.S. citizen)
+		Other unknowns:
+95000		Other n.e.c.
+99700		Unknown
+99800		Illegible
+99900		Missing/blank
+
+ NATIVITY		Foreign birthplace or parentage
+0		N/A
+		Native-Born
+1		Native born, and both parents native born
+2		Native born, and father foreign, mother native
+3		Native born, and mother foreign, father native
+4		Native born, and both parents foreign
+5		Foreign born
+
+ CITIZEN		Citizenship status
+0		N/A
+1		Born abroad of American parents
+2		Naturalized citizen
+3		Not a citizen
+4		Not a citizen, but has received first papers
+5		Foreign born, citizenship status not reported
+
+ MTONGUE		Mother tongue [general version]
+00		N/A or blank
+01		English
+02		German
+03		Yiddish, Jewish
+04		Dutch
+05		Swedish
+06		Danish
+07		Norwegian
+08		Icelandic
+09		Scandinavian
+10		Italian
+11		French
+12		Spanish
+13		Portuguese
+14		Rumanian
+15		Celtic
+16		Greek
+17		Albanian
+18		Russian
+19		Ukrainian
+20		Czech
+21		Polish
+22		Slovak
+23		Serbo-Croatian, Yugoslavian
+24		Slovene
+25		Lithuanian
+26		Other Balto-Slavic
+27		Slavic unknown
+28		Armenian
+29		Persian, Iranian, Farsi
+30		Other Persian dialects
+31		Hindi and related
+32		Romany, Gypsy
+33		Finnish
+34		Magyar, Hungarian
+35		Uralic
+36		Turkish
+37		Other Altaic
+38		Caucasian, Gerogian, Avar
+39		Basque
+40		Dravidian
+41		Kurukh
+42		Burushaski
+43		Chinese
+44		Tibetan
+45		Burmese, Lisu, Lolo
+46		Kachin
+47		Thai, Siamese, Lao
+48		Japanese
+49		Korean
+50		Vietnamese
+51		Other East/Southeast Asian
+52		Indonesian
+53		Other Malayan
+54		Filipino, Tagalog
+55		Micronesian, Polynesian
+56		Hawaiian
+57		Arabic
+58		Near East Arabic dialect
+59		Hebrew, Israeli
+60		Amharic, Ethiopian
+61		Hamitic
+63		Nilotic
+64		African, ns
+70		American Indian (all)
+71		Aleut, Eskimo
+72		Algonquian
+73		Salish, Flathead
+74		Athapascan
+75		Navajo
+76		Penutian-Sahaptin
+77		Mountain Maidu, Maidu
+78		Zuni
+79		Yuman
+80		Achumawi
+81		Siouan languages
+82		Muskogean
+83		Keres
+84		Iroquoian
+85		Caddoan
+86		Shoshonean/Hopi
+87		Pima/Papago
+88		Yaqui
+89		Aztecan, Nahuatl, Uto-Aztecan
+90		Tanoan languages
+91		Wiyot
+92		Mayan languages
+93		American Indian, n.s.
+94		Native
+96		Other or not reported
+97		Unknown
+99		Not reported, blank
+
+ MTONGUED		Mother tongue [detailed version]
+0000		N/A or blank
+0100		English
+0110		Jamaican Creole
+0120		Krio, Pidgin Krio
+0130		Hawaiian Pidgin
+0140		Pidgin
+0150		Gullah, Geechee
+0160		Saramacca
+0200		German
+0210		Austrian
+0220		Swiss
+0230		Luxembourgian
+0240		Pennsylvania Dutch
+0300		Yiddish, Jewish
+0310		Jewish
+0320		Yiddish
+0400		Dutch
+0410		Dutch, Flemish, Belgian
+0420		Afrikaans
+0430		Frisian
+0440		Dutch, Afrikaans, Frisian
+0450		Belgian, Flemish
+0460		Belgian
+0470		Flemish
+0500		Swedish
+0600		Danish
+0700		Norwegian
+0800		Icelandic
+0810		Faroese
+0900		Scandinavian
+1000		Italian
+1010		Rhaeto-Romanic, Ladin
+1020		Friulian
+1030		Romansh
+1100		French
+1110		French, Walloon
+1120		Provencal
+1130		Patois
+1140		French or Haitian Creole
+1150		Cajun
+1200		Spanish
+1210		Catalonian, Valencian
+1220		Ladino, Sefaradit, Spanol
+1230		Pachuco
+1240		Papia Mentae
+1250		Mexican
+1300		Portuguese
+1400		Rumanian
+1500		Celtic
+1510		Welsh, Breton, Cornish
+1520		Welsh
+1530		Breton
+1540		Irish Gaelic, Gaelic
+1550		Gaelic
+1560		Irish
+1570		Scottish Gaelic
+1580		Scotch
+1590		Manx, Manx Gaelic
+1600		Greek
+1700		Albanian
+1800		Russian
+1810		Russian, Great Russian
+1811		Great Russian
+1820		Bielo-, White Russian
+1900		Ukrainian
+1910		Ruthenian
+1920		Little Russian
+1930		Ukrainian
+2000		Czech
+2010		Bohemian
+2020		Moravian
+2100		Polish
+2110		Kashubian, Slovincian
+2200		Slovak
+2300		Serbo-Croatian, Yugoslavian, Slavonian
+2310		Croatian
+2320		Serbian
+2330		Dalmatian, Montenegrin
+2331		Dalmatian
+2332		Montenegrin
+2400		Slovene
+2500		Lithuanian
+2510		Lettish
+2600		Other Balto-Slavic
+2610		Bulgarian
+2620		Lusatian, Sorbian, Wendish
+2621		Wendish
+2630		Macedonian
+2700		Slavic unknown
+2800		Armenian
+2900		Persian, Iranian, Farsi
+2910		Persian
+		Other Persian dialects:
+3000		Other Persian dialects
+3010		Pashto, Afghan
+3020		Kurdish
+3030		Balochi
+3040		Tadzhik
+3050		Ossete
+3100		Hindi and related
+3101		Hindi, Hindustani, Indic, Jaipuri, Pali, Urdu
+3102		Hindi, Hindustani, Urdu
+3103		Hindu
+		Other Indo-Aryan:
+3110		Other Indo-Aryan
+3111		Sanskrit
+3112		Bengali
+3113		Panjabi
+3114		Marathi
+3115		Gujarathi
+3116		Bihari
+3117		Rajasthani
+3118		Oriya
+3119		Assamese
+3120		Kashmiri
+3121		Sindhi
+3122		Maldivian
+3123		Sinhalese
+3130		Kannada
+3140		India nec
+3150		Pakistan nec
+3190		Georgian
+3200		Romany, Gypsy
+3210		Gypsy
+3300		Finnish
+3400		Magyar, Hungarian
+3401		Magyar
+3402		Hungarian
+3500		Uralic
+3510		Estonian, Ingrian, Livonian, Vepsian, Votic
+3511		Estonian
+3520		Lapp, Inari, Kola, Lule, Pite, Ruija, Skolt, Ume
+3521		Lappish
+3530		Other Uralic
+3600		Turkish
+3700		Other Altaic
+3701		Chuvash
+3702		Karakalpak
+3703		Kazakh
+3704		Kirghiz
+3705		Karachay, Tatar, Balkar, Bashkir, Kumyk
+3706		Uzbek, Uighur-40
+3707		Azerbaijani
+3708		Turkmen
+3709		Yakut
+3710		Mongolian
+3711		Tungus
+3800		Caucasian, Georgian, Avar
+3810		Georgian
+3900		Basque
+4000		Dravidian
+4001		Brahui
+4002		Gondi
+4003		Telugu
+4004		Malayalam
+4005		Tamil
+4010		Bhili
+4011		Nepali
+4100		Kurukh
+4110		Munda
+4200		Burushaski
+4300		Chinese
+4301		Chinese, Cantonese, Min, Yueh
+4302		Cantonese, Yueh
+4303		Mandarin
+		Other Chinese:
+4310		Other Chinese
+4311		Hakka, Fukien, Kechia
+4312		Kan, Nan Chang
+4313		Hsiang, Chansa, Hunan, Iyan
+4314		Fuchow, Min Pei
+4315		Wu
+4400		Tibetan
+4410		Miao-Yao
+4420		Miao, Hmong
+4500		Burmese, Lisu, Lolo
+4510		Karen
+4600		Kachin
+4700		Thai, Siamese, Lao
+4710		Thai
+4720		Laotian
+4800		Japanese
+4900		Korean
+5000		Vietnamese
+		Other East/Southeast Asian:
+5100		Other East/Southeast Asian
+5110		Ainu
+5120		Mon-Khmer, Cambodian
+5130		Siberian, n.e.c.
+5140		Yukagir
+5150		Muong
+5200		Indonesian
+5210		Buginese
+5220		Moluccan
+5230		Achinese
+5240		Balinese
+5250		Cham
+5260		Madurese
+5270		Malay
+5280		Minangkabau
+5290		Other Asian languages
+		Other Malayan:
+5300		Other Malayan
+5310		Formosan, Taiwanese
+5320		Javanese
+5330		Malagasy
+5340		Sundanese
+5400		Filipino, Tagalog
+5410		Bisayan
+5420		Sebuano
+5430		Pangasinan
+5440		Ilocano
+5450		Bikol
+5460		Pampangan
+5470		Gorontalo
+5480		Palau
+		Micronesian, Polynesian:
+5500		Micronesian, Polynesian
+5501		Micronesian
+5502		Carolinian
+5503		Chamorro, Guamanian
+5504		Gilbertese
+5505		Kusaiean
+5506		Marshallese
+5507		Mokilese
+5508		Mortlockese
+5509		Nauruan
+5510		Ponapean
+5511		Trukese
+5512		Ulithean, Fais
+5513		Woleai-Ulithi
+5514		Yapese
+5520		Melanesian
+5521		Polynesian
+5522		Samoan
+5523		Tongan
+5524		Niuean
+5525		Tokelauan
+5526		Fijian
+5527		Marquesan
+5528		Rarotongan
+5529		Maori
+5530		Nukuoro, Kapingarangan
+5590		Other Pacific Island languages
+5600		Hawaiian
+5700		Arabic
+5710		Algerian, Moroccan, Tunisian
+5720		Egyptian
+5730		Iraqi, Chaldean-70
+5740		Libyan
+5750		Maltese
+5800		Near East Arabic dialect
+5810		Syriac, Aramaic, Chaldean-40
+5820		Syrian
+5900		Hebrew, Israeli
+6000		Amharic, Ethiopian, etc.
+		Hamitic
+6100		Hamitic
+6110		Berber
+6120		Chadic, Hamitic, Hausa
+6130		Cushite, Beja, Somali
+		Sub-Saharan Africa:
+6300		Nilotic
+6301		Nilo-Hamitic
+6302		Nubian
+6303		Saharan
+6304		Nilo-Saharan, Fur, Songhai
+6305		Khoisan
+6306		Sudanic
+6307		Bantu (many subheads)
+6308		Swahili
+6309		Mande
+6310		Fulani
+6311		Gur
+6312		Kru
+6313		Efik, Ibibio, Tiv
+6314		Mbum, Gbaya, Sango, Zande
+		Sub-Saharan Africa (1960, 1970 only):
+6320		Eastern Sudanic and Khoisan
+6321		Niger-Congo regions (many subheads)
+6322		Congo, Kongo, Luba, Ruanda, Rundi, Santali, Swahili
+6390		Other specified African languages
+6400		African, n.s.
+7000		American Indian (all)
+7100		Aleut, Eskimo
+7110		Aleut
+7120		Pacific Gulf Yupik
+7130		Eskimo
+7140		Inupik, Innuit
+7150		St. Lawrence Isl. Yupik
+7160		Yupik
+7200		Algonquian
+7201		Arapaho
+7202		Atsina, Gros Ventre
+7203		Blackfoot
+7204		Cheyenne
+7205		Cree
+7206		Delaware, Lenni-Lenape
+7207		Fox, Sac
+7208		Kickapoo
+7209		Menomini
+7210		Metis, French Cree
+7211		Miami
+7212		Micmac
+7213		Ojibwa, Chippewa
+7214		Ottawa
+7215		Passamaquoddy, Malecite
+7216		Penobscot
+7217		Abnaki
+7218		Potawatomi
+7219		Shawnee
+7300		Salish, Flathead
+7301		Lower Chehalis
+7302		Upper Chehalis, Chelalis, Satsop
+7303		Clallam
+7304		Coeur dAlene, Skitsamish
+7305		Columbia, Chelan, Wenatchee
+7306		Cowlitz
+7307		Nootsack
+7308		Okanogan
+7309		Puget Sound Salish
+7310		Quinault, Queets
+7311		Tillamook
+7312		Twana
+7313		Kalispel
+7314		Spokane
+7400		Athapascan
+7401		Ahtena
+7402		Han
+7403		Ingalit
+7404		Koyukon
+7405		Kuchin
+7406		Upper Kuskokwim
+7407		Tanaina
+7408		Tanana, Minto
+7409		Tanacross
+7410		Upper Tanana, Nabesena, Tetlin
+7411		Tutchone
+7412		Chasta Costa, Chetco, Coquille, Smith River Athapascan
+7413		Hupa
+7420		Apache
+7421		Jicarilla, Lipan
+7422		Chiricahua, Mescalero
+7423		San Carlos, Cibecue, White Mountain
+7424		Kiowa-Apache
+7430		Kiowa
+7440		Eyak
+7450		Other Athapascan-Eyak, Cahto, Mattole, Wailaki
+7490		Other Algonquin languages
+7500		Navajo
+		Penutian-Sahaptin
+7600		Penutian-Sahaptin
+7610		Klamath, Modoc
+7620		Nez Perce
+7630		Sahaptian, Celilo, Klikitat, Palouse, Tenino, Umatilla, Warm Springs, Yakima
+		Other Penutian:
+7700		Mountain Maidu, Maidu
+7701		Northwest Maidu, Concow
+7702		Southern Maidu, Nisenan
+7703		Coast Miwok, Bodega, Marin
+7704		Plains Miwok
+7705		Sierra Miwok, Miwok
+7706		Nomlaki, Tehama
+7707		Patwin, Colouse, Suisun
+7708		Wintun
+7709		Foothill North Yokuts
+7710		Tachi
+7711		Santiam, Calapooya, Wapatu
+7712		Siuslaw, Coos, Lower Umpqua
+7713		Tsimshian
+7714		Upper Chinook, Clackamas, Multnomah, Wasco, Wishram
+7715		Chinook Jargon
+7800		Zuni
+		Hokan languages:
+7900		Yuman
+7910		Upriver Yuman
+7920		Cocomaricopa
+7930		Mohave
+7940		Diegueno
+7950		Delta River Yuman
+7960		Upland Yuman
+7970		Havasupai
+7980		Walapai
+7990		Yavapai
+8000		Achumawi
+8010		Atsugewi
+8020		Karok
+8030		Pomo
+8040		Shastan
+8050		Washo
+8060		Chumash
+		Siouan languages:
+8100		Siouan languages:
+8101		Crow, Absaroke
+8102		Hidatsa
+8103		Mandan
+8104		Dakota, Lakota, Nakota, Sioux
+8105		Chiwere
+8106		Winnebago
+8107		Kansa, Kaw
+8108		Omaha
+8109		Osage
+8110		Ponca
+8111		Quapaw, Arkansas
+8120		Iowa
+8200		Muskogean
+8210		Alabama
+8220		Choctaw, Chickasaw
+8230		Mikasuki
+8240		Hichita, Apalachicola
+8250		Koasati
+8260		Muskogee, Creek, Seminole
+8300		Keres
+8400		Iroquoian
+8410		Mohawk
+8420		Oneida
+8430		Onondaga
+8440		Cayuga
+8450		Seneca
+8460		Tuscarora
+8470		Wyandot, Huron
+8480		Cherokee
+8500		Caddoan
+8510		Arikara
+8520		Pawnee
+8530		Wichita
+		Uto-Aztecan languages:
+		Shoshonean/Hopi:
+8600		Shoshonean/Hopi:
+8601		Comanche
+8602		Mono, Owens Valley Paiute
+8603		Paiute
+8604		Northern Paiute, Bannock, Num, Snake
+8605		Southern Paiute
+8606		Chemehuevi
+8607		Kawaiisu
+8608		Ute
+8609		Shoshoni
+8610		Panamint
+8620		Hopi
+8630		Cahuilla
+8631		Cupeno
+8632		Luiseno
+8633		Serrano
+8640		Tubatulabal
+		Sonoran languages:
+8700		Pima, Papago
+8800		Yaqui
+8810		Sonoran n.e.c., Cahita, Guassave, Huichole, Nayit, Tarahumar
+		Sonoran, n.e.c.:
+8820		Tarahumara
+		Other Uto-Aztecan:
+8900		Aztecan, Nahuatl, Uto-Aztecan
+8910		Aztecan, Mexicano, Nahua
+		Tanoan languages:
+9000		Tanoan languages
+9010		Picuris, Northern Tiwa, Taos
+9020		Tiwa, Isleta
+9030		Sandia
+9040		Tewa, Hano, Hopi-Tewa, San Ildefonso, San Juan, Santa Clara
+9050		Towa
+		Other Indian languages:
+9100		Wiyot
+9101		Yurok
+9110		Kwakiutl
+9111		Nootka
+9112		Makah
+9120		Kutenai
+9130		Haida
+9131		Tlingit, Chilkat, Sitka, Tongass, Yakutat
+9140		Tonkawa
+9150		Yuchi
+9160		Chetemacha
+9170		Yuki
+9171		Wappo
+9200		Mayan languages
+9210		Misumalpan
+9211		Cakchiquel
+9212		Mam
+9213		Maya
+9214		Quekchi
+9215		Quiche
+9220		Tarascan
+		Mapuche
+9230		Mapuche
+9231		Araucanian
+		Oto-Manguen
+9240		Oto-Manguen
+9241		Mixtec
+9242		Zapotec
+9250		Quechua
+9260		Aymara
+		Arawakian
+9270		Arawakian
+9271		Island Caribs
+		Chibchan
+9280		Chibchan
+9281		Cuna
+9282		Guaymi
+		Tupi-Guarani
+9290		Tupi-Guarani
+9291		Tupi
+9292		Guarani
+9300		American Indian, n.s.
+9400		Native
+9410		Other specified American Indian languages
+9420		South/Central American Indian
+9500		No language
+9600		Other or not reported
+9601		Other n.e.c.
+9602		Other n.s.
+9700		Unknown
+9900		Not reported, blank
+9999		
+
+ SPANNAME		Spanish surname
+0		N/A
+1		No, not Spanish surname
+2		Yes, Spanish surname
+9		Not reported
+
+ HISPRULE		Hispanic origin rule
+0		Not assigned as Hispanic
+1		Birthplace is Hispanic
+2		Parental birthplace is Hispanic
+3		Grandparental birthplace is Hispanic
+4		Spouse is Hispanic
+5		Related HH head is Hispanic
+6		Spanish surname
+7		Spouse has Spanish surname
+8		Related HH head has Spanish surname
+
+ SCHOOL		School attendance
+0		N/A
+1		No, not in school
+2		Yes, in school
+9		Missing
+
+ HIGRADE		Highest grade of schooling [general version]
+00		N/A  (or None, 1980)
+01		None
+02		Nursery school
+03		Kindergarten
+		Elementary school:
+04		1st grade
+05		2nd grade
+06		3rd grade
+07		4th grade
+08		5th grade
+09		6th grade
+10		7th grade
+11		8th grade
+		High school:
+12		9th grade
+13		10th grade
+14		11th grade
+15		12th grade
+		College:
+16		1st year
+17		2nd year
+18		3rd year
+19		4th year
+20		5th year or more (40-50)
+21		6th year or more (60,70)
+22		7th year
+23		8th year or more
+
+ HIGRADED		Highest grade of schooling [detailed version]
+000		N/A
+010		None
+011		Did not finish nurs sch
+012		Attending nurs sch
+020		Nursery school
+021		Did not finish kindergart
+022		Attending kindergarten
+030		Kindergarten
+031		Did not finish 1st grade
+032		Attending 1st grade
+		Elementary school:
+040		1st grade
+041		Did not finish 2nd grade
+042		Attending 2nd grade
+050		2nd grade
+051		Did not finish 3rd grade
+052		Attending 3rd grade
+060		3rd grade
+061		Did not finish 4th grade
+062		Attending 4th grade
+070		4th grade
+071		Did not finish 5th grade
+072		Attending 5th grade
+080		5th grade
+081		Did not finish 6th grade
+082		Attending 6th grade
+090		6th grade
+091		Did not finish 7th grade
+092		Attending 7th grade
+100		7th grade
+101		Did not finish 8th grade
+102		Attending 8th grade
+110		8th grade
+111		Did not finish 9th grade
+112		Attending 9th grade
+		High school:
+120		9th grade
+121		Did not finish 10th grade
+122		Attending 10th grade
+130		10th grade
+131		Did not finish 11th grade
+132		Attending 11th grade
+140		11th grade
+141		Did not finish 12th grade
+142		Attending 12th grade
+150		12th grade
+151		Did not finish 1st year college
+152		Attending 1st yesr college
+		College:
+160		1st year of college
+161		Did not finish 2nd year of college
+162		Attending 2nd year of college
+170		2nd year of college
+171		Did not finish 3rd year of college
+172		Attending 3rd year of college
+180		3rd year of college
+181		Did not finish 4th year of college
+182		Attending 4th year of college
+190		4th year of college
+191		Did not finish 5th year of college
+192		Attending 5th year of college
+200		5th year or more of college (1940, 50)
+201		Did not finish 6th year of college
+202		Attending 6th year of college
+210		6th year or more of college (1960,70)
+211		Did not finish 7th year of college
+212		Attending 7th year of college
+220		7th year of college
+221		Did not finish 8th year of college
+222		Attending 8th year of college
+230		8th year or more of college
+999		Missing
+
+ EDUC		Educational attainment [general version]
+00		N/A or no schooling
+01		Nursery school to grade 4
+02		Grade 5, 6, 7, or 8
+03		Grade 9
+04		Grade 10
+05		Grade 11
+06		Grade 12
+07		1 year of college
+08		2 years of college
+09		3 years of college
+10		4 years of college
+11		5+ years of college
+
+ EDUCD		Educational attainment [detailed version]
+000		N/A or no schooling
+001		N/A
+002		No schooling completed
+010		Nursery school to grade 4
+011		Nursery school, preschool
+012		Kindergarten
+013		Grade 1, 2, 3, or 4
+014		Grade 1
+015		Grade 2
+016		Grade 3
+017		Grade 4
+020		Grade 5, 6, 7, or 8
+021		Grade 5 or 6
+022		Grade 5
+023		Grade 6
+024		Grade 7 or 8
+025		Grade 7
+026		Grade 8
+030		Grade 9
+040		Grade 10
+050		Grade 11
+060		Grade 12
+061		12th grade, no diploma
+062		High school graduate or GED
+063		Regular high school diploma
+064		GED or alternative credential
+065		Some college, but less than 1 year
+070		1 year of college
+071		1 or more years of college credit, no degree
+080		2 years of college
+081		Associate's degree, type not specified
+082		Associate's degree, occupational program
+083		Associate's degree, academic program
+090		3 years of college
+100		4 years of college
+101		Bachelor's degree
+110		5+ years of college
+111		6 years of college (6+ in 1960-1970)
+112		7 years of college
+113		8+ years of college
+114		Master's degree
+115		Professional degree beyond a bachelor's degree
+116		Doctoral degree
+999		Missing
+
+ EMPSTAT		Employment status [general version]
+0		N/A
+1		Employed
+2		Unemployed
+3		Not in labor force
+
+ EMPSTATD		Employment status [detailed version]
+00		N/A
+		In Labor Force
+		Employed
+10		At work
+11		At work, public emerg
+12		Has job, not working
+13		Armed forces
+14		Armed forces--at work
+15		Armed forces--not at work but with job
+20		Unemployed
+21		Unemp, exper worker
+22		Unemp, new worker
+30		Not in Labor Force
+31		NILF, housework
+32		NILF, unable to work
+33		NILF, school
+34		NILF, other
+
+ LABFORCE		Labor force status
+0		N/A
+1		No, not in the labor force
+2		Yes, in the labor force
+
+ OCC1950		Occupation, 1950 basis
+		Professional, Technical:
+000		Accountants and auditors
+001		Actors and actresses
+002		Airplane pilots and navigators
+003		Architects
+004		Artists and art teachers
+005		Athletes
+006		Authors
+007		Chemists
+008		Chiropractors
+009		Clergymen
+010		College presidents and deans
+		Professors and instructors:
+012		Agricultural sciences-Professors and instructors
+013		Biological sciences-Professors and instructors
+014		Chemistry-Professors and instructors
+015		Economics-Professors and instructors
+016		Engineering-Professors and instructors
+017		Geology and geophysics-Professors and instructors
+018		Mathematics-Professors and instructors
+019		Medical Sciences-Professors and instructors
+023		Physics-Professors and instructors
+024		Psychology-Professors and instructors
+025		Statistics-Professors and instructors
+026		Natural science (nec)-Professors and instructors
+027		Social sciences (nec)-Professors and instructors
+028		Non-scientific subjects-Professors and instructors
+029		Subject not specified-Professors and instructors
+031		Dancers and dancing teachers
+032		Dentists
+033		Designers
+034		Dietitians and nutritionists
+035		Draftsmen
+036		Editors and reporters
+041		Aeronautical-Engineers
+042		Chemical-Engineers
+043		Civil-Engineers
+044		Electrical-Engineers
+045		Industrial-Engineers
+046		Mechanical-Engineers
+047		Metallurgical, metallurgists-Engineers
+048		Mining-Engineers
+049		Engineers (nec)
+051		Entertainers (nec)
+052		Farm and home management advisors
+053		Foresters and conservationists
+054		Funeral directors and embalmers
+055		Lawyers and judges
+056		Librarians
+057		Musicians and music teachers
+058		Nurses, professional
+059		Nurses, student professional
+061		Agricultural scientists
+062		Biological scientists
+063		Geologists and geophysicists
+067		Mathematicians
+068		Physicists
+069		Misc. natural scientists
+070		Optometrists
+071		Osteopaths
+072		Personnel and labor relations workers
+073		Pharmacists
+074		Photographers
+075		Physicians and surgeons
+076		Radio operators
+077		Recreation and group workers
+078		Religious workers
+079		Social and welfare workers, except group
+081		Economists
+082		Psychologists
+083		Statisticians and actuaries
+084		Misc social scientists
+091		Sports instructors and officials
+092		Surveyors
+093		Teachers (n.e.c.)
+094		Medical and dental-technicians
+095		Testing-technicians
+096		Technicians (nec)
+097		Therapists and healers (nec)
+098		Veterinarians
+099		Professional, technical and kindred workers (nec)
+		Farmers:
+100		Farmers (owners and tenants)
+123		Farm managers
+		Managers, Officials, and Proprietors:
+200		Buyers and dept heads, store
+201		Buyers and shippers, farm products
+203		Conductors, railroad
+204		Credit men
+205		Floormen and floor managers, store
+210		Inspectors, public administration
+230		Managers and superintendants, building
+240		Officers, pilots, pursers and engineers, ship
+250		Officials and administratators (nec), public administration
+260		Officials, lodge, society, union, etc.
+270		Postmasters
+280		Purchasing agents and buyers (nec)
+290		Managers, officials, and proprietors (nec)
+		Clerical and Kindred
+300		Agents (nec)
+301		Attendants and assistants, library
+302		Attendants, physicians and dentists office
+304		Baggagemen, transportation
+305		Bank tellers
+310		Bookkeepers
+320		Cashiers
+321		Collectors, bill and account
+322		Dispatchers and starters, vehicle
+325		Express messengers and railway mail clerks
+335		Mail carriers
+340		Messengers and office boys
+341		Office machine operators
+342		Shipping and receiving clerks
+350		Stenographers, typists, and secretaries
+360		Telegraph messengers
+365		Telegraph operators
+370		Telephone operators
+380		Ticket, station, and express agents
+390		Clerical and kindred workers (n.e.c.)
+		Sales workers:
+400		Advertising agents and salesmen
+410		Auctioneers
+420		Demonstrators
+430		Hucksters and peddlers
+450		Insurance agents and brokers
+460		Newsboys
+470		Real estate agents and brokers
+480		Stock and bond salesmen
+490		Salesmen and sales clerks (nec)
+		Craftsmen:
+500		Bakers
+501		Blacksmiths
+502		Bookbinders
+503		Boilermakers
+504		Brickmasons,stonemasons, and tile setters
+505		Cabinetmakers
+510		Carpenters
+511		Cement and concrete finishers
+512		Compositors and typesetters
+513		Cranemen,derrickmen, and hoistmen
+514		Decorators and window dressers
+515		Electricians
+520		Electrotypers and stereotypers
+521		Engravers, except photoengravers
+522		Excavating, grading, and road machinery operators
+523		Foremen (nec)
+524		Forgemen and hammermen
+525		Furriers
+530		Glaziers
+531		Heat treaters, annealers, temperers
+532		Inspectors, scalers, and graders log and lumber
+533		Inspectors (nec)
+534		Jewelers, watchmakers, goldsmiths, and silversmiths
+535		Job setters, metal
+540		Linemen and servicemen, telegraph, telephone, and power
+541		Locomotive engineers
+542		Locomotive firemen
+543		Loom fixers
+544		Machinists
+545		Airplane-mechanics and repairmen
+550		Automobile-mechanics and repairmen
+551		Office machine-mechanics and repairmen
+552		Radio and television-mechanics and repairmen
+553		Railroad and car shop-mechanics and repairmen
+554		Mechanics and repairmen (nec)
+555		Millers, grain, flour, feed, etc
+560		Millwrights
+561		Molders, metal
+562		Motion picture projectionists
+563		Opticians and lens grinders and polishers
+564		Painters, construction and maintenance
+565		Paperhangers
+570		Pattern and model makers, except paper
+571		Photoengravers and lithographers
+572		Piano and organ tuners and repairmen
+573		Plasterers
+574		Plumbers and pipe fitters
+575		Pressmen and plate printers, printing
+580		Rollers and roll hands, metal
+581		Roofers and slaters
+582		Shoemakers and repairers, except factory
+583		Stationary engineers
+584		Stone cutters and stone carvers
+585		Structural metal workers
+590		Tailors and tailoresses
+591		Tinsmiths, coppersmiths, and sheet metal workers
+592		Tool makers, and die makers and setters
+593		Upholsterers
+594		Craftsmen and kindred workers (nec)
+595		Members of the armed services
+		Operatives:
+600		Auto mechanics apprentice
+601		Bricklayers and masons apprentice
+602		Carpenters apprentice
+603		Electricians apprentice
+604		Machinists and toolmakers apprentice
+605		Mechanics, except auto apprentice
+610		Plumbers and pipe fitters apprentice
+611		Apprentices, building trades (nec)
+612		Apprentices, metalworking trades (nec)
+613		Apprentices, printing  trades
+614		Apprentices, other specified trades
+615		Apprentices, trade not specified
+620		Asbestos and insulation workers
+621		Attendants, auto service and parking
+622		Blasters and powdermen
+623		Boatmen, canalmen, and lock keepers
+624		Brakemen, railroad
+625		Bus drivers
+630		Chainmen, rodmen, and axmen, surveying
+631		Conductors, bus and street railway
+632		Deliverymen and routemen
+633		Dressmakers and seamstresses, except factory
+634		Dyers
+635		Filers, grinders, and polishers, metal
+640		Fruit, nut, and vegetable graders, and packers, except facto
+641		Furnacemen, smeltermen and pourers
+642		Heaters, metal
+643		Laundry and dry cleaning Operatives
+644		Meat cutters, except slaughter and packing house
+645		Milliners
+650		Mine operatives and laborers
+660		Motormen, mine, factory, logging camp, etc
+661		Motormen, street, subway, and elevated railway
+662		Oilers and greaser, except auto
+670		Painters, except construction or maintenance
+671		Photographic process workers
+672		Power station operators
+673		Sailors and deck hands
+674		Sawyers
+675		Spinners, textile
+680		Stationary firemen
+681		Switchmen, railroad
+682		Taxicab drivers and chauffeurs
+683		Truck and tractor drivers
+684		Weavers, textile
+685		Welders and flame cutters
+690		Operative and kindred workers (nec)
+		Service Workers (private household):
+700		Housekeepers, private household
+710		Laundresses, private household
+720		Private household workers (nec)
+		Service Workers (not household):
+730		Attendants, hospital and other institution
+731		Attendants, professional and personal service (nec)
+732		Attendants, recreation and amusement
+740		Barbers, beauticians, and manicurists
+750		Bartenders
+751		Bootblacks
+752		Boarding and lodging house keepers
+753		Charwomen and cleaners
+754		Cooks, except private household
+760		Counter and fountain workers
+761		Elevator operators
+762		Firemen, fire protection
+763		Guards, watchmen, and doorkeepers
+764		Housekeepers and stewards, except private household
+770		Janitors and sextons
+771		Marshals and constables
+772		Midwives
+773		Policemen and detectives
+780		Porters
+781		Practical nurses
+782		Sheriffs and bailiffs
+783		Ushers, recreation and amusement
+784		Waiters and waitresses
+785		Watchmen (crossing) and bridge tenders
+790		Service workers, except private household (nec)
+		Farm Laborers:
+810		Farm foremen
+820		Farm laborers, wage workers
+830		Farm laborers, unpaid family workers
+840		Farm service laborers, self-employed
+		Laborers:
+910		Fishermen and oystermen
+920		Garage laborers and car washers and greasers
+930		Gardeners, except farm and groundskeepers
+940		Longshoremen and stevedores
+950		Lumbermen, raftsmen, and woodchoppers
+960		Teamsters
+970		Laborers (nec)
+979		Not yet classified
+		Non-occupational response:
+980		Keeps house/housekeeping at home/housewife
+981		Imputed keeping house (1850-1900)
+982		Helping at home/helps parents/housework
+983		At school/student
+984		Retired
+985		Unemployed/without occupation
+986		Invalid/disabled w/ no occupation reported
+987		Inmate
+990		New Worker
+991		Gentleman/lady/at leisure
+995		Other non-occupation
+997		Occupation missing/unknown
+999		N/A (blank)
+
+ IND1950		Industry, 1950 basis
+000		N/A or none reported
+		Agriculture, Forestry, and Fishing:
+105		Agriculture
+116		Forestry
+126		Fisheries
+		Mining:
+206		Metal mining
+216		Coal mining
+226		Crude petroleum and natural gas extraction
+236		Nonmettalic  mining and quarrying, except fuel
+239		Mining, not specified
+		Construction:
+246		Construction
+		Manufacturing:
+		Durable Goods:
+306		Logging
+307		Sawmills, planing mills, and mill work
+308		Misc wood products
+309		Furniture and fixtures
+316		Glass and glass products
+317		Cement, concrete, gypsum and plaster products
+318		Structural clay products
+319		Pottery and related prods
+326		Misc nonmetallic mineral and stone products
+336		Blast furnaces, steel works, and rolling mills
+337		Other primary iron and steel industries
+338		Primary nonferrous industries
+346		Fabricated steel products
+347		Fabricated nonferrous metal products
+348		Not specified metal industries
+356		Agricultural machinery and tractors
+357		Office and store machines
+358		Misc machinery
+367		Electrical machinery, equipment and supplies
+376		Motor vehicles and motor vehicle equipment
+377		Aircraft and parts
+378		Ship and boat building and repairing
+379		Railroad and misc transportation equipment
+386		Professional equipment
+387		Photographic equipment and supplies
+388		Watches, clocks, and clockwork-operated devices
+399		Misc manufacturing industries
+		Nondurable Goods:
+406		Meat products
+407		Dairy products
+408		Canning and preserving fruits, vegetables, and seafoods
+409		Grain-mill products
+416		Bakery products
+417		Confectionery and related products
+418		Beverage industries
+419		Misc food preparations and kindred products
+426		Not specified food industries
+429		Tobacco manufactures
+436		Knitting mills
+437		Dyeing and finishing textiles, except knit goods
+438		Carpets, rugs, and other floor coverings
+439		Yarn, thread, and fabric
+446		Misc textile mill products
+448		Apparel and accessories
+449		Misc fabricated textile products
+456		Pulp, paper, and paper-board mills
+457		Paperboard containers and boxes
+458		Misc paper and pulp products
+459		Printing, publishing, and allied industries
+466		Synthetic fibers
+467		Drugs and medicines
+468		Paints, varnishes, and related products
+469		Misc chemicals and allied products
+476		Petroleum refining
+477		Misc petroleum and coal products
+478		Rubber products
+487		Leather: tanned, curried, and finished
+488		Footwear, except rubber
+489		Leather products, except footwear
+499		Not specified manufacturing industries
+		Transportation, Communication, and Other Utilities:
+		Transportation:
+506		Railroads and railway
+516		Street railways and bus lines
+526		Trucking service
+527		Warehousing and storage
+536		Taxicab service
+546		Water transportation
+556		Air transportation
+567		Petroleum and gasoline pipe lines
+568		Services incidental to transportation
+		Telecommunications:
+578		Telephone
+579		Telegraph
+		Utilities and Sanitary Services:
+586		Electric light and power
+587		Gas and steam supply systems
+588		Electric-gas utilities
+596		Water supply
+597		Sanitary services
+598		Other and not specified utilities
+		Wholesale and Retail Trade:
+		Wholesale Trade:
+606		Motor vehicles and equipment
+607		Drugs, chemicals, and allied products
+608		Dry goods apparel
+609		Food and related products
+616		Electrical goods, hardware, and plumbing equipment
+617		Machinery, equipment, and supplies
+618		Petroleum products
+619		Farm prods--raw materials
+626		Misc wholesale trade
+627		Not specified wholesale trade
+		Retail Trade:
+636		Food stores, except dairy
+637		Dairy prods stores and milk retailing
+646		General merchandise
+647		Five and ten cent stores
+656		Apparel and accessories stores, except shoe
+657		Shoe stores
+658		Furniture and house furnishings stores
+659		Household appliance and radio stores
+667		Motor vehicles and accessories retailing
+668		Gasoline service stations
+669		Drug stores
+679		Eating and drinking  places
+686		Hardware and farm implement stores
+687		Lumber and building material retailing
+688		Liquor stores
+689		Retail florists
+696		Jewelry stores
+697		Fuel and ice retailing
+698		Misc retail stores
+699		Not specified retail trade
+		Finance, Insurance, and Real Estate:
+716		Banking and credit
+726		Security and commodity brokerage and invest companies
+736		Insurance
+746		Real estate
+756		Real estate-insurance-law  offices
+		Business and Repair Services:
+806		Advertising
+807		Accounting, auditing, and bookkeeping services
+808		Misc business services
+816		Auto repair services and garages
+817		Misc repair services
+		Personal services:
+826		Private households
+836		Hotels and lodging places
+846		Laundering, cleaning, and dyeing
+847		Dressmaking shops
+848		Shoe repair shops
+849		Misc personal services
+		Entertainment and Recreation Services:
+856		Radio broadcasting and television
+857		Theaters and motion pictures
+858		Bowling alleys, and billiard and pool parlors
+859		Misc entertainment and recreation services
+		Professional and Related Services:
+868		Medical and other health services, except hospitals
+869		Hospitals
+879		Legal services
+888		Educational services
+896		Welfare and religious services
+897		Nonprofit membership organizs.
+898		Engineering and architectural services
+899		Misc professional and related
+		Public Administration:
+906		Postal service
+916		Federal public administration
+926		State public administration
+936		Local public administration
+946		Public Administration, level not specified
+976		Common or general laborer
+979		Not yet specified
+980		Unpaid domestic work
+982		Housework at home
+983		School response (students, etc.)
+984		Retired
+986		Sick/disabled
+987		Institution response
+		Other:
+991		Lady/Man of leisure
+995		Non-industrial response
+997		Nonclassifiable
+998		Industry not reported
+999		Blank or blank equivalent
+
+ CLASSWKR		Class of worker [general version]
+0		N/A
+1		Self-employed
+2		Works for wages
+
+ CLASSWKRD		Class of worker [detailed version]
+00		N/A
+10		Self-employed
+11		Employer
+12		Working on own account
+13		Self-employed, not incorporated
+14		Self-employed, incorporated
+20		Works for wages
+21		Works on salary (1920)
+22		Wage/salary, private
+23		Wage/salary at non-profit
+24		Wage/salary, government
+25		Federal govt employee
+26		Armed forces
+27		State govt employee
+28		Local govt employee
+29		Unpaid family worker
+
+ WKSWORK2		Weeks worked last year, intervalled
+0		N/A
+1		1-13 weeks
+2		14-26 weeks
+3		27-39 weeks
+4		40-47 weeks
+5		48-49 weeks
+6		50-52 weeks
+
+ HRSWORK2		Hours worked last week, intervalled
+0		N/A
+1		1-14 hours
+2		15-29 hours
+3		30-34 hours
+4		35-39 hours
+5		40 hours
+6		41-48 hours
+7		49-59 hours
+8		60+ hours
+
+ UOCC		Usual occupation
+		PROFESSIONAL AND SEMIPROFESSIONAL WORKERS
+		   Professional Workers
+001		      Artists and art teachers
+002		      Authors
+003		      Editors and reporters
+004		      Chemists, assayers, and metallurgists
+005		      Clergymen
+006		      College presidents, professors, and instructors
+007		      Dentists
+008		      Chemical engineers
+009		      Civil engineers
+010		      Electrical engineers
+011		      Industrial engineers
+012		      Mechanical engineers
+013		      Mining and metallurgical engineers
+014		      Lawyers and judges
+015		      Musicians and music teachers
+016		      Pharmacists
+017		      Physicians and surgeons
+018		      Teachers, n.e.c., excluding college teachers and teachers of art, dancing, miscellaneous, and athletics
+019		      Trained nurses and student nurses
+020		      Actors and actresses
+021		      Architects
+022		      County agents and farm demonstrators
+023		      Librarians
+024		      Osteopaths
+025		      Social and welfare workers
+026		      Veterinarians
+027		      Professional workers, n.e.c. 
+		   Semiprofessional Workers
+028		      Designers
+029		      Draftsmen
+030		      Funeral directors and embalmers
+031		      Photographers
+032		      Religious workers
+033		      Technicians and assistants, laboratory
+034		      Technicians, except laboratory
+035		      Athletes
+036		      Aviators
+037		      Chiropractors
+038		      Dancers, dancing teachers, and chorus girls
+039		      Healers and medical service workers, n.e.c
+040		      Optometrists
+041		      Radio and wireless operators
+042		      Showmen
+043		      Sports instructors and officials
+044		      Surveyors
+045		      Semiprofessional workers, n.e.c. 
+		FARMERS AND FARM MANAGERS
+098		      Farmers owners and tenants
+099		      Farm managers 
+		PROPRIETORS, MANAGERS, AND OFFICIALS, EXCEPT FARM
+100		      Advertising agents
+102		      Conductors--railroad
+		   Inspectors--Government
+104		      Inspectors--United States
+106		      Inspectors--state
+108		      Inspectors--city
+110		      Inspectors--county and local
+		   Public Officials, n.e.c.
+112		      Officials--United States
+114		      Officials--state
+116		      Officials--city
+118		      Officials--county and local
+		   Miscellaneous Proprietors, Managers, and Officials
+120		      Buyers and department heads--store
+122		      Country buyers and shippers of livestock and other farm products
+124		      Credit men
+126		      Floormen and floor managers--store
+128		      Managers and superintendents--building
+130		      Officers, pilots, pursers, and engineers--ship
+132		      Officials--lodge, society, union, etc.
+134		      Postmasters
+136		      Purchasing agents and buyers, n.e.c.
+156		      Proprietors, managers, and officials, n.e.c.
+		   Clerical and Kindred Workers
+200		      Agents, n.e.c.
+210		      Bookkeepers, accountants, and cashiers
+220		      "Clerks" in stores
+222		      Mail carriers
+224		      Messengers, errand, and office boys and girls
+226		      Shipping and receiving clerks
+236		      Stenographers, typists, and secretaries
+240		      Telegraph operators
+242		      Telephone operators
+244		      Ticket, station, and express agents
+246		      Attendants and assistants--library
+248		      Attendants--physicians' and dentists' offices
+250		      Baggagemen--transportation
+252		      Collectors--bill and account
+254		      Express messengers and railway mail clerks
+256		      Office machine operators
+258		      Telegraph messengers
+266		      Clerical and kindred workers, n.e.c.
+		   Salesmen and Saleswomen
+270		      Canvassers and solicitors
+272		      Hucksters and peddlars
+274		      Insurance agents and brokers
+276		      Real estate agents and brokers
+278		      Traveling salesmen and sales agents
+280		      Auctioneers
+282		      Demonstrators
+284		      Newsboys
+286		      Salesmen, finance, brokerage, and commission firms
+298		      Salesmen and saleswomen, n.e.c. 
+		CRAFTSMEN, FOREMEN, AND KINDRED WORKERS
+300		      Bakers
+302		      Blacksmiths, forgemen, and hammermen
+304		      Boilermakers
+306		      Brickmasons, stonemasons, and tile setters
+308		      Carpenters
+310		      Compositors and typesetters
+312		      Decorators and window dressers
+314		      Electricians
+316		      Foremen, n.e.c.
+318		      Inspectors, n.e.c.
+320		      Jewelers, watchmakers, goldsmiths, and silversmiths
+322		      Locomotive engineers
+324		      Locomotive firemen
+326		      Machinists
+327		      Millwrights
+328		      Tool makers, and die makers and setters
+		   Mechanics and Repairmen
+330		      Mechanics and repairmen--airplane
+332		      Mechanics and repairmen--automobile
+334		      Mechanics and repairmen--railroad and car shop
+336		      Mechanics and repairmen, n.e.c.
+338		      Molders--metal
+340		      Painters--construction and maintenance
+342		      Paperhangers
+344		      Pattern and model makers, except paper
+346		      Plasterers
+348		      Plumbers and gas and steam fitters
+350		      Roofers and slaters
+352		      Sawyers
+354		      Shoemakers and repairers--not in factory
+		   Stationary Engineers, Cranemen, Hoistmen, etc.
+356		      Stationary engineers
+358		      Cranemen, hoistmen, and construction machinery operators
+260		      Tailors and tailoresses
+362		      Tinsmiths, coppersmiths, and sheet metal workers
+364		      Upholsterers
+		   Other Craftsmen and Kindred Workers
+366		      Cabinetmakers
+368		      Cement and concrete finishers
+370		      Electrotypers and stereotypers
+372		      Engravers, except photoengravers
+374		      Furriers
+376		      Glaziers
+378		      Heat treaters, annealers, and temperers
+380		      Inspectors, scalers, and graders--log and lumber
+382		      Loom fixers
+384		      Millers--grain, flour, feed, etc.
+386		      Opticians and lens grinders and polishers
+388		      Photoengravers and lithographers
+390		      Piano and organ tuners
+392		      Pressmen and plate printers--printing
+394		      Rollers and roll hands--metal
+396		      Stonecutters and stone carvers
+398		      Structural and ornamental metal workers 
+		OPERATIVES AND KINDRED WORKERS
+400		      Carpenters' apprentices
+402		      Electricians' apprentices
+404		      Machinists' apprentices
+406		      Plumbers' apprentices
+408		      Building and hand trade apprentices, n.e.c.
+410		      Apprentices--printing trades
+412		      Apprentices--specified trades, n.e.c.
+414		      Apprentices--trades n.s.
+416		      Attendants--filling station, parking lot, garage, and airport
+418		      Brakemen--railroad
+420		      Chauffeurs and drivers, bus, taxi, truck, and tractor drivers
+430		      Conductors--bus and street railway
+432		      Deliverymen 
+434		      Dressmakers and seamstresses--not in factory
+436		      Buffers and polishers
+438		      Filers
+440		      Grinders
+442		      Firemen, except locomotive and fire department
+444		      Furnacemen, smeltermen, and pourers
+446		      Heaters-metal
+448		      Laundry operatives and laundresses --except private family
+450		      Linemen and servicemen--telegraph, telephone, and power
+452		      Meat cutters--except slaughter and packing house
+454		      Mine operatives and laborers, including laborers who extract minerals
+456		      Motormen--street, subway, and elevated railway
+458		      Painters--except construction and maintenance
+460		      Sailors and deck hands--except United States Navy
+462		      Switchmen--railroad
+464		      Welders and flame-cutters
+		   Miscellaneous Operatives and Kindred Workers
+466		      Asbestos and insulation workers
+468		      Blasters and powdermen
+470		      Boatmen, canalmen, and lock keepers
+472		      Chainmen, rodmen, and axmen--surveying
+474		      Dyers
+476		      Fruit and vegetable graders and packers--except in cannery
+478		      Milliners--not in factory
+480		      Motion picture projectionists
+482		      Motormen, vehicle--mine, factory, logging camp, etc.
+484		      Oilers, machinery
+486		      Photographic process workers
+488		      Power station operators
+496		      Operatives and kindred workers, n.e.c. 
+		DOMESTIC SERVICE WORKERS
+500		      Housekeepers--private family
+510		      Laundresses--private family
+520		      Servants--private family 
+		PROTECTIVE SERVICE WORKERS
+600		      Firemen, fire department
+602		      Guards, watchmen, and doorkeepers
+604		      Policemen and detectives--government
+606		      Policemen and detectives--except government
+608		      Soldiers, sailors, marines, and coast guards 
+610		      Marshals and constables
+612		      Sheriffs and bailiffs
+614		      Watchmen, crossing and bridge tenders 
+		SERVICE WORKERS, EXCEPT DOMESTIC AND PROTECTIVE
+700		      Barbers, beauticians, and manicurists
+710		      Bartenders
+712		      Boarding house and lodging house keepers
+714		      Charwomen and cleaners
+720		      Cooks--except private family
+730		      Elevator operators
+732		      Housekeepers, stewards, and hostesses--except private family
+740		      Janitors and sextons
+750		      Porters
+760		      Practical nurses and midwives
+770		      Servants--except private family
+780		      Waiters and waitresses--except private family
+		   Miscellaneous Service Workers--Except Domestic and Protective
+790		      Attendants--hospital and other institution
+792		      Attendants--professional and personal service, n.e.c.
+794		      Attendants--recreation and amusement
+796		      Bootblacks
+798		      Ushers--amusement place or assembly 
+		FARM LABORERS AND FOREMEN
+844		      Farm foremen
+866		      Farm laborers--wage workers
+888		      Farm laborers--unpaid family workers 
+		LABORERS, EXCEPT FARM
+900		      Fishermen and oystermen
+902		      Garage laborers and car washers and greasers
+904		      Gardeners--except farm and groundskeepers
+906		      Longshoremen and stevedores
+908		      Lumbermen, raftsmen, and woodchoppers
+910		      Teamsters
+988		      Laborers, n.e.c. 
+		NONCLASSIFIABLE
+995		      None, etc.
+996		      Non-Occupation Response
+997		      Blank
+998		      Nonclassifiable occupation
+999		      N/A
+
+ UOCC95		Usual occupation, 1950 classification
+		Professional, Technical:
+000		   Accountants and auditors
+001		   Actors and actresses
+002		   Airplane pilots and navigators
+003		   Architects
+004		   Artists and art teachers
+005		   Athletes
+006		   Authors
+007		   Chemists
+008		   Chiropractors
+009		   Clergymen
+010		   College presidents and deans
+		   Professors and instructors:
+012		      Agricultural sciences
+013		      Biological sciences
+014		      Chemistry
+015		      Economics
+016		      Engineering
+017		      Geology and geophysics
+018		      Mathematics
+019		      Medical sciences
+023		      Physics
+024		      Psychology
+025		      Statistics
+026		      Natural science (n.e.c.)
+027		      Social sciences (n.e.c.)
+028		      Nonscientific subjects
+029		      Professors and instructors, subject not specified
+031		   Dancers and dancing teachers
+032		   Dentists
+033		   Designers
+034		   Dieticians and nutritionists
+035		   Draftsmen
+036		   Editors and reporters
+041		   Engineers, aeronautical
+042		   Engineers, chemical
+043		   Engineers, civil
+044		   Engineers, electrical
+045		   Engineers, industrial
+046		   Engineers, mechanical
+047		   Engineers, metallurgical, metallurgists
+048		   Engineers, mining
+049		   Engineers (n.e.c.)
+051		   Entertainers (n.e.c.)
+052		   Farm and home management advisors
+053		   Foresters and conservationists
+054		   Funeral directors and embalmers
+055		   Lawyers and judges
+056		   Librarians
+057		   Musicians and music teachers
+058		   Nurses, professional
+059		   Nurses, student professional
+061		   Agricultural scientists
+062		   Biological scientists
+063		   Geologists and geophysicists
+067		   Mathematicians
+068		   Physicists
+069		   Miscellaneous natural scientists
+070		   Optometrists
+071		   Osteopaths
+072		   Personnel and labor relations workers
+073		   Pharmacists
+074		   Photographers
+075		   Physicians and surgeons
+076		   Radio operators
+077		   Recreation and group workers
+078		   Religious workers
+079		   Social and welfare workers, except group
+081		   Economists
+082		   Psychologists
+083		   Statisticians and actuaries
+084		   Miscellaneous social scientists
+091		   Sports instructors and officials
+092		   Surveyors
+093		   Teachers (n.e.c.)
+094		   Technicians, medical and dental
+095		   Technicians, testing
+096		   Technicians (n.e.c.)
+097		   Therapists and healers (n.e.c.)
+098		   Veterinarians
+099		   Professional, technical and kindred workers (n.e.c.)
+		Farmers:
+100		   Farmers (owners and tenants)
+123		   Farm managers
+		Managers, Officials, and Proprietors:
+200		   Buyers and department heads, store
+201		   Buyers and shippers, farm products
+203		   Conductors, railroad
+204		   Credit men
+205		   Floormen and floor managers, store
+210		   Inspectors, public administration
+230		   Managers and superintendents, building
+240		   Officers, pilots, pursers and engineers, ship
+250		   Officials and administrators (n.e.c.), public administration
+260		   Officials, lodge, society, union, etc.
+270		   Postmasters
+280		   Purchasing agents and buyers (n.e.c.)
+290		   Managers, officials, and proprietors (n.e.c.)
+		Clerical and Kindred
+300		   Agents (n.e.c.)
+301		   Attendants and assistants, library
+302		   Attendants, physician's and dentist's office
+304		   Baggagemen, transportation
+305		   Bank tellers
+310		   Bookkeepers
+320		   Cashiers
+321		   Collectors, bill and account
+322		   Dispatchers and starters, vehicle
+325		   Express messengers and railway mail clerks
+335		   Mail carriers
+340		   Messengers and office boys
+341		   Office machine operators
+342		   Shipping and receiving clerks
+350		   Stenographers, typists, and secretaries
+360		   Telegraph messengers
+365		   Telegraph operators
+370		   Telephone operators
+380		   Ticket, station, and express agents
+390		   Clerical and kindred workers (n.e.c.)
+		Sales workers:
+400		   Advertising agents and salesmen
+410		   Auctioneers
+420		   Demonstrators
+430		   Hucksters and peddlers
+450		   Insurance agents and brokers
+460		   Newsboys
+470		   Real estate agents and brokers
+480		   Stock and bond salesmen
+490		   Salesmen and sales clerks (n.e.c.)
+		Craftsmen:
+500		   Bakers
+501		   Blacksmiths
+502		   Bookbinders
+503		   Boilermakers
+504		   Brickmasons, stonemasons, and tile setters
+505		   Cabinetmakers
+510		   Carpenters
+511		   Cement and concrete finishers
+512		   Compositors and typesetters
+513		   Cranemen, derrickmen, and hoistmen
+514		   Decorators and window dressers
+515		   Electricians
+520		   Electrotypers and stereotypers
+521		   Engravers, except photoengravers
+522		   Excavating, grading, and road machinery operators
+523		   Foremen (n.e.c.)
+524		   Forgemen and hammermen
+525		   Furriers
+530		   Glaziers
+531		   Heat treaters, annealers, temperers
+532		   Inspectors, scalers, and graders, log and lumber
+533		   Inspectors (n.e.c.)
+534		   Jewelers, watchmakers, goldsmiths, and silversmiths
+535		   Job setters, metal
+540		   Linemen and servicemen, telegraph, telephone, and power
+541		   Locomotive engineers
+542		   Locomotive firemen
+543		   Loom fixers
+544		   Machinists
+545		   Mechanics and repairmen, airplane
+550		   Mechanics and repairmen, automobile
+551		   Mechanics and repairmen, office machine
+552		   Mechanics and repairmen, radio and television
+553		   Mechanics and repairmen, railroad and car shop
+554		   Mechanics and repairmen (n.e.c.)
+555		   Millers, grain, flour, feed, etc.
+560		   Millwrights
+561		   Molders, metal
+562		   Motion picture projectionists
+563		   Opticians and lens grinders and polishers
+564		   Painters, construction and maintenance
+565		   Paperhangers
+570		   Pattern and model makers, except paper
+571		   Photoengravers and lithographers
+572		   Piano and organ tuners and repairmen
+573		   Plasterers
+574		   Plumbers and pipe fitters
+575		   Pressmen and plate printers, printing
+580		   Rollers and roll hands, metal
+581		   Roofers and slaters
+582		   Shoemakers and repairers, except factory
+583		   Stationary engineers
+584		   Stone cutters and stone carvers
+585		   Structural metal workers
+590		   Tailors and tailoresses
+591		   Tinsmiths, coppersmiths, and sheet metal workers
+592		   Tool makers, and die makers and setters
+593		   Upholsterers
+594		   Craftsmen and kindred workers (n.e.c.)
+595		   Members of the armed services
+		Operatives:
+600		   Apprentice auto mechanics
+601		   Apprentice bricklayers and masons
+602		   Apprentice carpenters
+603		   Apprentice electricians
+604		   Apprentice machinists and toolmakers
+605		   Apprentice mechanics, except auto
+610		   Apprentice plumbers and pipe fitters
+611		   Apprentices, building trades (n.e.c.)
+612		   Apprentices, metalworking trades (n.e.c.)
+613		   Apprentices, printing trades
+614		   Apprentices, other specified trades
+615		   Apprentices, trade not specified
+620		   Asbestos and insulation workers
+621		   Attendants, auto service and parking
+622		   Blasters and powdermen
+623		   Boatmen, canalmen, and lock keepers
+624		   Brakemen, railroad
+625		   Bus drivers
+630		   Chainmen, rodmen, and axmen, surveying
+631		   Conductors, bus and street railway
+632		   Deliverymen and routemen
+633		   Dressmakers and seamstresses, except factory
+634		   Dyers
+635		   Filers, grinders, and polishers, metal
+640		   Fruit, nut, and vegetable graders, and packers, except factory
+641		   Furnacemen, smeltermen and pourers
+642		   Heaters, metal
+643		   Laundry and dry cleaning operatives
+644		   Meat cutters, except slaughter and packing house
+645		   Milliners
+650		   Mine operatives and laborers
+660		   Motormen, mine, factory, logging camp, etc.
+661		   Motormen, street, subway, and elevated railway
+662		   Oilers and greaser, except auto
+670		   Painters, except construction or maintenance
+671		   Photographic process workers
+672		   Power station operators
+673		   Sailors and deck hands
+674		   Sawyers
+675		   Spinners, textile
+680		   Stationary firemen
+681		   Switchmen, railroad
+682		   Taxicab drivers and chauffers
+683		   Truck and tractor drivers
+684		   Weavers, textile
+685		   Welders and flame cutters
+690		   Operative and kindred workers (n.e.c.)
+		Service Workers (private household):
+700		   Housekeepers, private household
+710		   Laundressses, private household
+720		   Private household workers (n.e.c.)
+		Service Workers (not household):
+730		   Attendants, hospital and other institution
+731		   Attendants, professional and personal service (n.e.c.)
+732		   Attendants, recreation and amusement
+740		   Barbers, beauticians, and manicurists
+750		   Bartenders
+751		   Bootblacks
+752		   Boarding and lodging house keepers
+753		   Charwomen and cleaners
+754		   Cooks, except private household
+760		   Counter and fountain workers
+761		   Elevator operators
+762		   Firemen, fire protection
+763		   Guards, watchmen, and doorkeepers
+764		   Housekeepers and stewards, except private household
+770		   Janitors and sextons
+771		   Marshals and constables
+772		   Midwives
+773		   Policemen and detectives
+780		   Porters
+781		   Practical nurses
+782		   Sheriffs and bailiffs
+783		   Ushers, recreation and amusement
+784		   Waiters and waitresses
+785		   Watchmen (crossing) and bridge tenders
+790		   Service workers, except private household (n.e.c.)
+		Farm Laborers:
+810		   Farm foremen
+820		   Farm laborers, wage workers
+830		   Farm laborers, unpaid family workers
+840		   Farm service laborers, self-employed
+		Laborers:
+910		   Fishermen and oystermen
+920		   Garage laborers and car washers and greasers
+930		   Gardeners, except farm, and groundskeepers
+940		   Longshoremen and stevedores
+950		   Lumbermen, raftsmen, and woodchoppers
+960		   Teamsters
+970		   Laborers (n.e.c.)
+975		Employed, unclassifiable
+		Non-occupational response:
+980		   Keeps house/housekeeping at home/housewife
+982		   Helping at home/helps parents/housework
+983		   At school/student
+984		   Retired
+986		   Invalid/disabled w/ no occupation reported
+987		   Inmate
+995		   Other non-occupational response
+997		Occupation missing/unknown
+999		N/A (blank)
+
+ UIND		Usual industry
+		AGRICULTURE, FORESTRY, AND FISHERY 
+001		   Agriculture
+002		   Forestry except logging
+003		   Fishery 
+		MINING 
+004		   Coal mining
+005		   Metal mining
+006		   Crude petroleum and natural gas production, including natural gasoline production
+007		   Sand and gravel production
+008		   Stone quarrying
+009		   Miscellaneous nonmetallic mining
+010		   Mining, n.s. 
+		CONSTRUCTION 
+011		   All construction 
+		MANUFACTURING 
+		   Food and Kindred Products:
+012		      Bakery products
+013		      Beverage industries
+014		      Canning and preserving fruits, vegetables, and sea food
+015		      Confectionery
+016		      Dairy products
+017		      Grain-mill products
+018		      Meat products
+019		      Miscellaneous food industries
+020		      Tobacco manufactures 
+		   Textile-mill Products:
+021		      Cotton manufactures
+022		      Silk and rayon manufactures
+023		      Woolen and worsted manufactures
+024		      Knit goods
+025		      Dyeing and finishing textiles
+026		      Carpets, rugs, and other floor coverings
+027		      Hats except cloth and millinery
+028		      Miscellaneous textile goods
+029		      Textile mills, n.s. 
+		   Apparel, and Other Fabricated Textile Products:
+030		      Apparel and accessories
+031		      Miscellaneous fabricated textile products 
+		   Lumber, Furniture, and Lumber Products:
+032		      Logging
+033		      Sawmills and planing mills
+034		      Furniture and store fixtures
+035		      Miscellaneous wooden goods 
+		   Paper and Allied Products:
+036		      Pulp, paper, and paperboard mills
+037		      Paperboard containers and boxes
+038		      Miscellaneous paper and pulp products
+039		      Printing, publishing, and allied industries 
+		   Chemicals and Allied Products:
+040		      Paints, varnishes, and colors
+041		      Rayon and allied products
+042		      Miscellaneous chemical industries 
+		   Petroleum and Coal Products:
+043		      Petroleum refining
+044		      Miscellaneous petroleum and coal products
+045		      Rubber products 
+		   Leather and Leather Products:
+046		      Leather (tanned, curried, and finished)
+047		      Footwear industries except rubber
+048		      Leather products except footwear 
+		   Stone, Clay, and Glass Products:
+049		      Cement, and concrete, gypsum, and plaster products
+050		      Cut-stone and stone products
+051		      Glass and glass products
+052		      Pottery and related products
+053		      Structural clay products
+054		      Miscellaneous nonmetallic mineral products 
+		   Iron and Steel and Their Products:
+055		      Blast furnaces, steel works, and rolling mills
+056		      Tin cans and other tinware
+057		      Miscellaneous iron and steel industries 
+		   Nonferrous Metals and Their Products:
+058		      Nonferrous metal primary products
+059		      Clocks, watches, jewelry, and silverware, including metal engraving except for printing purposes, plating, and polishing
+060		      Miscellaneous nonferrous metal products 
+		   Machinery:
+061		      Agricultural machinery and tractors
+062		      Electrical machinery and equipment
+063		      Office and store machines, equipment, and supplies
+064		      Miscellaneous machinery 
+		   Transportation Equipment:
+065		      Aircraft and parts
+066		      Automobiles and automobile equipment
+067		      Ship and boat building and repairing
+068		      Railroad and miscellaneous transportation equipment
+069		      Metal industries, n.s. 
+		   Miscellaneous Manufacturing Industries:
+070		      Scientific and photographic equipment and supplies
+071		      Miscellaneous manufacturing industries n.e.c.
+072		      Manufacturing industries, n.s. 
+		TRANSPORTATION, COMMUNICATION, AND OTHER PUBLIC UTILITIES 
+		   Transportation:
+073		      Air transportation
+074		      Petroleum and gasoline pipe lines
+075		      Railroads, including railroad repair shops
+076		      Railway express service
+077		      Street railways and bus lines, including suburban and interurban railways
+078		      Taxicab service
+079		      Trucking service
+080		      Water transportation
+081		      Warehousing and storage
+082		      Services incidental to transportation
+083		      Transportation, n.s. 
+		   Communication:
+084		      Telephone -- wire and radio
+085		      Telegraph -- wire and radio
+086		      Radio broadcasting and television 
+		   Utilities:
+087		      Electric light and power
+088		      Gas works and steam plants
+089		      Water and sanitary services 
+		WHOLESALE AND RETAIL TRADE 
+090		      Wholesale trade 
+		   Retail Trade:
+091		      Food stores, except dairy products
+092		      Dairy products stores and milk retailing
+093		      General merchandise stores
+094		      Limited price variety stores
+095		      Apparel and accessories stores, except shoes
+096		      Shoe stores
+097		      Furniture and housefurnishings stores
+098		      Household appliance and radio stores
+099		      Motor vehicles and accessories retailing
+100		      Filling stations
+101		      Drug stores
+102		      Eating and drinking places
+103		      Hardware and farm implement stores
+104		      Lumber and building material retailing      
+105		      Liquor stores
+106		      Retail florists
+107		      Jewelry stores
+108		      Fuel and ice retailing
+109		      Miscellaneous retail stores
+110		      Retail trade, n.s. (may include some returns not specified as to whether the workers were in wholesale or retail trade)
+		FINANCE, INSURANCE, AND REAL ESTATE 
+111		      Banking and other finance
+112		      Insurance
+113		      Real estate 
+		BUSINESS AND REPAIR SERVICES 
+114		      Advertising
+115		      Business services, except advertising
+116		      Automobile storage, rental, and repair services
+117		      Miscellaneous repair services and hand trades 
+		PERSONAL SERVICES 
+118		      Domestic service
+119		      Hotels and lodging places
+120		      Laundering, cleaning, and dyeing services
+121		      Miscellaneous personal services 
+		AMUSEMENT, RECREATION, AND RELATED SERVICES 
+122		      Theaters and motion pictures
+123		      Miscellaneous amusement and recreation 
+		PROFESSIONAL AND RELATED SERVICES 
+124		      Educational services
+125		      Medical and other health services
+126		      Legal, engineering, and miscellaneous professional services
+127		      Charitable, religious, and membership organizations 
+		GOVERNMENT 
+128		      Postal service
+129		      National defense
+130		      Federal government n.e.c.
+131		      State and local government 
+		NONCLASSIFIABLE 
+995		      None, etc.
+996		      Non-Industry Response
+997		      Blank
+998		      Nonclassifiable
+999		      N/A: under 14 years old, not in labor force, and institutional inmates in IND and IND50; under 14 years old in UINDUS)
+
+ UCLASSWK		Usual class of worker
+0		N/A
+1		Self-employed
+2		Employer
+3		Wage/salary, private work
+4		Wage/salary, gov't work
+6		Unpaid family worker
+7		No usual occupation
+8		Illegible
+
+ INCNONWG		Had non-wage/salary income over $50
+0		N/A
+1		Less than $50 nonwage, nonsalary income
+2		$50+ nonwage, nonsalary income
+9		Missing
+
+ MIGRATE5		Migration status, 5 years [general version]
+0		N/A
+1		Same house
+2		Moved within state
+3		Moved between states
+4		Abroad five years ago
+8		Moved (place not reported)
+9		Unknown
+
+ MIGRATE5D		Migration status, 5 years [detailed version]
+00		N/A
+10		Same house
+		Different house:
+20		Same state (migration status within state unknown)
+21		Different house, moved within county
+22		Different house, moved within state, between counties
+23		Different house, moved within state, within PUMA
+24		Different house, moved within state, between PUMAs
+25		Different house, unknown within state
+30		Different state (general)
+31		Moved between contiguous states
+32		Moved between non-contiguous states
+33		Unknown between states
+40		Abroad five years ago
+80		Moved, but place was not reported
+90		Unknown
+
+ MIGPLAC5		State or country of residence 5 years ago
+000		N/A
+001		Alabama
+002		Alaska
+004		Arizona
+005		Arkansas
+006		California
+008		Colorado
+009		Connecticut
+010		Delaware
+011		District of Columbia
+012		Florida
+013		Georgia
+015		Hawaii
+016		Idaho
+017		Illinois
+018		Indiana
+019		Iowa
+020		Kansas
+021		Kentucky
+022		Louisiana
+023		Maine
+024		Maryland
+025		Massachusetts
+026		Michigan
+027		Minnesota
+028		Mississippi
+029		Missouri
+030		Montana
+031		Nebraska
+032		Nevada
+033		New Hampshire
+034		New Jersey
+035		New Mexico
+036		New York
+037		North Carolina
+038		North Dakota
+039		Ohio
+040		Oklahoma
+041		Oregon
+042		Pennsylvania
+044		Rhode Island
+045		South Carolina
+046		South Dakota
+047		Tennessee
+048		Texas
+049		Utah
+050		Vermont
+051		Virginia
+053		Washington
+054		West Virginia
+055		Wisconsin
+056		Wyoming
+		State group codes (1980 UR sample)
+061		Maine-New Hampshire-Vermont
+062		Massachussetts-Rhode Island
+063		Minnesota-Iowa-Missouri-Kansas-Nebraska-Dakotas
+064		Maryland-Delaware
+065		Montana-Idaho-Wyoming
+066		Utah-Nevada
+067		Arizona-New Mexico
+068		Alaska-Hawaii
+099		United States, not specified or state confidential
+100		Samoa
+105		Guam
+110		Puerto Rico
+115		Virgin Islands
+119		US outlying area (1980)
+120		Other US Possessions
+150		Canada
+151		English Canada
+152		French Canada
+155		St Pierre and Miquelon
+160		Atlantic Islands
+199		North America
+200		Mexico
+211		Belize/British Honduras
+212		Costa Rica
+213		El Salvador
+214		Guatemala
+215		Honduras
+216		Nicaragua
+217		Panama
+218		Canal Zone
+219		Central America, nec
+250		Cuba
+260		West Indies
+261		Dominican Republic
+262		Haita
+263		Jamaica
+264		British West Indies
+266		Trinidad and Tobago
+267		Other West Indies
+305		Argentina
+310		Bolivia
+315		Brazil
+320		Chile
+325		Colombia
+330		Ecuador
+345		Paraguay
+350		Peru
+360		Uruguay
+365		Venezuela
+370		North or Central America, n.s. (2000 5%)
+390		South America, nec
+400		Denmark
+401		Finland
+402		Iceland
+404		Norway
+405		Sweden
+410		England
+411		Scotland
+412		Wales
+413		United Kingdom
+414		Ireland
+415		Northern Ireland
+420		Belgium
+421		France
+422		Liechtenstein
+423		Luxembourg
+424		Monaco
+425		Netherlands
+426		Switzerland
+430		Albania
+431		Andorra
+432		Gibraltar
+433		Greece
+434		Dodecanese Islands
+435		Italy
+436		Portugal
+437		Azores
+438		Spain
+439		Vatican City
+440		Malta
+450		Austria
+451		Bulgaria
+452		Czechoslovakia
+453		Germany
+454		Hungary
+455		Poland
+456		Romania
+457		Yugoslavia
+460		Estonia
+461		Latvia
+462		Lithuania
+465		USSR
+496		Byelorussia
+498		Ukraine
+499		Europe, n.s.
+500		China
+501		Japan
+502		Korea
+510		Brunei
+511		Cambodia 
+512		Indonesia
+513		Laos
+514		Malaysia
+515		Philippines
+516		Singapore
+517		Thailand
+518		Vietnam
+520		Afghanistan
+521		India
+525		Pakistan
+522		Iran
+523		Maldives
+524		Nepal
+530		Bahrain
+531		Cyprus
+532		Iraq
+534		Israel
+535		Jordan
+536		Kuwait
+537		Lebanon
+538		Oman
+539		Qatar
+540		Saudi Arabia
+541		Syria
+542		Turkey
+543		United Arab Emirates
+544		Yemen
+548		Southwest Asia, nec/ns
+599		Asia, nec/ns
+600		Africa
+610		Northern Africa
+612		Egypt/United Arab Rep.
+670		Central Africa
+690		Southern Africa
+694		South Africa (Union of)
+699		Africa, nec
+700		Coral Sea Islands
+701		Australia
+702		New Zealand
+710		Pacific Islands
+715		US Pacific Trust Territories
+800		Heard and McDonald Islands
+900		Abroad (unknown) or at sea
+911		Abroad, ns
+912		At sea
+990		Same house
+999		Missing/unknown
+
+ MIGTYPE5		Metropolitan status 5 years ago
+0		N/A
+1		Not in metro area
+2		In a metro area, central city status unknown
+3		Central city
+4		Not central city
+9		Unknown
+
+ SAMEPLAC		Lived same incorporated place 5 years ago
+0		N/A
+1		No, different community
+2		Yes, same community
+9		Not ascertained
+
+ SAMESEA5		Lived same SEA 5 years ago
+0		N/A
+1		Same SEA in reference year
+2		Different SEA in reference year
+3		In U.S. in reference year, location unknown
+4		Abroad during the reference year
+9		Not ascertained
+
+ VETSTAT		Veteran status [general version]
+0		N/A
+1		Not a veteran
+2		Veteran
+9		Unknown
+
+ VETSTATD		Veteran status [detailed version]
+00		N/A
+10		Not a veteran
+11		   No military service
+12		   Currently on active duty
+13		   Training for Reserves or National Guard only
+20		Veteran
+21		   Veteran, on active duty prior to past year
+22		   Veteran, on active duty in past year
+23		   Veteran, on active duty in Reserves or National Guard only
+99		Unknown
+
+ VET1940		Veteran status, 1940
+0		N/A (not sample-line person)
+1		Not veteran, spouse, or (under 18 years old) child of vetera
+2		Veteran, spouse, or child of veteran
+8		Not ascertained
+
+ VETWWI		Veteran, served during WWI era
+0		N/A (all years) or No (1940, 1950, 1980)
+1		No (1950, 1960, 1970)
+2		Yes, served this period
+
+ VETPER		Veteran period of service, 1940
+0		N.A.
+1		World War I
+2		Spanish-Amer, Philippine Insurrection or Boxer Rebellion
+3		Spanish-American and WW I
+4		Regular establishment (peace-time service only)
+5		Other war or expedition
+7		Period of service not ascertained
+8		Not ascertained
+
+ VETCHILD		Mortality status of child's veteran father
+0		N/A
+1		Child of dead veteran
+2		Child of living veteran
+8		Child not identified as having veteran father
+9		Veteran status unknown
+
+ SURSIM		Surname similarity
+00		N/A (sampled at the individual level)
+01		1st surname in household
+02		2
+03		3
+04		4
+05		5
+06		6
+07		7
+08		8
+09		9
+10		10
+11		11
+12		12
+13		13
+14		14
+15		15
+16		16
+17		17
+18		18
+19		19
+20		20
+21		21
+22		22
+23		23
+24		24
+25		25
+26		26
+27		27
+28		28
+29		29
+30		30
+99		Unknown
+
+ SSENROLL		Social Security enrollment
+0		N/A
+1		No Social Security number
+2		Yes, has Soc. Sec. number
