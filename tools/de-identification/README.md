@@ -28,6 +28,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differentially-Private-Stochastic-Gradient-Descent-DP-SGD)** | **[Link to Tool](https://github.com/tensorflow/privacy)**
 
+## Duet
+
+**Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Duet)** | **[Link to Tool](https://github.com/uvm-plaid/duet)**
+
 ## Ektelo
 **Keywords:** Differential Privacy
 
