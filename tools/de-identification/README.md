@@ -51,6 +51,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/GUPT)** | **[Link to Tool](https://github.com/prashmohan/GUPT)**
 
+## Google Differential Privacy Library
+
+**Keywords:** Differential Privacy
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Google-DP-Lib)** | **[Link to Tool](https://github.com/google/differential-privacy)**
+
 ## PixelDP
 
 **Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
