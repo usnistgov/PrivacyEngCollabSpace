@@ -82,11 +82,11 @@ This platform is provided as a public service. Information, data, and software p
 
 ![Joseph Near](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/joseph-near.jpg)
 
-**Joseph Near | [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his BS in computer science from Indiana University, and his MS and PhD in computer science from MIT.
+**Joseph Near [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his BS in computer science from Indiana University, and his MS and PhD in computer science from MIT.
 
 ![David Darais](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/david-darais.jpg)
 
-**David Darais [@davdar]:** David Darais is an assistant professor of computer science at the University of Vermont. David's research focuses on software analysis and verification tools for critical and security-sensitive systems. David received a BS in computer science from University of Utah, an MS in computer science from Harvard University, and a PhD in computer science from University of Maryland.
+**David Darais [@davdar]:** David Darais is a Principal Scientist at Galois, Inc. and supports NIST as a moderator for the Privacy Engineering Collaboration Space. David's research focuses on tools for achieving reliable software in critical, security-sensitive, and privacy-sensitive systems. David received his B.S. from the University of Utah, M.S. from Harvard University and Ph.D. from the University of Maryland.
 
 ### Privacy Risk Management Moderator
 
