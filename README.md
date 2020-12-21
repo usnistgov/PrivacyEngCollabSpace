@@ -82,7 +82,7 @@ This platform is provided as a public service. Information, data, and software p
 
 ![Joseph Near](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/joseph-near.jpg)
 
-**Joseph Near [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his BS in computer science from Indiana University, and his MS and PhD in computer science from MIT.
+**Joseph Near [@jnear]:** Joseph Near is an assistant professor of computer science at the University of Vermont. His research interests include data privacy, computer security, and programming languages. Joseph received his B.S. in computer science from Indiana University, and his M.S. and Ph.D. in computer science from MIT.
 
 ![David Darais](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/david-darais.jpg)
 
@@ -92,7 +92,7 @@ This platform is provided as a public service. Information, data, and software p
 
 ![Katie Boeckl](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/katie-boeckl.jpg)
 
-**Katie Boeckl [@kboeckl]:** Katie Boeckl is a privacy risk strategist at NIST. As part of the Privacy Engineering Program, Katie develops privacy risk management guidance, collaborates on the development of international privacy standards, and works to advance tools for privacy engineering and risk management. Katie has a BA in English from the University of Maryland, College Park, where she specialized in technology through a digital cultures honors program.
+**Katie Boeckl [@kboeckl]:** Katie Boeckl is a privacy risk strategist at NIST. As part of the Privacy Engineering Program, Katie develops privacy risk management guidance, collaborates on the development of international privacy standards, and works to advance tools for privacy engineering and risk management. Katie has a B.A. in English from the University of Maryland, College Park, where she specialized in technology through a digital cultures honors program.
 
 ## NIST Privacy Engineering Program
 Learn about NIST's Privacy Engineering Program by visiting our [website](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering).
