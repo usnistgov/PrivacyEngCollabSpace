@@ -2,6 +2,10 @@
 
 Contributions are listed in alphabetical order.
 
+## 2018 DP Synthetic Data Challenge Competitor Packs
+
+**Keywords:** NIST, PSCR, Differential Privacy, Challenge
+
 ## Approximate Minima Perturbation (AMP)
 
 **Keywords:** Differential Privacy, Machine Learning
