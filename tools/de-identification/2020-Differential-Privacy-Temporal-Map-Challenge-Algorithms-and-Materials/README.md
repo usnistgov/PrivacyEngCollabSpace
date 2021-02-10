@@ -10,7 +10,7 @@ This contest solicited solvers for their ideas on how to better evaluate the out
 
 ## Algorithm Contest
 
-This contest solicited solvers for algorithms that satisfy differential privacy that de-identify data containing time and geographic information 
+[This contest](https://www.herox.com/bettermeterstick/teams) solicited solvers for algorithms that satisfy differential privacy that de-identify data containing time and geographic information 
 
 The repo contains the Competitor Packs including: challenge data, scoring scripts, naive differentially private algorithms, and documentation, and any algorithms participants elected to share.  
 
