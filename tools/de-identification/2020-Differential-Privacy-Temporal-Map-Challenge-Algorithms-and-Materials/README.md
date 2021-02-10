@@ -6,11 +6,11 @@ This Challenge was hosted in three parts: the Metrics Contest (aka Better Meter 
 
 ## Metrics Contest 
 
-This contest solicited solvers for their ideas on how to better evaluate the outputs of differentially private algorthms. Winners who elected to share their solutions are stored here. There is also an examplar submission based on the 'Pie Chart Metric' implemented as a scoring function for the first sprint of the Algorithm Contest. 
+[This contest](https://www.herox.com/bettermeterstick/teams) solicited solvers for their ideas on how to better evaluate the outputs of differentially private algorthms. Winners who elected to share their solutions are stored here. There is also an examplar submission based on the 'Pie Chart Metric' implemented as a scoring function for the first sprint of the Algorithm Contest. 
 
 ## Algorithm Contest
 
-[This contest](https://www.herox.com/bettermeterstick/teams) solicited solvers for algorithms that satisfy differential privacy that de-identify data containing time and geographic information 
+This contest solicited solvers for algorithms that satisfy differential privacy that de-identify data containing time and geographic information 
 
 The repo contains the Competitor Packs including: challenge data, scoring scripts, naive differentially private algorithms, and documentation, and any algorithms participants elected to share.  
 
