@@ -14,6 +14,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/ARX)** | **[Link to Tool](https://arx.deidentifier.org/)**
 
+## Chorus
+
+**Keywords:** Differential Privacy
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Chorus)** | **[Link to Tool](https://github.com/uvm-plaid/chorus)**
+
 ## Differential Privacy Synthetic Data Challenge Algorithms
 
 **Keywords:** Differential Privacy, Synthetic Data Generation
