@@ -5,7 +5,7 @@ import matrix
 import argparse
 import numpy as np
 from scipy import sparse, optimize
-from privacy.analysis.rdp_accountant import compute_rdp, get_privacy_spent
+from tensorflow_privacy.privacy.analysis.rdp_accountant import compute_rdp, get_privacy_spent
 from functools import reduce
 import os
 
@@ -176,7 +176,7 @@ class Match3(Mechanism):
         iters = self.iters
         domain = self.domain
         engine = FactoredInference(domain,
-                                    structural_zeros=None,
+                                    structural_zeros={},
                                     iters=500,
                                     log=True,
                                     warm_start=True,
@@ -199,7 +199,7 @@ class Match3(Mechanism):
 
             theta = engine.model.mle(marginals)
             engine.potentials = theta
-            engine.marginals = engine.model.belief_prop_fast(theta)
+            engine.marginals = engine.model.belief_propagation(theta)
 
         checkpt = self.save[:-4] + '-checkpt.csv'
         for i in range(self.iters // 500):
