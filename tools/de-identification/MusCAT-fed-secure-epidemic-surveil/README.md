@@ -1,6 +1,4 @@
-# Tool Template
-
-**MusCAT: A multi-scale, hybrid federated system for privacy-preserving epidemic surveillance and risk prediction**
+# MusCAT: A multi-scale, hybrid federated system for privacy-preserving epidemic surveillance and risk prediction
 
 **Primary Focus Area (select one):** De-identification
 
