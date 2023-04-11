@@ -16,4 +16,4 @@ MusCAT came in second place as a solution in the [U.S. PETs Prize Challenge](htt
 **Affiliation/Organization(s) Contributing (if relevant):** Broad Institute, MIT, Harvard Business School, University of Texas, University of Toronto
 
 
-**Tool Link:** https://github.com/hhcho/petchal
+**Tool Link:** https://github.com/hhcho/muscat
