@@ -67,7 +67,7 @@ Contributions are listed in alphabetical order.
 
 **Keywords:** Differential Privacy, Multiparty Homomorphic Encryption, Machine Learning, Federated Learning
 
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT-fed-secure-epidemic-surveillance)** | **[Link to Tool]([https://github.com/columbia/pixeldp](https://github.com/hhcho/muscat))**
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT-fed-secure-epidemic-surveillance)** | **[Link to Tool](https://github.com/hhcho/muscat)**
 
 ## PixelDP
 
