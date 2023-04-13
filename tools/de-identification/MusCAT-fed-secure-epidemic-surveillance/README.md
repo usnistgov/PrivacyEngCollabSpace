@@ -9,8 +9,6 @@ Our tool, MusCAT, is a multi-scale, hybrid federated system for privacy-preservi
 It combines differential privacy, multiparty homomorphic encryption, and federated learning to jointly analyze private data held by multiple federation units with formal privacy guarantees.
 MusCAT came in second place as a solution in the [U.S. PETs Prize Challenge](https://www.drivendata.org/competitions/group/nist-federated-learning/).
 
-**Additional Notes:** White paper describing our solution: [here](https://www.dropbox.com/s/dzyc8himjtcu05j/PETsChallenge_MusCAT_Report.pdf?dl=0) 
-
 **GitHub User Serving as POC (or Email Address):** @hhcho (hhcho@broadinstitute.org)
 
 **Affiliation/Organization(s) Contributing (if relevant):** Broad Institute, MIT, Harvard Business School, University of Texas, University of Toronto
