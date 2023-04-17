@@ -63,11 +63,11 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Google-DP-Lib)** | **[Link to Tool](https://github.com/google/differential-privacy)**
 
-## MusCAT: A multi-scale, hybrid federated system for privacy-preserving epidemic surveillance and risk prediction
+## MusCAT
 
 **Keywords:** Differential Privacy, Multiparty Homomorphic Encryption, Machine Learning, Federated Learning
 
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT-fed-secure-epidemic-surveillance)** | **[Link to Tool](https://github.com/hhcho/muscat)**
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT)** | **[Link to Tool](https://github.com/hhcho/muscat)**
 
 ## PixelDP
 
