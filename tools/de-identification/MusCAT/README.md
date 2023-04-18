@@ -13,6 +13,6 @@ Team MusCAT won [first place](https://drivendata.co/blog/federated-learning-pets
 
 **GitHub User Serving as POC (or Email Address):** @hhcho
 
-**Affiliation/Organization(s) Contributing (if relevant):** Broad Institute, MIT, Harvard Business School, University of Texas, University of Toronto
+**Affiliation/Organization(s) Contributing (if relevant):** Broad Institute, MIT, Harvard Business School, UT Austin, University of Toronto
 
 **Tool Link:** https://github.com/hhcho/muscat
