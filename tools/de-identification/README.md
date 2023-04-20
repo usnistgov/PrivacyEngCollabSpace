@@ -80,3 +80,9 @@ Contributions are listed in alphabetical order.
 **Keywords:** Differential Privacy, Machine Learning
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research)**
+
+## Visa Pets Federated Learning
+
+**Keywords:** Differential Privacy, Machine Learning, Privacy Preservering Computation, MPC
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/visa-pets-FL)** | **[Link to Tool](https://github.com/Visa-Research/visa-pets-FL)**

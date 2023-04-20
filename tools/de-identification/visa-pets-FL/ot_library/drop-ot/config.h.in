@@ -1,0 +1,18 @@
+#pragma once
+
+#include "cryptoTools/Common/config.h"
+
+#ifdef ENABLE_BOOST
+#define OC_ENABLE_BOOST
+#endif
+
+
+// enable integration with boost for networking.
+#cmakedefine ENABLE_BOOST @ENABLE_BOOST@
+#cmakedefine DROP_OT_ENABLE_RELIC @DROP_OT_ENABLE_RELIC@
+#cmakedefine DROP_OT_ENABLE_SODIUM @DROP_OT_ENABLE_SODIUM@
+
+
+#if defined(ENABLE_BOOST) != defined(OC_ENABLE_BOOST)
+static_assert(0, "cryptoTools does not define ENABLE_BOOST the same as hydra");
+#endif
