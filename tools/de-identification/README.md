@@ -80,3 +80,12 @@ Contributions are listed in alphabetical order.
 **Keywords:** Differential Privacy, Machine Learning
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research)**
+
+## Scarlet-PETs: Anomaly Detection via Privacy-Enhanced Two-Step Federated Learning
+
+**Keywords:** Differential Privacy, Anonymization, Information Leakage, Federated Learning, Anomaly Detection, SMC
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Scarlet-PETs)** | **[Link to Tool](https://github.com/idsla/Scarlet-PETs)**
+
+
+
