@@ -63,6 +63,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Google-DP-Lib)** | **[Link to Tool](https://github.com/google/differential-privacy)**
 
+## MusCAT
+
+**Keywords:** Differential Privacy, Multiparty Homomorphic Encryption, Machine Learning, Federated Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT)** | **[Link to Tool](https://github.com/hhcho/muscat)**
+
 ## PixelDP
 
 **Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
