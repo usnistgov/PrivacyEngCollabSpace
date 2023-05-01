@@ -28,7 +28,7 @@ Contributions are listed in alphabetical order.
 
 **[Check out the Algorithms](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms)**
 
-## Differentially Private Stochastic Gradient Descent (DP-SGD) 
+## Differentially Private Stochastic Gradient Descent (DP-SGD)
 
 **Keywords:** Differential Privacy, Machine Learning
 
@@ -75,23 +75,26 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/columbia/pixeldp)**
 
-## Privacy Protection Application (PPA) 
+## Privacy Protection Application (PPA)
 
 **Keywords:** K-Anonymity, Anonymization, Information Leakage, Algorithmic Fairness, Database Queries, Location Data
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Privacy-Protection-Application-PPA)** | **[Link to Tool](https://github.com/usdot-its-jpo-data-portal/privacy-protection-application)**
 
-## Private Aggregation of Teacher Ensembles (PATE) 
+## Private Aggregation of Teacher Ensembles (PATE)
 
 **Keywords:** Differential Privacy, Machine Learning
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research)**
+
+## puffle
+
+**Keywords:** Differential Privacy, Machine Learning, Federated Learning, Model Personalization
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/puffle)** | **[Link to Tool](https://github.com/kenziyuliu/pets-challenge)**
 
 ## Scarlet-PETs: Anomaly Detection via Privacy-Enhanced Two-Step Federated Learning
 
 **Keywords:** Differential Privacy, Anonymization, Information Leakage, Federated Learning, Anomaly Detection, SMC
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Scarlet-PETs)** | **[Link to Tool](https://github.com/idsla/Scarlet-PETs)**
-
-
-
