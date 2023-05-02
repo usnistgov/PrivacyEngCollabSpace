@@ -63,6 +63,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Google-DP-Lib)** | **[Link to Tool](https://github.com/google/differential-privacy)**
 
+## MusCAT
+
+**Keywords:** Differential Privacy, Multiparty Homomorphic Encryption, Machine Learning, Federated Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/MusCAT)** | **[Link to Tool](https://github.com/hhcho/muscat)**
+
 ## PixelDP
 
 **Keywords:** Differential Privacy, Verification of Algorithms, Machine Learning, Adversarial Examples
@@ -86,3 +92,11 @@ Contributions are listed in alphabetical order.
 **Keywords:** Differential Privacy, Machine Learning, Privacy Preservering Computation, MPC
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/visa-pets-FL)** | **[Link to Tool](https://github.com/Visa-Research/visa-pets-FL)**
+
+## Scarlet-PETs: Anomaly Detection via Privacy-Enhanced Two-Step Federated Learning
+
+**Keywords:** Differential Privacy, Anonymization, Information Leakage, Federated Learning, Anomaly Detection, SMC
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Scarlet-PETs)** | **[Link to Tool](https://github.com/idsla/Scarlet-PETs)**
+
+
