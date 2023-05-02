@@ -75,6 +75,12 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PixelDP)** | **[Link to Tool](https://github.com/columbia/pixeldp)**
 
+## PPMLHuskies
+
+**Keywords:** Differential Privacy, Homomorphic Encryption, Machine Learning, Federated Learning
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/PPMLHuskies)** | **[Link to Tool](https://github.com/steveng9/PETsChallenge)**
+
 ## Privacy Protection Application (PPA) 
 
 **Keywords:** K-Anonymity, Anonymization, Information Leakage, Algorithmic Fairness, Database Queries, Location Data
