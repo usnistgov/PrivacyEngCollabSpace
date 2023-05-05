@@ -28,7 +28,7 @@ Contributions are listed in alphabetical order.
 
 **[Check out the Algorithms](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Differential-Privacy-Synthetic-Data-Challenge-Algorithms)**
 
-## Differentially Private Stochastic Gradient Descent (DP-SGD) 
+## Differentially Private Stochastic Gradient Descent (DP-SGD)
 
 **Keywords:** Differential Privacy, Machine Learning
 
@@ -93,11 +93,11 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Private-Aggregation-of-Teacher-Ensembles-PATE)** | **[Link to Tool](https://github.com/tensorflow/privacy/tree/master/research)**
 
-## Visa Pets Federated Learning
+## puffle
 
-**Keywords:** Differential Privacy, Machine Learning, Privacy Preservering Computation, MPC
+**Keywords:** Differential Privacy, Machine Learning, Federated Learning, Model Personalization
 
-**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/visa-pets-FL)** | **[Link to Tool](https://github.com/Visa-Research/visa-pets-FL)**
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/puffle)** | **[Link to Tool](https://github.com/kenziyuliu/pets-challenge)**
 
 ## Scarlet-PETs: Anomaly Detection via Privacy-Enhanced Two-Step Federated Learning
 
@@ -105,4 +105,8 @@ Contributions are listed in alphabetical order.
 
 **[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/Scarlet-PETs)** | **[Link to Tool](https://github.com/idsla/Scarlet-PETs)**
 
+## Visa Pets Federated Learning
 
+**Keywords:** Differential Privacy, Machine Learning, Privacy Preservering Computation, MPC
+
+**[More Information](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/de-identification/visa-pets-FL)** | **[Link to Tool](https://github.com/Visa-Research/visa-pets-FL)**
