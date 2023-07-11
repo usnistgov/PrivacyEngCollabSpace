@@ -18,6 +18,6 @@
     - **Machine learning and AI**. Test if your training data is properly anonymized so you don't inadvertently include sensitive user information (bonus: implement the package as a pre-training evaluation step in your code or use it in CI/CD).
     - **Happy compliance folks**. Drop the endless explaining to your compliance team, just show and prove your data is safe to use.
 
-**GitHub User Serving as POC:** @astronomous
+**GitHub User Serving as POC:** @[astronomous]
 
 **Keywords:** Differential Privacy, K-Anonymity, Anonymization, Information Leakage, Algorithmic Fairness, Machine Learning, Pseudonimization, Data Usability
