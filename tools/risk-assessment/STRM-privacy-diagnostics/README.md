@@ -7,7 +7,10 @@
 
 **Brief Description:**  STRM Privacy Diagnostics is a simple Python package to quickly run privacy metrics on your data. Obtain the K-anonimity, L-diversity and T-closeness to asses how anonymous your data is (pre- or post processing), and how it's balanced with data usability. Privacy Diagnostics is intented as an extension to the STRM platform, which allows you to collaborate with stakeholders on setting policy to data (using a **data contract**) and applying the transformations to dedicated sinks with the contract as machine-interpretable instruction.
 
-**Additional Notes:** 
+**Additional Notes:**
+- Leverage this package in the **NIST Privacy Framework** for the following sub-categories:
+    - CT.DP-P1: Data are processed in an unobservable or unlinkable manner (e.g., data actions take place on local devices, privacy-preserving cryptography).
+    - CT.DP-P2: Data are processed to limit the identification of individuals (e.g., de-identification privacy techniques, tokenization).
 - An [A - Z demo notebook](https://deepnote.com/workspace/STRM-demos-2614c69d-1aae-4c75-a0b8-ee631006da30/project/Data-team-in-a-day-with-STRM-eb9f78ee-b796-48e5-b1ff-b77815a3952a/notebook/Anonymisation%20pipelines%20with%20STRM%20Privacy-681be7708cf844589c24db36e0a5d2d9) of using STRM and leveraging Privacy Diagnostics to measure anonymity.
 - [STRM documentation](https://docs.strmprivacy.io/docs/latest/overview)
 - [STRM open sourced repos](https://github.com/strmprivacy)
