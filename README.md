@@ -88,7 +88,7 @@ This platform is provided as a public service. Information, data, and software p
 
 **David Darais [@davdar]:** David Darais is a Principal Scientist at Galois, Inc. and supports NIST as a moderator for the Privacy Engineering Collaboration Space. David's research focuses on tools for achieving reliable software in critical, security-sensitive, and privacy-sensitive systems. David received his B.S. from the University of Utah, M.S. from Harvard University and Ph.D. from the University of Maryland.
 
-### Privacy Risk Management Moderator
+### Privacy Risk Management Moderators
 
 ![Nakia Grayson](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/nakia-grayson.jpeg)
 
