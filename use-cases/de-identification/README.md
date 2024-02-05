@@ -1,3 +1,3 @@
-# De-identification Use Cases
+# Disassociability Use Cases
 
 Contributions are listed in alphabetical order.
