@@ -90,7 +90,7 @@ This platform is provided as a public service. Information, data, and software p
 
 ### Privacy Risk Management Moderators
 
-![Nakia Grayson](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/nakia-grayson.jpeg)
+![Nakia Grayson](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/nakia-grayson.jpg)
 
 **Nakia Grayson [@ngrayson1]:** Nakia Grayson is an IT Security Specialist with the Privacy Engineering Program at the National Institute of Standards and Technology (NIST). She supports the Privacy Engineering Program with development of privacy risk management best practices, guidance and communications efforts. She also leads Supply Chain Assurance project efforts at the National Cybersecurity Center of Excellence (NCCoE). Nakia serves as the Contracting Officer Representative for NIST cybersecurity contracts. She holds a Bachelor’s in Criminal Justice from University of Maryland-Eastern Shore and a Master’s in Information Technology, Information Assurance and Business Administration from the University of Maryland University College.
 
