@@ -10,11 +10,11 @@ NIST is accepting the following contributions.
 **Feedback:** Help the community. Provide feedback on tools and use cases.
 
 ## Contribution Focus Areas
-Please limit your contributions to the topics of de-identification or privacy risk assessment. We welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
+Please limit your contributions to the topics of disassociability or privacy risk assessment. We welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
 
-**De-identification:** a technique or process applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. This focus area includes a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
+**Disassociability:** This focus area can help system designers and engineers consider how to enable the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system. These tools and use cases also support the achievement of the Dissociated Processing Subcategory (CT.DP.P) of the NIST Privacy Framework. 
 
-**Privacy Risk Assessment:** a process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors.
+**Privacy Risk Assessment:** A process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors.
 
 # How to Contribute
 
@@ -28,7 +28,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 3. In your branch: 
 
-	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-assessment, use-cases/de-identification, or use-cases/risk-assessment. Example: *tools/de-identification/[your-contribution-name]*
+	A. Create a new directory within the relevant tool or use case directory: tools/disassociability, tools/risk-assessment, use-cases/disassociability, or use-cases/risk-assessment. Example: *tools/disassociability/[your-contribution-name]*
 
 	B. Name the directory to describe your contribution. 
 
