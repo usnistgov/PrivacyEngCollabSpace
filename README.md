@@ -2,9 +2,9 @@
 The NIST Privacy Engineering Collaboration Space is an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.
 
 ## Focus Areas
-We have launched this space with an initial focus on de-identification and privacy risk assessment tools and use cases, and welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
+We have launched this space with an initial focus on disassociability and privacy risk assessment tools and use cases, and welcome [feedback](mailto:collabspace@nist.gov) on topics of interest from the community. 
 
-* **De-identification:** a technique or process applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. This focus area includes a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
+* **Disassociability:** a technique or process applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. This focus area includes a broad scope of disassociability to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
 
 * **Privacy Risk Assessment:** a process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors. 
 
@@ -26,7 +26,7 @@ Tools and use cases are contributed via pull requests, while feedback is contrib
 
 3. In your branch: 
 
-	A. Create a new directory within the relevant tool or use case directory: tools/de-identification, tools/risk-assessment, use-cases/de-identification, or use-cases/risk-assessment. Example: *tools/de-identification/[your-contribution-name]*
+	A. Create a new directory within the relevant tool or use case directory: tools/disassociability, tools/risk-assessment, use-cases/disassociability, or use-cases/risk-assessment. Example: *tools/disassociability/[your-contribution-name]*
 
 	B. Name the directory to describe your contribution. 
 
@@ -52,7 +52,7 @@ Submit an [issue](https://github.com/usnistgov/PrivacyEngCollabSpace/issues/new)
 
 ## Browse Tools and Use Cases
 
-Interested in tools or use cases for de-identification and privacy risk assessment? **Browse the contributions [here](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
+Interested in tools or use cases for disassociability and privacy risk assessment? **Browse the contributions [here](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/browse).**
 
 ## Operating Rules 
 
@@ -78,7 +78,7 @@ This platform is provided as a public service. Information, data, and software p
 
 ## Moderators 
 
-### De-Identification Moderators
+### Disassociability Moderators
 
 ![Joseph Near](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/joseph-near.jpg)
 
@@ -90,9 +90,13 @@ This platform is provided as a public service. Information, data, and software p
 
 ### Privacy Risk Management Moderator
 
-![Katie Boeckl](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/katie-boeckl.jpg)
+![Nakia Grayson](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/NakiaGrayson.png)
 
-**Katie Boeckl [@kboeckl]:** Katie Boeckl is a privacy risk strategist at NIST. As part of the Privacy Engineering Program, Katie develops privacy risk management guidance, collaborates on the development of international privacy standards, and works to advance tools for privacy engineering and risk management. Katie has a B.A. in English from the University of Maryland, College Park, where she specialized in technology through a digital cultures honors program.
+**Nakia Grayson [@ngrayson1]:** Nakia Grayson is an IT Security Specialist with the Privacy Engineering Program at the National Institute of Standards and Technology (NIST). She supports the Privacy Engineering Program with development of privacy risk management best practices, guidance and communications efforts. She also leads Supply Chain Assurance project efforts at the National Cybersecurity Center of Excellence (NCCoE). Nakia serves as the Contracting Officer Representative for NIST cybersecurity contracts. She holds a Bachelor’s in Criminal Justice from University of Maryland-Eastern Shore and a Master’s in Information Technology, Information Assurance and Business Administration from the University of Maryland University College.
+
+![Meghan Anderson](https://github.com/usnistgov/PrivacyEngCollabSpace/blob/master/assets/MAanderson_Headshot.jpeg)
+
+**Meghan Anderson [@manderson11]:** Meghan Anderson is a Privacy Risk Strategist with the Privacy Engineering Program at the National Institute of Standards and Technology, U.S. Department of Commerce. She supports the development of privacy engineering, international privacy standards, and privacy risk management guidance. Meghan has a Bachelor’s in Emergency Preparedness, Homeland Security, and Cybersecurity with a concentration in Cybersecurity and a minor in Economics from the University of Albany, SUNY and a Master’s in Cybersecurity from the Georgia Institute of Technology (Georgia Tech).
 
 ## NIST Privacy Engineering Program
 Learn about NIST's Privacy Engineering Program by visiting our [website](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering).
