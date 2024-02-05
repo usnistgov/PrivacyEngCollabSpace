@@ -1,9 +1,9 @@
 # Focus Areas
-Tools and use cases are currently focused on de-identification and privacy risk assessment. We welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
+Tools and use cases are currently focused on disassociability and privacy risk assessment. We welcome [feedback](mailto:collabspace@nist.gov) on future topics of interest.
 
-**De-identification:** a technique or process applied to a dataset with the goal of preventing or limiting certain types of privacy risks to individuals, protected groups, and establishments, while still allowing for the production of aggregate statistics. This focus area includes a broad scope of de-identification to allow for noise-introducing techniques such as differential privacy, data masking, and the creation of synthetic datasets that are based on privacy-preserving models.
+**Disassociability:** This focus area can help system designers and engineers consider how to enable the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system. These tools and use cases also support the achievement of the Dissociated Processing Subcategory (CT.DP.P) of the NIST Privacy Framework. 
 
-**Privacy Risk Assessment:** a process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors.
+**Privacy Risk Assessment:** A process that helps organizations to analyze and assess privacy risks for individuals arising from the processing of their data. This focus area includes, but is not limited to, risk models, risk assessment methodologies, and approaches to determining privacy risk factors.
 
 # Contribute Feedback 
 
