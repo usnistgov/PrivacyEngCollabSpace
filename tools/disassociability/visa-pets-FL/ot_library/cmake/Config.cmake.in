@@ -1,0 +1,13 @@
+@PACKAGE_INIT@
+
+include("${CMAKE_CURRENT_LIST_DIR}/dropOtTargets.cmake")
+
+include("${CMAKE_CURRENT_LIST_DIR}/findDependancies.cmake")
+
+
+get_target_property(dropOt_INCLUDE_DIRS visa::dropOt INTERFACE_INCLUDE_DIRECTORIES)
+
+get_target_property(dropOt_LIBRARIES visa::dropOt LOCATION)
+
+message("dropOt_INCLUDE_DIRS=${dropOt_INCLUDE_DIRS}")
+message("dropOt_LIBRARIES=${dropOt_LIBRARIES}")
