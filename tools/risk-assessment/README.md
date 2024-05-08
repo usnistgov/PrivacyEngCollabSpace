@@ -5,9 +5,9 @@ Contributions are listed in alphabetical order.
 
 **[Link to tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/risk-assessment/FAIR-Privacy)**
 
-## Models of Applied Privacy (MAP)
+## Comcast xCompass
 
-**[Link to tool](https://github.com/Comcast/MAP)**
+**[Link to tool](https://github.com/Comcast/xCompass)**
 
 ## NIST Privacy Risk Assessment Methodology (PRAM)
 
