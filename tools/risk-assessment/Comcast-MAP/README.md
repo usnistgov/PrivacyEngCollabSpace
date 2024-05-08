@@ -1,11 +1,10 @@
-# Models of Applied Privacy (MAP) 
+# Comcast xCompass 
 
-**Name of Tool:** MAP (Personas) and xCOMPASS (Questionnaire)
+**Name of Tool:** xCOMPASS Questionnaire
 
 **Primary Focus Area:** Privacy Threat Modeling
 
-**Brief Description:** Models of Applied Privacy (MAP) is a privacy threat modeling framework, built on top of LINDDUN and NIST Privacy Risk Assessment Methodology. It uses personas to contextualize threats, by considering potential privacy threats as a combination of threat actor (both malicious and benign), mechanism of attack, and probable impact. To better frame these threats, MAP is accompanied by xCOMPASS, which is an assessment based on these various privacy threat personas. A user may choose to either play the card version, by creating different persona combinations and developing their own threats. They can also use xCOMPASS directly as an assessment to model different privacy threats to their application. For more information on xCOMPASS, please use the link below.  
-
+**Brief Description:** xCOMPASS is a questionnaire developed from Models of Applied Privacy (MAP) personas so that threat modelers can ask specific and targeted questions covering a range of privacy threats. Each question is linked to a persona, built on top of LINDDUN and NIST Privacy Risk Assessment Methodology. xCompass contextualizes threats, by considering potential privacy threats as a combination of threat actor (both malicious and benign), mechanism of attack, and probable impact. Teams can use xCOMPASS directly as an assessment to model different privacy threats to their application. For more information on xCOMPASS, please use the link below.  
 
 **GitHub User Serving as POC (or Email Address):** @[0spider](https://github.com/0spider), @[devjayati](https://github.com/devjayati/)
 
@@ -13,4 +12,4 @@
 
 ## More information
 
-**Tool Link:** https://github.com/Comcast/MAP 
+**Tool Link:** [https://github.com/Comcast/MAP ](https://github.com/Comcast/xCompass)
